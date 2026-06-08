@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>科学、财富与地理 — 全球知识生产的隐秘秩序</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+</head>
+
+<body>
+    <!-- ===== Sticky 顶部组 ===== -->
+    <div class="sticky-header-group">
+        <header class="site-header">
+            <div class="header-left">
+                <h1 class="site-title">科学、财富与地理 — 全球知识生产的隐秘秩序</h1>
+                <p class="site-subtitle">Nature Human Behaviour (2022) · 交互式数据叙事</p>
+            </div>
+        </header>
+
+        <!-- ===== Sticky 章节导航 ===== -->
+        <nav class="section-nav">
+            <a href="#section-cover">封面</a>
+            <a href="#section-intro">引言</a>
+            <a href="#section-worldmap">全球分布</a>
+            <a href="#section-network">学科结构</a>
+            <a href="#section-trajectory">发展路径</a>
+            <a href="#section-evolution">结构演变</a>
+            <a href="#section-conclusion">结论</a>
+        </nav>
+    </div>
+
+    <main class="narrative-main">
+
+        <!-- ===== 封面 ===== -->
+        <section id="section-cover" class="narrative-section cover-section">
+            <div class="cover-content">
+                <p class="cover-eyebrow fade-up">Nature Human Behaviour, Vol 6, 2022 · pp 1206–1217</p>
+                <h1 class="cover-title fade-up delay-1">科学、财富与地理<br><em>— 全球知识生产的隐秘秩序</em></h1>
+                <p class="cover-subtitle fade-up delay-2">The Latent Structure of Global Scientific Development</p>
+                <p class="cover-attribution fade-up delay-2">
+                    Lili Miao · Dakota Murray · Woo-Sung Jung · Vincent Larivière<br>
+                    Cassidy R. Sugimoto · Yong-Yeol Ahn
+                </p>
+
+                <div class="cover-roadmap fade-up delay-3">
+                    <p class="roadmap-intro">四幕数据叙事，带你看清一个隐藏在3500万篇论文背后的世界：</p>
+                    <div class="roadmap-steps">
+                        <div class="roadmap-step">
+                            <span class="roadmap-num">01</span>
+                            <div>
+                                <strong>谁在研究什么？</strong>
+                                <span>科学能力的世界地图 · 国家优劣势 · 四十年变迁</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-step">
+                            <span class="roadmap-num">02</span>
+                            <div>
+                                <strong>学科为什么"扎堆"？</strong>
+                                <span>知识之间的引力 · 三大集群的诞生 · 学科关联图谱</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-step">
+                            <span class="roadmap-num">03</span>
+                            <div>
+                                <strong>穷国能否突围？</strong>
+                                <span>国家科研路径 · 关联性的引力与枷锁 · 收入组的命运分叉</span>
+                            </div>
+                        </div>
+                        <div class="roadmap-step">
+                            <span class="roadmap-num">04</span>
+                            <div>
+                                <strong>这个世界在变好吗？</strong>
+                                <span>结构的四十年演化 · 等级在松动，但围墙在升高</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <p class="cover-scroll-hint">⌄ 向下滚动，开启一段关于科学、财富与地理的数据叙事</p>
+            </div>
+        </section>
+
+        <!-- ===== 引言 ===== -->
+        <section id="section-intro" class="narrative-section intro-section">
+            <div class="prose-block fade-up">
+                <h2>有些国家，注定只研究某些科学？</h2>
+                <p>1973 年，全球约 80% 的科学论文产自北美和西欧。到 2017 年，这一比例降至不足 50%。中国从一个边缘参与者跃升为全球最大论文产出国；韩国的科研投入占 GDP 之比从 0.5% 攀升至
+                    4.5%；而撒哈拉以南非洲的许多国家，科学产出几乎停滞。</p>
+                <p>但这背后藏着一个更深的问题：<strong>一个国家研究什么，真的是它自由选择的吗？</strong></p>
+                <p>热带国家天然擅长昆虫学；前殖民地在考古学上留下与宗主国迥异的印记；富裕国家垄断了昂贵的癌症研究，而穷国则聚焦于更紧迫的农业和传染病——这种规律，仿佛是某种无形的手在分配全球知识生产的版图。</p>
+                <p>Miao
+                    等人（2022）用一种脱胎于国际贸易理论的框架，试图将这种直觉转化为可量化的答案。他们把科学学科想象成国家"出口"的"产品"：一国若在某学科的发表比例，<strong>超过该学科在全球的平均份额</strong>，就拥有"比较优势"——就像德国擅长汽车，肯尼亚擅长长跑一样。
+                </p>
+                <p>基于 <strong>217 个国家、143 个学科</strong>，跨越 <strong>1973–2017</strong> 年的 <strong>3,579
+                        万篇</strong>论文，他们绘制出一张前所未有的全球知识地图。以下四个章节，就是这张地图的故事。</p>
+            </div>
+        </section>
+
+        <!-- ===== 第一章：世界地图 · 国家概况 ===== -->
+        <section id="section-worldmap" class="narrative-section viz-section">
+            <div class="section-divider fade-up"><span>第一章</span></div>
+            <div class="prose-block fade-up delay-1">
+                <h2>这张地图，藏着你没想到的答案</h2>
+                <p>打开一幅全球科学产出的地图，你首先看到的是<strong>极度的不平等</strong>——美国、中国、英国、德国等国家在数据里反复出现，而大量国家在统计上几乎为零。但这只是表象。</p>
+                <p>更重要的问题是：各国科学<strong>擅长的究竟是什么</strong>？</p>
+                <p>这里用到的核心工具，叫做<strong>显性比较优势（RCA）</strong>——如果一个国家在某个学科上发表的论文比例，超过了全球平均水平，它就在这个学科上有"比较优势"。RCA
+                    值越高，优势越明显；拥有优势的学科越多，科学组合越多样。</p>
+                <p>这个逻辑就像贸易里的"比较优势"——日本不是唯一能造汽车的国家，但它在汽车工业的专注程度，让它在全球汽车出口中占据了独特位置。在学术界也是如此：<strong>巴西在热带农业的发展，远比它在物理学的研究更强。</strong>
+                </p>
+                <p>地图中每个国家的颜色深浅，反映了它的 RCA
+                    水平（越红越高，越蓝越低）。在这张图中点击任意国家，可以查看它的学科优势分布和四十年的成长轨迹。<strong>切换时间段，也能观察哪些国家正在悄悄崛起。</strong></p>
+            </div>
+
+            <!-- 横向控制栏 -->
+            <div class="viz-controls-horizontal" id="section-worldmap-controls">
+                <div class="control-inline">
+                    <label class="control-label-inline">时间</label>
+                    <select id="m2-timeInterval" class="control-select-inline">
+                        <option value="1973-1977">1973-1977</option>
+                        <option value="1978-1982">1978-1982</option>
+                        <option value="1983-1987">1983-1987</option>
+                        <option value="1988-1992">1988-1992</option>
+                        <option value="1993-1997">1993-1997</option>
+                        <option value="1998-2002">1998-2002</option>
+                        <option value="2003-2007">2003-2007</option>
+                        <option value="2008-2012">2008-2012</option>
+                        <option value="2013-2017" selected>2013-2017</option>
+                    </select>
+                </div>
+                <div class="control-inline">
+                    <label class="control-label-inline">集群</label>
+                    <div class="btn-row">
+                        <button class="ctrl-btn active" data-cluster="all">全部</button>
+                        <button class="ctrl-btn" data-cluster="Natural">自然</button>
+                        <button class="ctrl-btn" data-cluster="Physical">物理</button>
+                        <button class="ctrl-btn" data-cluster="Societal">社会</button>
+                    </div>
+                </div>
+                <div class="control-inline">
+                    <label class="control-label-inline">学科</label>
+                    <select id="m2-disciplineSelect" class="control-select-inline">
+                        <option value="all">全部学科</option>
+                    </select>
+                </div>
+                <div class="control-inline">
+                    <label class="control-label-inline">模式</label>
+                    <div class="btn-row">
+                        <button class="ctrl-btn active" data-mode="rca">RCA值</button>
+                        <button class="ctrl-btn" data-mode="binary">优势/劣势</button>
+                        <button class="ctrl-btn" data-mode="papers">出版物</button>
+                        <button class="ctrl-btn" data-mode="diversity">多样性</button>
+                    </div>
+                </div>
+                <div class="control-inline">
+                    <label class="control-label-inline">演化</label>
+                    <div class="playback-row">
+                        <button id="m2-playBtn" class="play-btn">
+                            <svg width="16" height="16" viewBox="0 0 16 16">
+                                <polygon points="2,0 2,16 14,8" fill="currentColor" />
+                            </svg>
+                        </button>
+                        <input type="range" id="m2-timeline" class="timeline" min="0" max="8" value="8">
+                    </div>
+                </div>
+            </div>
+
+            <!-- 地图 + 图例 -->
+            <div class="viz-body">
+                <div class="map-card">
+                    <div class="map-header">
+                        <h2 id="m2-mapTitle" class="map-title">全球 RCA 分布地图</h2>
+                        <div class="map-stats">
+                            <span id="m2-currentInterval" class="stat-item">2013-2017</span>
+                            <span id="m2-countryCount" class="stat-item">国家数: 0</span>
+                        </div>
+                    </div>
+                    <div id="m2-worldMap" class="world-map-scroll"></div>
+                    <div id="m2-countryTooltip" class="country-tooltip"></div>
+                    <div id="m2-legendContent" class="legend-content-inline"></div>
+                </div>
+
+                <!-- 排名表 -->
+                <div class="ranking-card">
+                    <h3 class="section-title">国家排名</h3>
+                    <div class="ranking-controls">
+                        <button class="rank-btn active" data-sort="papers">出版物</button>
+                        <button class="rank-btn" data-sort="diversity">多样性</button>
+                        <button class="rank-btn" data-sort="gdp">GDP</button>
+                        <button class="rank-btn" data-sort="eci">ECI</button>
+                    </div>
+                    <div class="table-wrap">
+                        <table class="data-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>国家</th>
+                                    <th>出版物</th>
+                                    <th>多样性</th>
+                                    <th>GDP (亿)</th>
+                                    <th>ECI</th>
+                                </tr>
+                            </thead>
+                            <tbody id="m2-rankingTable"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 国家详情滑出面板 -->
+            <div id="m2-countryDetail" class="slide-panel hidden">
+                <button class="slide-close" id="m2-closeDetail">&times;</button>
+                <div class="slide-content">
+                    <div class="detail-header">
+                        <h2 id="m2-countryName" class="country-name">选择一个国家</h2>
+                    </div>
+                    <div class="metrics-grid">
+                        <div class="metric-card">
+                            <div class="metric-label">GDP</div>
+                            <div id="m2-countryGDP" class="metric-value">-</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-label">出版物</div>
+                            <div id="m2-countryPapers" class="metric-value">-</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-label">多样性</div>
+                            <div id="m2-countryDiversity" class="metric-value">-</div>
+                        </div>
+                        <div class="metric-card">
+                            <div class="metric-label">ECI</div>
+                            <div id="m2-countryECI" class="metric-value">-</div>
+                        </div>
+                    </div>
+                    <div class="chart-container">
+                        <h3 class="chart-title">学科 RCA 分布</h3>
+                        <div id="m2-rcaChart" class="rca-chart"></div>
+                    </div>
+                    <div class="chart-container">
+                        <h3 class="chart-title">三大集群 RCA 雷达图</h3>
+                        <div id="m2-radarChart" class="radar-chart"></div>
+                    </div>
+                    <div class="chart-container">
+                        <h3 class="chart-title">科学多样性趋势</h3>
+                        <div id="m2-trendChart" class="trend-chart"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第二章：学科结构 · 关联网络 ===== -->
+        <section id="section-network" class="narrative-section viz-section">
+            <div class="section-divider fade-up"><span>第二章</span></div>
+            <div class="prose-block fade-up delay-1">
+                <h2>为什么物理学家和工程师总是"同一国"的？</h2>
+                <p>地图告诉我们谁擅长什么，但没有回答另一个问题：<strong>学科之间，是不是存在某种"引力"？</strong></p>
+                <p>比如——擅长物理学的国家，通常也擅长工程，却未必擅长社会学。擅长农业的国家，往往在昆虫学上也很强，却很少在精神病学上有建树。这不是巧合，而是因为这些学科需要<strong>相似的能力基础</strong>——相同的人才培养体系、相似的实验室设备、相通的研究文化。
+                </p>
+                <p>这就像产业经济学里的"产品空间"理论：汽车制造和发动机制造需要相似的工厂和工人，所以它们往往在同一个国家同时出现。在学术界，如果两个学科经常在同一个国家"同时繁荣"，它们之间就有更高的<strong>邻近度</strong>。
+                </p>
+                <p>研究团队分析了全部 143 个学科之间的邻近关系，用社区发现算法运行了 100 次——每次都收敛到完全相同的结果：<strong>三个稳定的集群</strong>，清晰地将人类知识分成三个"大陆"：
+                </p>
+                <ul class="cluster-list">
+                    <li><span class="cluster-dot" style="background:#2c7a4e"></span> <strong>自然集群</strong>（46
+                        学科）：深植于土地与生命——地质学、农业、昆虫学，以及贫困地区高发的营养不良和寄生虫病。<em>这是一片"资源决定命运"的大陆。</em></li>
+                    <li><span class="cluster-dot" style="background:#2166ac"></span> <strong>物理集群</strong>（36
+                        学科）：以数学和物理定律为骨架——化学、工程、材料科学、航空航天。<em>这是工业文明的知识底座。</em></li>
+                    <li><span class="cluster-dot" style="background:#b2182b"></span> <strong>社会集群</strong>（61
+                        学科）：以"人"为核心——临床医学、心理学、教育、社会学、国际关系。<em>这是财富积累之后，社会开始审视自身的标志。</em></li>
+                </ul>
+                <p>在下面的图中，边阈值的变化，会影响学科强关联与弱关联的变化；通过节点，可以看出单个学科的发文趋势以及学科之间的关系网络。<em>只有高于阈值的边才会被保留，以显示更强的学科关系。</em></p>
+            </div>
+
+            <div class="viz-body">
+                <div class="discipline-topbar">
+                    <div>
+                        <h3 class="discipline-title-inline">学科邻近网络 · 力导向交互图</h3>
+                    </div>
+                    <div class="discipline-controls-row">
+                        <label>边阈值 <input id="m3-edge-threshold" type="range" min="0" max="95" value="35" step="1">
+                            <span id="m3-edge-threshold-label">35%</span></label>
+                        <button id="m3-export-svg" class="export-btn">SVG</button>
+                        <button id="m3-export-png" class="export-btn">PNG</button>
+                    </div>
+                </div>
+                <div class="network-note">
+                    <span>线条只显示当前阈值以上的强关联</span>
+                    <span>没有连线 ≠ 没有关系，只是关系较弱，暂时隐去</span>
+                </div>
+                <div id="m3-cluster-summary" class="cluster-summary"></div>
+                <div id="m3-legend" class="discipline-legend"></div>
+                <div class="network-root-wrapper">
+                    <div id="m3-network-root" class="network-root"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 成员三：学科详情滑出卡片 -->
+        <div id="m3-disciplinePanel" class="slide-panel hidden">
+            <button class="slide-close" id="m3-closeDetail">&times;</button>
+            <div class="slide-content">
+                <div class="detail-header">
+                    <h2 id="m3-disciplineName" class="country-name">选择一个学科</h2>
+                    <span id="m3-disciplineCluster" class="cluster-badge"></span>
+                </div>
+                <div class="metrics-grid">
+                    <div class="metric-card">
+                        <div class="metric-label">集群</div>
+                        <div id="m3-detailCluster" class="metric-value">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-label">集群含义</div>
+                        <div id="m3-detailClusterDesc" class="metric-value" style="font-size:0.72rem">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-label">总发文量</div>
+                        <div id="m3-detailPapers" class="metric-value">-</div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-label">最强关联</div>
+                        <div id="m3-detailTopLink" class="metric-value">-</div>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">最强关联学科 Top 5</h3>
+                    <div id="m3-discipline-related"></div>
+                </div>
+                <div class="chart-container">
+                    <h3 class="chart-title">发文趋势</h3>
+                    <div id="m3-trend-chart" class="trend-chart-area"></div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== 第三章：发展路径 · 三元轨迹（升级版） ===== -->
+        <section id="section-trajectory" class="narrative-section viz-section">
+            <div class="section-divider fade-up"><span>第三章</span></div>
+            <div class="prose-block fade-up delay-1">
+                <h2>起点，就是命运？</h2>
+                <p>知道了学科的三个集群之后，下一个问题是：<strong>各国能顺利推动学科进步吗？</strong></p>
+                <p>把每个国家的科研版图，按三大集群的占比投射到一个三角形里——靠近某个顶点，意味着该国的研究高度集中于那个集群；越靠近中心，代表三类学科越均衡。每一条箭头，就是一个国家在五年间走过的轨迹。</p>
+                <p>研究团队发现了一个规律，叫做<strong>"关联性原则"</strong>——你只能去你已经涉足的领域的"邻居"。一个只研究昆虫学和农业的国家，它能够涉及的其他学科大多也在自然集群里；它几乎没有途径直接跳到物理或社会集群的核心地带。
+                </p>
+                <p>模型预测，如果只靠关联性驱动，所有国家最终都应该向三角形中心移动，实现均衡。但实际上，<strong>低收入国家的路径，几乎原地不动。</strong>它们被困在自然集群的角落——因为缺少足够"邻近"的关联学科，它们没有途径来拓展学科发展。
+                </p>
+                <p>相比之下，中国的轨迹格外引人注目：从物理集群快速向中心均衡推进，科研版图持续拓宽。而许多非洲国家的箭头几乎静止。<strong>利用收入组筛选，可以看到一幅各国的发展路径图。</strong>
+                </p>
+            </div>
+
+            <!-- 状态条 -->
+            <div class="devo-status-strip">
+                <div><span id="m4-countryTotal">-</span><small>国家</small></div>
+                <div><span id="m4-intervalTotal">-</span><small>时期</small></div>
+                <div><span id="m4-trajectoryTotal">-</span><small>轨迹段</small></div>
+            </div>
+
+            <!-- 模式切换栏 -->
+            <div class="m4-mode-bar">
+                <div class="m4-mode-tabs">
+                    <button class="m4-mode-tab active" data-m4-mode-target="global" type="button">全球格局</button>
+                    <button class="m4-mode-tab" data-m4-mode-target="path" type="button">国家发展路径</button>
+                </div>
+                <div class="m4-global-time" id="m4-globalTimeRow">
+                    <label for="m4-intervalRange" class="control-label-inline">时间区间</label>
+                    <input id="m4-intervalRange" type="range" min="0" max="0" value="0">
+                    <strong id="m4-intervalLabel">-</strong>
+                    <span id="m4-visibleCount" style="color:var(--text-muted);font-size:12px">-</span>
+                </div>
+            </div>
+
+            <div class="viz-body m4-viz-body">
+                <!-- 侧边控制面板 -->
+                <div class="m4-controls-aside">
+                    <!-- 全球模式：收入组 -->
+                    <div class="m4-global-only">
+                        <span class="m4-control-title">收入组筛选</span>
+                        <div id="m4-incomeFilters" class="m4-check-list"></div>
+                    </div>
+                    <!-- 全球模式：图层 -->
+                    <div class="m4-global-only">
+                        <span class="m4-control-title">图层</span>
+                        <div class="m4-button-grid">
+                            <label><input id="m4-showDensity" type="checkbox" checked> 分布密度</label>
+                            <label><input id="m4-showLabels" type="checkbox"> 典型国家标注</label>
+                        </div>
+                    </div>
+                    <!-- 路径模式：国家选择 -->
+                    <div class="m4-path-only" style="display:none">
+                        <label for="m4-countrySelect" class="m4-control-title">国家</label>
+                        <select id="m4-countrySelect"></select>
+                    </div>
+                    <!-- 路径模式：轨迹图层 -->
+                    <div class="m4-path-only" style="display:none">
+                        <span class="m4-control-title">轨迹图层</span>
+                        <div class="m4-button-grid">
+                            <label><input id="m4-showActual" type="checkbox" checked> 实际轨迹</label>
+                            <label><input id="m4-showPredicted" type="checkbox" checked> 预测轨迹</label>
+                        </div>
+                    </div>
+                    <!-- 路径模式：国家指标 -->
+                    <div class="m4-path-only" style="display:none">
+                        <span class="m4-control-title">国家详情</span>
+                        <div id="m4-metricPanel" class="m4-metric-panel"></div>
+                    </div>
+                </div>
+
+                <!-- 主工作区 -->
+                <div class="m4-workspace">
+                    <!-- 地图（全球模式） -->
+                    <div class="m4-map-shell m4-global-only">
+                        <div class="m4-map-topline">
+                            <div>
+                                <h3>地理分布</h3>
+                                <p>国家颜色表示当前时期的主导学科集群。点击国家可进入其发展路径。</p>
+                            </div>
+                            <div class="m4-map-legend" id="m4-mapLegend"></div>
+                        </div>
+                        <svg id="m4-worldMap" role="img" aria-label="国家科学结构地理分布图"></svg>
+                        <div id="m4-mapTooltip" class="m4-tooltip"></div>
+                    </div>
+
+                    <!-- 三元图外壳 -->
+                    <div class="m4-chart-shell">
+                        <div class="m4-chart-topline">
+                            <div>
+                                <h3 id="m4-chartHeading">全球三元分布</h3>
+                                <p id="m4-chartDescription">每个点代表当前时期的一个国家。</p>
+                            </div>
+                            <div>
+                                <div class="m4-legend" id="m4-legend"></div>
+                                <p id="m4-methodNote"
+                                    style="max-width:470px;text-align:right;color:var(--text-muted);font-size:12px;line-height:1.45;margin:4px 0 0">
+                                </p>
+                            </div>
+                        </div>
+                        <!-- 全球三元图 -->
+                        <svg id="m4-ternaryChart" class="m4-global-only" role="img" aria-label="国家科学结构全球三元分布图"></svg>
+                        <!-- 路径模式：双图 -->
+                        <div id="m4-pathChartGrid" class="m4-path-chart-grid m4-path-only" style="display:none">
+                            <div class="m4-path-chart-panel">
+                                <div class="m4-path-chart-heading">
+                                    <h3>全球平均发展流场</h3>
+                                    <p>同一空间网格内所有国家与时期的移动均值。</p>
+                                </div>
+                                <svg id="m4-flowChart" role="img" aria-label="全球科学发展平均流场图"></svg>
+                            </div>
+                            <div class="m4-path-chart-panel">
+                                <div class="m4-path-chart-heading">
+                                    <h3 id="m4-countryPathTitle">国家发展轨迹</h3>
+                                    <p>编号表示时期先后，紫色虚线表示模型预测。</p>
+                                </div>
+                                <svg id="m4-countryPathChart" role="img" aria-label="单个国家科学发展轨迹图"></svg>
+                            </div>
+                        </div>
+                        <div id="m4-tooltip" class="m4-tooltip"></div>
+                    </div>
+
+                    <!-- 说明面板 -->
+                    <div class="m4-lower-panel">
+                        <div>
+                            <h4>怎么读这张图</h4>
+                            <p>越靠近某个顶点，该国研究越集中于该集群；越靠近中心，三类学科越均衡多元。</p>
+                        </div>
+                        <div>
+                            <h4>实线 vs 虚线</h4>
+                            <p>实线是实际轨迹；虚线是"只靠知识邻近驱动"的模型预测——看看现实与理想偏离多远。</p>
+                        </div>
+                        <div>
+                            <h4>最关键的发现</h4>
+                            <p>低收入国家被"困"在自然集群；中国是从物理集群向中心推进最快的国家之一。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 第四章：网络结构演变与关联分析（成员五） ===== -->
+        <section id="section-evolution" class="narrative-section viz-section">
+            <div class="section-divider fade-up"><span>第四章</span></div>
+            <div class="prose-block fade-up delay-1">
+                <h2>全球科学正在变好——还是变复杂？</h2>
+                <p>前三章都是在研究某一时期，世界是什么样的。这一章要拉长时间轴，看看这个<strong>结构本身在过去四十余年里如何演变</strong>。</p>
+                <p>研究用两把尺子来衡量这种变化：</p>
+                <ul style="margin:0.8rem 0 0.8rem 1.5rem;color:var(--text-secondary);">
+                    <li><strong>嵌套性（Nestedness）</strong>：衡量"金字塔程度"——这个值越高，意味着少数强国在几乎所有学科都占优，多数弱国只在少数学科有一席之地。想象一座严格的学术权力金字塔。
+                    </li>
+                    <li><strong>模块性（Modularity）</strong>：衡量"割裂程度"——这个值越高，意味着各学科集群之间的壁垒越森严，跨集群的交流和拓展越困难。</li>
+                </ul>
+                <p>四十年来，这两个指标走出了截然相反的轨迹：<strong>金字塔在松动</strong>（嵌套性持续下降），但<strong>围墙在升高</strong>（模块性稳步上升）。全球科学越来越不像一个少数精英垄断一切的系统，却越来越像一个各自为政、壁垒分明的割据格局。
+                </p>
+                <p>对于那些试图突围的低收入国家而言，这是一个两重世界：表面上，等级森严的旧秩序正在瓦解，机会窗口正在打开；但实际上，学科集群之间的隔阂正在加深，跨越知识鸿沟变得越来越难。</p>
+                <p>此外，数据揭示了一个令人深思的因果关系：<strong>是经济发展推动了科学多样性，而非反过来</strong>——这意味着，靠单纯加大科研投入来实现科学突破，可能远没有发展经济来得有效。</p>
+            </div>
+
+            <!-- 控制栏 -->
+            <div class="viz-controls-horizontal" id="section-evolution-controls">
+                <div class="control-inline">
+                    <label class="control-label-inline">时间区间</label>
+                    <select id="intervalSelect" class="control-select-inline"></select>
+                </div>
+                <div class="control-inline" id="viewTabs">
+                    <label class="control-label-inline">视图</label>
+                    <div class="btn-row">
+                        <button class="view-tab ctrl-btn active" data-view="paper">还原论文图表</button>
+                        <button class="view-tab ctrl-btn" data-view="custom">自由探索</button>
+                    </div>
+                </div>
+                <div class="control-inline" id="customControls" style="display:none;">
+                    <label class="control-label-inline">X轴</label>
+                    <select id="scatterXSelect" class="control-select-inline">
+                        <option value="Publications">出版物数量</option>
+                        <option value="GDP">GDP</option>
+                        <option value="ECI">ECI</option>
+                        <option value="Diversity">科学多样性</option>
+                    </select>
+                    <label class="control-label-inline">Y轴</label>
+                    <select id="scatterYSelect" class="control-select-inline">
+                        <option value="Diversity" selected>科学多样性</option>
+                        <option value="Publications">出版物数量</option>
+                        <option value="GDP">GDP</option>
+                        <option value="ECI">ECI</option>
+                    </select>
+                </div>
+                <div class="control-inline">
+                    <div id="corrBadges" style="display:flex;gap:0.4rem;flex-wrap:wrap;"></div>
+                </div>
+            </div>
+
+            <div class="viz-body">
+                <!-- 论文复现图视图 -->
+                <div id="paperView" class="m5-view-container">
+
+                    <!-- Figure 4 -->
+                    <section class="m5-section section" id="paper-fig4">
+                        <div class="m5-chart-grid cols-2">
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>科学等级的松动：嵌套性四十年趋势</span></div>
+                                <div id="fig4bChart" class="m5-chart-frame"></div>
+                            </div>
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>知识围墙的升高：模块性四十年趋势</span></div>
+                                <div id="fig4dChart" class="m5-chart-frame"></div>
+                            </div>
+                        </div>
+                    </section>
+
+                    <!-- Figure 5 -->
+                    <section class="m5-section section" id="paper-fig5">
+                        <div class="m5-chart-grid cols-1">
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>发表越多，科学越多元？</span></div>
+                                <div id="fig5aChart" class="m5-chart-frame"></div>
+                                <div class="m5-chart-caption" id="fig5aCaption"></div>
+                            </div>
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>富国发表更多——但不只是因为钱</span></div>
+                                <div id="fig5bChart" class="m5-chart-frame"></div>
+                                <div class="m5-chart-caption" id="fig5bCaption"></div>
+                            </div>
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>经济复杂度与科学产出：经济结构的深层联系</span></div>
+                                <div id="fig5cChart" class="m5-chart-frame"></div>
+                                <div class="m5-chart-caption" id="fig5cCaption"></div>
+                            </div>
+                        </div>
+                        <div class="m5-chart-grid cols-1" style="margin-top:1rem;">
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>按收入组别 — 谁在发表，谁在沉默</span></div>
+                                <div id="fig5dChart" class="m5-chart-frame tall"></div>
+                            </div>
+                            <div class="m5-chart-card">
+                                <div class="m5-chart-header"><span>按收入组别 — 科学多样性的鸿沟</span></div>
+                                <div id="fig5eChart" class="m5-chart-frame tall"></div>
+                            </div>
+                        </div>
+                    </section>
+                </div>
+
+                <!-- 自定义分析视图 -->
+                <div id="customView" class="m5-view-container" style="display:none;">
+                    <div class="m5-sub-tabs">
+                        <button class="sub-tab ctrl-btn active" data-sub="custom-compare">多指标趋势对比</button>
+                        <button class="sub-tab ctrl-btn" data-sub="custom-scatter">自定义关联探索</button>
+                    </div>
+
+                    <section class="m5-section section" id="custom-compare">
+                        <div class="m5-chart-header"
+                            style="display:flex;justify-content:space-between;align-items:center;">
+                            <span>多指标对比视图</span>
+                            <div class="indicator-selector" id="indicatorSelector"
+                                style="display:flex;gap:4px;flex-wrap:wrap;">
+                                <span class="indicator-chip selected" data-key="Nestedness_NODF">嵌套性</span>
+                                <span class="indicator-chip selected" data-key="Modularity_Q">模块性</span>
+                                <span class="indicator-chip" data-key="Avg_Diversity">多样性</span>
+                                <span class="indicator-chip" data-key="Avg_Advantages_per_Country">比较优势数</span>
+                            </div>
+                        </div>
+                        <div id="comparisonChart" class="m5-chart-frame tall"></div>
+                        <div class="m5-chart-caption">选择多个指标在同一图表中对比（已做 min-max 归一化以统一尺度）。</div>
+                    </section>
+
+                    <section class="m5-section section" id="custom-scatter" style="display:none;">
+                        <div class="m5-chart-header"><span>自定义指标关联散点图</span></div>
+                        <div id="customScatterChart" class="m5-chart-frame tall"></div>
+                        <div class="m5-chart-caption" id="customScatterCaption"></div>
+                    </section>
+                </div>
+            </div>
+        </section>
+
+        <!-- ===== 结论 ===== -->
+        <section id="section-conclusion" class="narrative-section conclusion-section">
+            <div class="prose-block fade-up">
+                <h2>读完这3500万篇论文，我们看到了什么？</h2>
+                <p>四章走下来，一幅隐秘但清晰的图景逐渐成形——这不只是一张学术地图，更是一张<strong>全球不平等的另一种度量</strong>：</p>
+                <ol class="findings-list">
+                    <li><strong>知识不是孤岛，而是有引力的大陆。</strong>143
+                        个学科稳定地聚合成三大集群，在四十年间几乎纹丝不动。学科之间的"亲疏远近"——而非政策规划——才是塑造一国科学版图的真正力量。</li>
+                    <li><strong>科学地图，就是经济地图的镜像。</strong>低收入国家聚集在自然集群，中等收入国家向物理集群延伸，高收入国家趋于均衡多元。GDP 每增长十倍，科学多样性约提升
+                        15%——科学是财富的影子。</li>
+                    <li><strong>起点比努力更重要——这是最残酷的发现。</strong>所有模型都预测，国家最终会向均衡移动；但现实中，被锁定在自然集群的穷国，缺少足够的"桥接学科"来突破，关联性既解释了发展，也解释了不发展。
+                    </li>
+                    <li><strong>金字塔在倒塌，但围墙在升高。</strong>嵌套性下降——旧的等级秩序正在松动，这是好消息。但模块性同步上升——集群间的壁垒在加深，跨域拓展越来越难。穷国面对的不是天花板，而是一圈正在加高的围栏。
+                    </li>
+                    <li><strong>是先有经济，才有科学——而非反之。</strong>数据清楚地显示，GDP 增长推动了科学多样性（p =
+                        0.007），反向因果却不成立。这意味着：<strong>单靠加大科研投入，并不足以打破发展的困局。</strong></li>
+                </ol>
+                <p
+                    style="margin-top:1.5rem;padding-top:1rem;border-top:1px solid var(--border);color:var(--text-muted);">
+                    3579 万篇论文，217
+                    个国家，四十四年的时光。这些数字背后，是无数个研究者的选择，也是无数个国家无声的命运。<strong>知识的分布，从来不是随机的。</strong>它在地图上留下的痕迹，与贫富的痕迹高度重合——我们看见的，不过是同一个世界的两张脸。
+                </p>
+            </div>
+            <div class="footer-credit">
+                <p>数据来源：Clarivate Web of Science · 1973–2017 · 217 个国家 · 143 个学科 · 35,793,320 篇论文</p>
+                <p>论文引用：Miao, L. et al. <em>The latent structure of global scientific development.</em> Nat Hum Behav 6,
+                    1206–1217 (2022).</p>
+                <p class="footer-url">代码与数据：<a
+                        href="https://github.com/yy/national-science-exports">github.com/yy/national-science-exports</a>
+                </p>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Scripts: 依赖顺序 -->
+    <script src="assets/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/topojson-client@3"></script>
+    <script src="data/development_path_data.js"></script>
+    <script src="data/world_countries.js"></script> <!-- 成员4升级版：世界地图 GeoJSON -->
+    <script src="app.js"></script> <!-- 全局命名空间 + 共享数据 + 启动 -->
+    <script src="member2.js"></script> <!-- 成员2: 世界地图 -->
+    <script src="member3.js"></script> <!-- 成员3: 学科网络 -->
+    <script src="member4.js"></script> <!-- 成员4: 发展路径（升级版：含地图+流场+国家轨迹） -->
+    <script src="member5.js"></script> <!-- 成员5: 结构演变 Plotly -->
+
+    <!-- ===== Scroll-in 进场动画 ===== -->
+    <script>
+        (function () {
+            // 封面内容直接触发（已在视口内）
+            document.querySelectorAll('.cover-section .fade-up').forEach(function (el, i) {
+                setTimeout(function () { el.classList.add('visible'); }, 120 + i * 80);
+            });
+
+            // 其他元素用 IntersectionObserver
+            var io = new IntersectionObserver(function (entries) {
+                entries.forEach(function (e) {
+                    if (e.isIntersecting) {
+                        e.target.classList.add('visible');
+                        io.unobserve(e.target);
+                    }
+                });
+            }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+            document.querySelectorAll('.narrative-section:not(.cover-section) .fade-up').forEach(function (el) {
+                io.observe(el);
+            });
+        })();
+    </script>
+</body>
+
+</html>

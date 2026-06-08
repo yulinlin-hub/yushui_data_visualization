@@ -1,0 +1,11 @@
+{
+  "nodeCount": 143,
+  "edgeCount": 1726,
+  "clusters": {
+    "Societal": 61,
+    "Physical": 36,
+    "Natural": 46
+  },
+  "proximityDefinition": "phi_ij = min{ P(RCA_i>1 | RCA_j>1), P(RCA_j>1 | RCA_i>1) }",
+  "note": "Proximity computed from all years 1973-2017 aggregated. Network is fixed."
+}

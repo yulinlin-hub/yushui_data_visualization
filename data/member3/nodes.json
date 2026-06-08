@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "Acoustics",
+    "label": "Acoustics",
+    "cluster": "Societal",
+    "papers": 104717.0,
+    "x": 160.55338,
+    "y": -28.037933
+  },
+  {
+    "id": "Addictive Diseases",
+    "label": "Addictive Diseases",
+    "cluster": "Societal",
+    "papers": 77847.0,
+    "x": -0.7338556,
+    "y": -153.79953
+  },
+  {
+    "id": "Aerospace Technology",
+    "label": "Aerospace Technology",
+    "cluster": "Physical",
+    "papers": 98668.0,
+    "x": 207.27612,
+    "y": 80.97558
+  },
+  {
+    "id": "Agricult & Food Science",
+    "label": "Agricult & Food Science",
+    "cluster": "Natural",
+    "papers": 849754.0,
+    "x": -265.50137,
+    "y": 29.255245
+  },
+  {
+    "id": "Allergy",
+    "label": "Allergy",
+    "cluster": "Societal",
+    "papers": 55134.0,
+    "x": 298.99426,
+    "y": -55.96054
+  },
+  {
+    "id": "Analytical Chemistry",
+    "label": "Analytical Chemistry",
+    "cluster": "Physical",
+    "papers": 481990.0,
+    "x": 137.88034,
+    "y": 185.65533
+  },
+  {
+    "id": "Anatomy & Morphology",
+    "label": "Anatomy & Morphology",
+    "cluster": "Physical",
+    "papers": 44996.0,
+    "x": -19.550785,
+    "y": 138.56013
+  },
+  {
+    "id": "Anesthesiology",
+    "label": "Anesthesiology",
+    "cluster": "Societal",
+    "papers": 114084.0,
+    "x": 204.19855,
+    "y": -123.74373
+  },
+  {
+    "id": "Anthropology and Archaeology",
+    "label": "Anthropology and Archaeology",
+    "cluster": "Natural",
+    "papers": 105323.0,
+    "x": -289.73306,
+    "y": -46.856625
+  },
+  {
+    "id": "Applied Chemistry",
+    "label": "Applied Chemistry",
+    "cluster": "Physical",
+    "papers": 102743.0,
+    "x": 117.25474,
+    "y": 180.83954
+  },
+  {
+    "id": "Applied Mathematics",
+    "label": "Applied Mathematics",
+    "cluster": "Physical",
+    "papers": 386109.0,
+    "x": 58.100266,
+    "y": 148.8262
+  },
+  {
+    "id": "Applied Physics",
+    "label": "Applied Physics",
+    "cluster": "Physical",
+    "papers": 1064698.0,
+    "x": 138.96199,
+    "y": 133.0788
+  },
+  {
+    "id": "Area Studies",
+    "label": "Area Studies",
+    "cluster": "Natural",
+    "papers": 72788.0,
+    "x": -268.13486,
+    "y": -20.256817
+  },
+  {
+    "id": "Arthritis & Rheumatology",
+    "label": "Arthritis & Rheumatology",
+    "cluster": "Societal",
+    "papers": 137259.0,
+    "x": 180.89484,
+    "y": -75.55434
+  },
+  {
+    "id": "Astronomy & Astrophysics",
+    "label": "Astronomy & Astrophysics",
+    "cluster": "Societal",
+    "papers": 584215.0,
+    "x": 155.06786,
+    "y": 50.163837
+  },
+  {
+    "id": "Behavioral Science & Complementary Psychology",
+    "label": "Behavioral Science & Complementary Psychology",
+    "cluster": "Societal",
+    "papers": 113591.0,
+    "x": 86.58194,
+    "y": -135.81128
+  },
+  {
+    "id": "Biochemistry & Molecular Biology",
+    "label": "Biochemistry & Molecular Biology",
+    "cluster": "Societal",
+    "papers": 1649123.0,
+    "x": 251.53238,
+    "y": -126.47309
+  },
+  {
+    "id": "Biomedical Engineering",
+    "label": "Biomedical Engineering",
+    "cluster": "Physical",
+    "papers": 225588.0,
+    "x": 176.8092,
+    "y": 78.43543
+  },
+  {
+    "id": "Biophysics",
+    "label": "Biophysics",
+    "cluster": "Physical",
+    "papers": 83697.0,
+    "x": 172.85582,
+    "y": 46.36244
+  },
+  {
+    "id": "Botany",
+    "label": "Botany",
+    "cluster": "Natural",
+    "papers": 831843.0,
+    "x": -336.36438,
+    "y": 9.562417
+  },
+  {
+    "id": "Cancer",
+    "label": "Cancer",
+    "cluster": "Societal",
+    "papers": 806618.0,
+    "x": 216.28198,
+    "y": -72.14342
+  },
+  {
+    "id": "Cardiovascular System",
+    "label": "Cardiovascular System",
+    "cluster": "Societal",
+    "papers": 583322.0,
+    "x": 295.16095,
+    "y": -112.17979
+  },
+  {
+    "id": "Cellular Biology Cytology & Histology",
+    "label": "Cellular Biology Cytology & Histology",
+    "cluster": "Societal",
+    "papers": 369353.0,
+    "x": 283.69614,
+    "y": -84.55924
+  },
+  {
+    "id": "Chemical Engineering",
+    "label": "Chemical Engineering",
+    "cluster": "Physical",
+    "papers": 469424.0,
+    "x": 41.75804,
+    "y": 166.03673
+  },
+  {
+    "id": "Chemical Physics",
+    "label": "Chemical Physics",
+    "cluster": "Physical",
+    "papers": 423076.0,
+    "x": 211.66191,
+    "y": 69.84784
+  },
+  {
+    "id": "Civil Engineering",
+    "label": "Civil Engineering",
+    "cluster": "Physical",
+    "papers": 177746.0,
+    "x": -24.318974,
+    "y": 106.5746
+  },
+  {
+    "id": "Clinical Psychology",
+    "label": "Clinical Psychology",
+    "cluster": "Societal",
+    "papers": 108941.0,
+    "x": 157.9016,
+    "y": -189.921
+  },
+  {
+    "id": "Communication",
+    "label": "Communication",
+    "cluster": "Societal",
+    "papers": 41392.0,
+    "x": -6.665837,
+    "y": -116.25996
+  },
+  {
+    "id": "Computers",
+    "label": "Computers",
+    "cluster": "Physical",
+    "papers": 741841.0,
+    "x": 90.51559,
+    "y": 128.67569
+  },
+  {
+    "id": "Criminology",
+    "label": "Criminology",
+    "cluster": "Societal",
+    "papers": 35977.0,
+    "x": 95.13574,
+    "y": -153.85986
+  },
+  {
+    "id": "Dairy & Animal Science",
+    "label": "Dairy & Animal Science",
+    "cluster": "Natural",
+    "papers": 181319.0,
+    "x": -322.06326,
+    "y": 45.900967
+  },
+  {
+    "id": "Demography",
+    "label": "Demography",
+    "cluster": "Natural",
+    "papers": 24983.0,
+    "x": -250.05441,
+    "y": -11.2810545
+  },
+  {
+    "id": "Dentistry",
+    "label": "Dentistry",
+    "cluster": "Societal",
+    "papers": 228790.0,
+    "x": 59.426556,
+    "y": 50.23002
+  },
+  {
+    "id": "Dermatology & Venerial Disease",
+    "label": "Dermatology & Venerial Disease",
+    "cluster": "Natural",
+    "papers": 210031.0,
+    "x": -187.65816,
+    "y": 28.417555
+  },
+  {
+    "id": "Developmental & Child Psychology",
+    "label": "Developmental & Child Psychology",
+    "cluster": "Societal",
+    "papers": 103204.0,
+    "x": 158.81572,
+    "y": -157.50813
+  },
+  {
+    "id": "Earth & planetary Science",
+    "label": "Earth & planetary Science",
+    "cluster": "Natural",
+    "papers": 543908.0,
+    "x": -239.34242,
+    "y": 25.72747
+  },
+  {
+    "id": "Ecology",
+    "label": "Ecology",
+    "cluster": "Natural",
+    "papers": 297238.0,
+    "x": -284.69925,
+    "y": -18.091715
+  },
+  {
+    "id": "Economics",
+    "label": "Economics",
+    "cluster": "Natural",
+    "papers": 412380.0,
+    "x": -260.23337,
+    "y": -37.424328
+  },
+  {
+    "id": "Education",
+    "label": "Education",
+    "cluster": "Natural",
+    "papers": 231647.0,
+    "x": -162.45018,
+    "y": -40.685173
+  },
+  {
+    "id": "Electrical Engineering & Electronics",
+    "label": "Electrical Engineering & Electronics",
+    "cluster": "Physical",
+    "papers": 1042778.0,
+    "x": 79.66292,
+    "y": 166.98161
+  },
+  {
+    "id": "Embryology",
+    "label": "Embryology",
+    "cluster": "Societal",
+    "papers": 51966.0,
+    "x": 254.16643,
+    "y": -144.52031
+  },
+  {
+    "id": "Endocrinology",
+    "label": "Endocrinology",
+    "cluster": "Societal",
+    "papers": 391715.0,
+    "x": 210.58904,
+    "y": -102.686
+  },
+  {
+    "id": "Entomology",
+    "label": "Entomology",
+    "cluster": "Natural",
+    "papers": 215701.0,
+    "x": -327.1825,
+    "y": -19.424843
+  },
+  {
+    "id": "Environmental & Occupational Health",
+    "label": "Environmental & Occupational Health",
+    "cluster": "Natural",
+    "papers": 187261.0,
+    "x": -263.2305,
+    "y": 5.379861
+  },
+  {
+    "id": "Environmental Science",
+    "label": "Environmental Science",
+    "cluster": "Natural",
+    "papers": 660538.0,
+    "x": -213.33643,
+    "y": 51.65696
+  },
+  {
+    "id": "Experimental Psychology",
+    "label": "Experimental Psychology",
+    "cluster": "Societal",
+    "papers": 130007.0,
+    "x": 208.72255,
+    "y": -185.01988
+  },
+  {
+    "id": "Fertility",
+    "label": "Fertility",
+    "cluster": "Societal",
+    "papers": 95025.0,
+    "x": 135.65112,
+    "y": -75.901276
+  },
+  {
+    "id": "Fine Arts & Architecture",
+    "label": "Fine Arts & Architecture",
+    "cluster": "Societal",
+    "papers": 66247.0,
+    "x": -62.657265,
+    "y": -171.92638
+  },
+  {
+    "id": "Fluids & Plasmas",
+    "label": "Fluids & Plasmas",
+    "cluster": "Physical",
+    "papers": 159772.0,
+    "x": 179.43907,
+    "y": 120.54301
+  },
+  {
+    "id": "Gastroenterology",
+    "label": "Gastroenterology",
+    "cluster": "Societal",
+    "papers": 290956.0,
+    "x": 265.1022,
+    "y": -103.21412
+  },
+  {
+    "id": "General & Internal Medicine",
+    "label": "General & Internal Medicine",
+    "cluster": "Natural",
+    "papers": 1219201.0,
+    "x": -303.5464,
+    "y": 29.096638
+  },
+  {
+    "id": "General Biology",
+    "label": "General Biology",
+    "cluster": "Natural",
+    "papers": 98959.0,
+    "x": -302.41266,
+    "y": -43.078407
+  },
+  {
+    "id": "General Biomedical Research",
+    "label": "General Biomedical Research",
+    "cluster": "Natural",
+    "papers": 1207700.0,
+    "x": -282.58987,
+    "y": 12.955747
+  },
+  {
+    "id": "General Chemistry",
+    "label": "General Chemistry",
+    "cluster": "Physical",
+    "papers": 1099978.0,
+    "x": 146.53163,
+    "y": 201.05635
+  },
+  {
+    "id": "General Engineering",
+    "label": "General Engineering",
+    "cluster": "Physical",
+    "papers": 42277.0,
+    "x": 85.54681,
+    "y": 191.1856
+  },
+  {
+    "id": "General Mathematics",
+    "label": "General Mathematics",
+    "cluster": "Physical",
+    "papers": 676340.0,
+    "x": 19.254515,
+    "y": 141.33792
+  },
+  {
+    "id": "General Physics",
+    "label": "General Physics",
+    "cluster": "Physical",
+    "papers": 1449779.0,
+    "x": 159.5011,
+    "y": 178.68607
+  },
+  {
+    "id": "General Psychology",
+    "label": "General Psychology",
+    "cluster": "Societal",
+    "papers": 91966.0,
+    "x": -4.2708073,
+    "y": -181.44333
+  },
+  {
+    "id": "General Social Sciences",
+    "label": "General Social Sciences",
+    "cluster": "Natural",
+    "papers": 91312.0,
+    "x": -221.9224,
+    "y": -60.11202
+  },
+  {
+    "id": "General Zoology",
+    "label": "General Zoology",
+    "cluster": "Natural",
+    "papers": 220289.0,
+    "x": -336.68674,
+    "y": -5.298047
+  },
+  {
+    "id": "Genetics & Heredity",
+    "label": "Genetics & Heredity",
+    "cluster": "Natural",
+    "papers": 578390.0,
+    "x": -21.734426,
+    "y": -113.471306
+  },
+  {
+    "id": "Geography",
+    "label": "Geography",
+    "cluster": "Natural",
+    "papers": 92194.0,
+    "x": -168.133,
+    "y": -85.32347
+  },
+  {
+    "id": "Geology",
+    "label": "Geology",
+    "cluster": "Natural",
+    "papers": 417662.0,
+    "x": -246.64116,
+    "y": 49.29766
+  },
+  {
+    "id": "Geriatrics",
+    "label": "Geriatrics",
+    "cluster": "Societal",
+    "papers": 54620.0,
+    "x": 223.31314,
+    "y": -147.13377
+  },
+  {
+    "id": "Geriatrics & Gerontology",
+    "label": "Geriatrics & Gerontology",
+    "cluster": "Societal",
+    "papers": 54082.0,
+    "x": 225.04247,
+    "y": -181.25513
+  },
+  {
+    "id": "Health Policy & Services",
+    "label": "Health Policy & Services",
+    "cluster": "Natural",
+    "papers": 129497.0,
+    "x": -233.04692,
+    "y": -33.307713
+  },
+  {
+    "id": "Hematology",
+    "label": "Hematology",
+    "cluster": "Societal",
+    "papers": 250561.0,
+    "x": 217.87766,
+    "y": -28.055431
+  },
+  {
+    "id": "History",
+    "label": "History",
+    "cluster": "Societal",
+    "papers": 165109.0,
+    "x": -85.27358,
+    "y": -55.35943
+  },
+  {
+    "id": "Human Factors",
+    "label": "Human Factors",
+    "cluster": "Societal",
+    "papers": 41423.0,
+    "x": 69.63261,
+    "y": -12.86937
+  },
+  {
+    "id": "Immunology",
+    "label": "Immunology",
+    "cluster": "Natural",
+    "papers": 783807.0,
+    "x": -303.56314,
+    "y": -1.5521532
+  },
+  {
+    "id": "Industrial Engineering",
+    "label": "Industrial Engineering",
+    "cluster": "Physical",
+    "papers": 57677.0,
+    "x": 71.62081,
+    "y": 91.947296
+  },
+  {
+    "id": "Information Science & Library Science",
+    "label": "Information Science & Library Science",
+    "cluster": "Natural",
+    "papers": 92659.0,
+    "x": -139.96178,
+    "y": -39.568348
+  },
+  {
+    "id": "Inorganic & Nuclear Chemistry",
+    "label": "Inorganic & Nuclear Chemistry",
+    "cluster": "Physical",
+    "papers": 329645.0,
+    "x": 107.68077,
+    "y": 205.20023
+  },
+  {
+    "id": "International Relations",
+    "label": "International Relations",
+    "cluster": "Societal",
+    "papers": 50599.0,
+    "x": 33.531174,
+    "y": -197.41885
+  },
+  {
+    "id": "Language & Linguistics",
+    "label": "Language & Linguistics",
+    "cluster": "Societal",
+    "papers": 111613.0,
+    "x": -151.81184,
+    "y": -98.81015
+  },
+  {
+    "id": "Law",
+    "label": "Law",
+    "cluster": "Societal",
+    "papers": 111698.0,
+    "x": -114.07714,
+    "y": -118.51808
+  },
+  {
+    "id": "Literature",
+    "label": "Literature",
+    "cluster": "Societal",
+    "papers": 185736.0,
+    "x": -67.612305,
+    "y": -142.64758
+  },
+  {
+    "id": "Management",
+    "label": "Management",
+    "cluster": "Societal",
+    "papers": 419237.0,
+    "x": 103.802505,
+    "y": -79.03355
+  },
+  {
+    "id": "Marine Biology & Hydrobiology",
+    "label": "Marine Biology & Hydrobiology",
+    "cluster": "Natural",
+    "papers": 344124.0,
+    "x": -312.9982,
+    "y": -31.774065
+  },
+  {
+    "id": "Materials Science",
+    "label": "Materials Science",
+    "cluster": "Physical",
+    "papers": 1144974.0,
+    "x": 102.09723,
+    "y": 167.92952
+  },
+  {
+    "id": "Mechanical Engineering",
+    "label": "Mechanical Engineering",
+    "cluster": "Physical",
+    "papers": 458786.0,
+    "x": 87.15894,
+    "y": 155.52542
+  },
+  {
+    "id": "Metals & Metallurgy",
+    "label": "Metals & Metallurgy",
+    "cluster": "Physical",
+    "papers": 437956.0,
+    "x": 157.19768,
+    "y": 131.49428
+  },
+  {
+    "id": "Meteorology & Atmospheric Science",
+    "label": "Meteorology & Atmospheric Science",
+    "cluster": "Natural",
+    "papers": 207331.0,
+    "x": -205.79044,
+    "y": -84.73318
+  },
+  {
+    "id": "Microbiology",
+    "label": "Microbiology",
+    "cluster": "Natural",
+    "papers": 520867.0,
+    "x": -299.6474,
+    "y": 40.8257
+  },
+  {
+    "id": "Microscopy",
+    "label": "Microscopy",
+    "cluster": "Societal",
+    "papers": 31681.0,
+    "x": 270.4144,
+    "y": -50.4635
+  },
+  {
+    "id": "Miscellaneous Biology",
+    "label": "Miscellaneous Biology",
+    "cluster": "Natural",
+    "papers": 96459.0,
+    "x": -221.86568,
+    "y": -29.349031
+  },
+  {
+    "id": "Miscellaneous Biomedical Research",
+    "label": "Miscellaneous Biomedical Research",
+    "cluster": "Natural",
+    "papers": 117920.0,
+    "x": -174.60126,
+    "y": 60.448605
+  },
+  {
+    "id": "Miscellaneous Clinical Medicine",
+    "label": "Miscellaneous Clinical Medicine",
+    "cluster": "Natural",
+    "papers": 165052.0,
+    "x": -93.22173,
+    "y": 6.9132714
+  },
+  {
+    "id": "Miscellaneous Engineering & Technology",
+    "label": "Miscellaneous Engineering & Technology",
+    "cluster": "Natural",
+    "papers": 224152.0,
+    "x": -71.861755,
+    "y": 111.95343
+  },
+  {
+    "id": "Miscellaneous Humanities",
+    "label": "Miscellaneous Humanities",
+    "cluster": "Societal",
+    "papers": 73102.0,
+    "x": 37.38946,
+    "y": -129.97964
+  },
+  {
+    "id": "Miscellaneous Mathematics",
+    "label": "Miscellaneous Mathematics",
+    "cluster": "Physical",
+    "papers": 64305.0,
+    "x": 106.2677,
+    "y": 124.31766
+  },
+  {
+    "id": "Miscellaneous Physics",
+    "label": "Miscellaneous Physics",
+    "cluster": "Societal",
+    "papers": 32137.0,
+    "x": 195.32112,
+    "y": 23.985212
+  },
+  {
+    "id": "Miscellaneous Professional Field",
+    "label": "Miscellaneous Professional Field",
+    "cluster": "Societal",
+    "papers": 46061.0,
+    "x": -44.122585,
+    "y": -110.45472
+  },
+  {
+    "id": "Miscellaneous Psychology",
+    "label": "Miscellaneous Psychology",
+    "cluster": "Societal",
+    "papers": 144597.0,
+    "x": 126.89231,
+    "y": -190.51309
+  },
+  {
+    "id": "Miscellaneous Social Sciences",
+    "label": "Miscellaneous Social Sciences",
+    "cluster": "Natural",
+    "papers": 95457.0,
+    "x": -219.89238,
+    "y": -49.242577
+  },
+  {
+    "id": "Miscellaneous Zoology",
+    "label": "Miscellaneous Zoology",
+    "cluster": "Natural",
+    "papers": 86597.0,
+    "x": -276.84573,
+    "y": -41.934338
+  },
+  {
+    "id": "Nephrology",
+    "label": "Nephrology",
+    "cluster": "Societal",
+    "papers": 101869.0,
+    "x": 229.97018,
+    "y": -43.76641
+  },
+  {
+    "id": "Neurology & Neurosurgery",
+    "label": "Neurology & Neurosurgery",
+    "cluster": "Societal",
+    "papers": 1254225.0,
+    "x": 273.88095,
+    "y": -118.09631
+  },
+  {
+    "id": "Nuclear & Particle Physics",
+    "label": "Nuclear & Particle Physics",
+    "cluster": "Physical",
+    "papers": 664573.0,
+    "x": 149.77495,
+    "y": 155.47633
+  },
+  {
+    "id": "Nuclear Technology",
+    "label": "Nuclear Technology",
+    "cluster": "Physical",
+    "papers": 169038.0,
+    "x": 204.34897,
+    "y": 144.76276
+  },
+  {
+    "id": "Nursing",
+    "label": "Nursing",
+    "cluster": "Societal",
+    "papers": 110176.0,
+    "x": -27.806776,
+    "y": -91.207214
+  },
+  {
+    "id": "Nutrition & Dietetic",
+    "label": "Nutrition & Dietetic",
+    "cluster": "Natural",
+    "papers": 187441.0,
+    "x": -299.03818,
+    "y": 10.647432
+  },
+  {
+    "id": "Obstetrics & Gynecology",
+    "label": "Obstetrics & Gynecology",
+    "cluster": "Natural",
+    "papers": 222965.0,
+    "x": -222.06256,
+    "y": 28.754396
+  },
+  {
+    "id": "Oceanography & Limnology",
+    "label": "Oceanography & Limnology",
+    "cluster": "Natural",
+    "papers": 159817.0,
+    "x": -260.22604,
+    "y": -59.84306
+  },
+  {
+    "id": "Operations Research",
+    "label": "Operations Research",
+    "cluster": "Physical",
+    "papers": 52778.0,
+    "x": 40.26002,
+    "y": 189.41716
+  },
+  {
+    "id": "Ophthalmology",
+    "label": "Ophthalmology",
+    "cluster": "Societal",
+    "papers": 238273.0,
+    "x": 8.45532,
+    "y": -40.198772
+  },
+  {
+    "id": "Optics",
+    "label": "Optics",
+    "cluster": "Physical",
+    "papers": 470312.0,
+    "x": 141.2113,
+    "y": 120.20911
+  },
+  {
+    "id": "Organic Chemistry",
+    "label": "Organic Chemistry",
+    "cluster": "Physical",
+    "papers": 653088.0,
+    "x": 175.3289,
+    "y": 161.1443
+  },
+  {
+    "id": "Orthopedics",
+    "label": "Orthopedics",
+    "cluster": "Societal",
+    "papers": 217807.0,
+    "x": 227.18004,
+    "y": -122.02889
+  },
+  {
+    "id": "Otorhinolaryngology",
+    "label": "Otorhinolaryngology",
+    "cluster": "Societal",
+    "papers": 156925.0,
+    "x": 234.1739,
+    "y": -104.60476
+  },
+  {
+    "id": "Parasitology",
+    "label": "Parasitology",
+    "cluster": "Natural",
+    "papers": 113413.0,
+    "x": -318.35065,
+    "y": 29.384373
+  },
+  {
+    "id": "Pathology",
+    "label": "Pathology",
+    "cluster": "Societal",
+    "papers": 209178.0,
+    "x": 257.56424,
+    "y": -32.517178
+  },
+  {
+    "id": "Pediatrics",
+    "label": "Pediatrics",
+    "cluster": "Natural",
+    "papers": 251055.0,
+    "x": -282.52478,
+    "y": 31.406504
+  },
+  {
+    "id": "Performing Arts",
+    "label": "Performing Arts",
+    "cluster": "Societal",
+    "papers": 46734.0,
+    "x": 29.388443,
+    "y": -114.04849
+  },
+  {
+    "id": "Pharmacology",
+    "label": "Pharmacology",
+    "cluster": "Physical",
+    "papers": 1062700.0,
+    "x": 64.12378,
+    "y": 196.40218
+  },
+  {
+    "id": "Pharmacy",
+    "label": "Pharmacy",
+    "cluster": "Physical",
+    "papers": 118767.0,
+    "x": 176.27672,
+    "y": 177.36887
+  },
+  {
+    "id": "Philosophy",
+    "label": "Philosophy",
+    "cluster": "Societal",
+    "papers": 98077.0,
+    "x": 33.055122,
+    "y": -153.55954
+  },
+  {
+    "id": "Physical Chemistry",
+    "label": "Physical Chemistry",
+    "cluster": "Physical",
+    "papers": 1295493.0,
+    "x": 142.77989,
+    "y": 170.39076
+  },
+  {
+    "id": "Physiology",
+    "label": "Physiology",
+    "cluster": "Societal",
+    "papers": 278164.0,
+    "x": 248.59943,
+    "y": -173.90886
+  },
+  {
+    "id": "Planning & Urban Studies",
+    "label": "Planning & Urban Studies",
+    "cluster": "Natural",
+    "papers": 37937.0,
+    "x": -228.24704,
+    "y": 5.6109843
+  },
+  {
+    "id": "Political Science and Public Administration",
+    "label": "Political Science and Public Administration",
+    "cluster": "Societal",
+    "papers": 114049.0,
+    "x": -102.616005,
+    "y": -142.57446
+  },
+  {
+    "id": "Polymers",
+    "label": "Polymers",
+    "cluster": "Physical",
+    "papers": 444164.0,
+    "x": 125.95708,
+    "y": 155.49295
+  },
+  {
+    "id": "Probability & Statistics",
+    "label": "Probability & Statistics",
+    "cluster": "Physical",
+    "papers": 204997.0,
+    "x": 94.704124,
+    "y": 99.518776
+  },
+  {
+    "id": "Psychiatry",
+    "label": "Psychiatry",
+    "cluster": "Societal",
+    "papers": 314240.0,
+    "x": 97.52864,
+    "y": -97.1611
+  },
+  {
+    "id": "Psychoanalysis",
+    "label": "Psychoanalysis",
+    "cluster": "Societal",
+    "papers": 18855.0,
+    "x": 234.07327,
+    "y": -86.69049
+  },
+  {
+    "id": "Public Health",
+    "label": "Public Health",
+    "cluster": "Natural",
+    "papers": 216607.0,
+    "x": -297.89517,
+    "y": -20.647062
+  },
+  {
+    "id": "Radiology & Nuclear Medicine",
+    "label": "Radiology & Nuclear Medicine",
+    "cluster": "Societal",
+    "papers": 446181.0,
+    "x": 255.25317,
+    "y": -76.07598
+  },
+  {
+    "id": "Rehabilitation",
+    "label": "Rehabilitation",
+    "cluster": "Societal",
+    "papers": 90081.0,
+    "x": 100.66534,
+    "y": -133.02928
+  },
+  {
+    "id": "Religion",
+    "label": "Religion",
+    "cluster": "Societal",
+    "papers": 62194.0,
+    "x": -87.50454,
+    "y": -105.507614
+  },
+  {
+    "id": "Respiratory System",
+    "label": "Respiratory System",
+    "cluster": "Natural",
+    "papers": 162716.0,
+    "x": -216.17216,
+    "y": -4.5813465
+  },
+  {
+    "id": "Science studies",
+    "label": "Science studies",
+    "cluster": "Societal",
+    "papers": 35873.0,
+    "x": 150.44284,
+    "y": -144.52248
+  },
+  {
+    "id": "Social Psychology",
+    "label": "Social Psychology",
+    "cluster": "Societal",
+    "papers": 97164.0,
+    "x": 26.739664,
+    "y": -170.55269
+  },
+  {
+    "id": "Social Sciences, Biomedical",
+    "label": "Social Sciences, Biomedical",
+    "cluster": "Natural",
+    "papers": 32082.0,
+    "x": -276.25153,
+    "y": -5.472879
+  },
+  {
+    "id": "Social Studies of Medicine",
+    "label": "Social Studies of Medicine",
+    "cluster": "Physical",
+    "papers": 4244.0,
+    "x": 87.73316,
+    "y": -9.377238
+  },
+  {
+    "id": "Social Work",
+    "label": "Social Work",
+    "cluster": "Societal",
+    "papers": 43492.0,
+    "x": -31.155518,
+    "y": -169.007
+  },
+  {
+    "id": "Sociology",
+    "label": "Sociology",
+    "cluster": "Societal",
+    "papers": 112299.0,
+    "x": 82.22424,
+    "y": -187.38367
+  },
+  {
+    "id": "Solid State Physics",
+    "label": "Solid State Physics",
+    "cluster": "Physical",
+    "papers": 516809.0,
+    "x": 168.63283,
+    "y": 141.17624
+  },
+  {
+    "id": "Speech-Language Pathology and Audiology",
+    "label": "Speech-Language Pathology and Audiology",
+    "cluster": "Societal",
+    "papers": 31829.0,
+    "x": 159.02502,
+    "y": -132.77934
+  },
+  {
+    "id": "Surgery",
+    "label": "Surgery",
+    "cluster": "Societal",
+    "papers": 608514.0,
+    "x": 197.4258,
+    "y": -58.1385
+  },
+  {
+    "id": "Tropical Medicine",
+    "label": "Tropical Medicine",
+    "cluster": "Natural",
+    "papers": 102965.0,
+    "x": -277.3743,
+    "y": 48.8554
+  },
+  {
+    "id": "Urology",
+    "label": "Urology",
+    "cluster": "Societal",
+    "papers": 206047.0,
+    "x": 21.502556,
+    "y": 13.52128
+  },
+  {
+    "id": "Veterinary Medicine",
+    "label": "Veterinary Medicine",
+    "cluster": "Natural",
+    "papers": 427691.0,
+    "x": -318.265,
+    "y": 12.8736315
+  },
+  {
+    "id": "Virology",
+    "label": "Virology",
+    "cluster": "Natural",
+    "papers": 182640.0,
+    "x": -313.83636,
+    "y": -16.264006
+  }
+]

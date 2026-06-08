@@ -1,0 +1,8632 @@
+[
+  {
+    "source": "Tropical Medicine",
+    "target": "Public Health",
+    "weight": 0.846667
+  },
+  {
+    "source": "Public Health",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.846154
+  },
+  {
+    "source": "Botany",
+    "target": "Agricult & Food Science",
+    "weight": 0.815068
+  },
+  {
+    "source": "Botany",
+    "target": "General Zoology",
+    "weight": 0.812081
+  },
+  {
+    "source": "Entomology",
+    "target": "Parasitology",
+    "weight": 0.80916
+  },
+  {
+    "source": "Entomology",
+    "target": "Ecology",
+    "weight": 0.80916
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Ecology",
+    "weight": 0.80315
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.8
+  },
+  {
+    "source": "Entomology",
+    "target": "Agricult & Food Science",
+    "weight": 0.798561
+  },
+  {
+    "source": "Entomology",
+    "target": "Botany",
+    "weight": 0.787671
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Botany",
+    "weight": 0.786667
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Applied Mathematics",
+    "weight": 0.78481
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Ecology",
+    "weight": 0.775362
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Parasitology",
+    "weight": 0.766667
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Entomology",
+    "weight": 0.766667
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Parasitology",
+    "weight": 0.76259
+  },
+  {
+    "source": "Public Health",
+    "target": "Entomology",
+    "weight": 0.762238
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Health Policy & Services",
+    "weight": 0.761905
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Applied Physics",
+    "weight": 0.761905
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Agricult & Food Science",
+    "weight": 0.76
+  },
+  {
+    "source": "Entomology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.753623
+  },
+  {
+    "source": "Botany",
+    "target": "Parasitology",
+    "weight": 0.753425
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Planning & Urban Studies",
+    "weight": 0.752381
+  },
+  {
+    "source": "Public Health",
+    "target": "Ecology",
+    "weight": 0.748252
+  },
+  {
+    "source": "Entomology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.748092
+  },
+  {
+    "source": "Parasitology",
+    "target": "Ecology",
+    "weight": 0.748092
+  },
+  {
+    "source": "Public Health",
+    "target": "Botany",
+    "weight": 0.746575
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Environmental Science",
+    "weight": 0.746479
+  },
+  {
+    "source": "Entomology",
+    "target": "General Zoology",
+    "weight": 0.744966
+  },
+  {
+    "source": "General Zoology",
+    "target": "Agricult & Food Science",
+    "weight": 0.744966
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Veterinary Medicine",
+    "weight": 0.741007
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Materials Science",
+    "weight": 0.740741
+  },
+  {
+    "source": "Botany",
+    "target": "Ecology",
+    "weight": 0.739726
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.739496
+  },
+  {
+    "source": "Parasitology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.73913
+  },
+  {
+    "source": "Demography",
+    "target": "Health Policy & Services",
+    "weight": 0.737374
+  },
+  {
+    "source": "Public Health",
+    "target": "Environmental Science",
+    "weight": 0.734266
+  },
+  {
+    "source": "Public Health",
+    "target": "Agricult & Food Science",
+    "weight": 0.734266
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "General Zoology",
+    "weight": 0.733333
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Demography",
+    "weight": 0.733333
+  },
+  {
+    "source": "Botany",
+    "target": "Environmental Science",
+    "weight": 0.732877
+  },
+  {
+    "source": "Botany",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.732877
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Planning & Urban Studies",
+    "weight": 0.732673
+  },
+  {
+    "source": "Immunology",
+    "target": "Ecology",
+    "weight": 0.732283
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.732143
+  },
+  {
+    "source": "Public Health",
+    "target": "General Zoology",
+    "weight": 0.731544
+  },
+  {
+    "source": "General Zoology",
+    "target": "Ecology",
+    "weight": 0.731544
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.726619
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.726496
+  },
+  {
+    "source": "General Zoology",
+    "target": "Environmental Science",
+    "weight": 0.724832
+  },
+  {
+    "source": "Immunology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.724638
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Ecology",
+    "weight": 0.724409
+  },
+  {
+    "source": "Geology",
+    "target": "Ecology",
+    "weight": 0.724409
+  },
+  {
+    "source": "Demography",
+    "target": "Planning & Urban Studies",
+    "weight": 0.722772
+  },
+  {
+    "source": "Public Health",
+    "target": "Parasitology",
+    "weight": 0.72028
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Environmental Science",
+    "weight": 0.71831
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.717391
+  },
+  {
+    "source": "Immunology",
+    "target": "General Biomedical Research",
+    "weight": 0.716667
+  },
+  {
+    "source": "Immunology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.716667
+  },
+  {
+    "source": "Ecology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.716535
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Environmental Science",
+    "weight": 0.713333
+  },
+  {
+    "source": "Public Health",
+    "target": "Immunology",
+    "weight": 0.713287
+  },
+  {
+    "source": "Immunology",
+    "target": "Virology",
+    "weight": 0.708333
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Solid State Physics",
+    "weight": 0.707317
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Ecology",
+    "weight": 0.706667
+  },
+  {
+    "source": "General Zoology",
+    "target": "Parasitology",
+    "weight": 0.704698
+  },
+  {
+    "source": "General Zoology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.704698
+  },
+  {
+    "source": "Entomology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.70229
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Parasitology",
+    "weight": 0.70229
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.697248
+  },
+  {
+    "source": "Computers",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.696429
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Pediatrics",
+    "weight": 0.695238
+  },
+  {
+    "source": "Immunology",
+    "target": "Parasitology",
+    "weight": 0.694656
+  },
+  {
+    "source": "Entomology",
+    "target": "Veterinary Medicine",
+    "weight": 0.694656
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Immunology",
+    "weight": 0.693333
+  },
+  {
+    "source": "Botany",
+    "target": "Veterinary Medicine",
+    "weight": 0.691781
+  },
+  {
+    "source": "Immunology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.691667
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Ecology",
+    "weight": 0.690647
+  },
+  {
+    "source": "Area Studies",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.688679
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.688406
+  },
+  {
+    "source": "Immunology",
+    "target": "Entomology",
+    "weight": 0.687023
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.685714
+  },
+  {
+    "source": "Public Health",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.685315
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "General Physics",
+    "weight": 0.684211
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.681159
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Parasitology",
+    "weight": 0.679389
+  },
+  {
+    "source": "Public Health",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.678322
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Ecology",
+    "weight": 0.677165
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Ecology",
+    "weight": 0.677165
+  },
+  {
+    "source": "Immunology",
+    "target": "Veterinary Medicine",
+    "weight": 0.674797
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Veterinary Medicine",
+    "weight": 0.673333
+  },
+  {
+    "source": "Public Health",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.671329
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "General Zoology",
+    "weight": 0.671141
+  },
+  {
+    "source": "General Zoology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.671141
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Geology",
+    "weight": 0.669421
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.666667
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.666667
+  },
+  {
+    "source": "Botany",
+    "target": "Geology",
+    "weight": 0.664384
+  },
+  {
+    "source": "Botany",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.664384
+  },
+  {
+    "source": "Public Health",
+    "target": "Veterinary Medicine",
+    "weight": 0.664336
+  },
+  {
+    "source": "Parasitology",
+    "target": "Environmental Science",
+    "weight": 0.661972
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Agricult & Food Science",
+    "weight": 0.661871
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Ecology",
+    "weight": 0.661417
+  },
+  {
+    "source": "Geology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.661157
+  },
+  {
+    "source": "Geology",
+    "target": "Earth & planetary Science",
+    "weight": 0.661157
+  },
+  {
+    "source": "Materials Science",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.660714
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Planning & Urban Studies",
+    "weight": 0.66055
+  },
+  {
+    "source": "Area Studies",
+    "target": "Planning & Urban Studies",
+    "weight": 0.660377
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.65942
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.65942
+  },
+  {
+    "source": "Immunology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.658333
+  },
+  {
+    "source": "Immunology",
+    "target": "Microbiology",
+    "weight": 0.658333
+  },
+  {
+    "source": "Immunology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.658333
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "General Biomedical Research",
+    "weight": 0.65812
+  },
+  {
+    "source": "Geology",
+    "target": "General Zoology",
+    "weight": 0.657718
+  },
+  {
+    "source": "Botany",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.657534
+  },
+  {
+    "source": "Public Health",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.657343
+  },
+  {
+    "source": "Public Health",
+    "target": "Health Policy & Services",
+    "weight": 0.657343
+  },
+  {
+    "source": "Demography",
+    "target": "Pediatrics",
+    "weight": 0.656863
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Health Policy & Services",
+    "weight": 0.656863
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.655462
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.654676
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.654206
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "General Physics",
+    "weight": 0.653846
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Ecology",
+    "weight": 0.653543
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.653333
+  },
+  {
+    "source": "Virology",
+    "target": "Demography",
+    "weight": 0.653061
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Health Policy & Services",
+    "weight": 0.652174
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.649573
+  },
+  {
+    "source": "Entomology",
+    "target": "Geology",
+    "weight": 0.648855
+  },
+  {
+    "source": "Entomology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.648855
+  },
+  {
+    "source": "Geology",
+    "target": "Parasitology",
+    "weight": 0.648855
+  },
+  {
+    "source": "Parasitology",
+    "target": "Microbiology",
+    "weight": 0.648855
+  },
+  {
+    "source": "Parasitology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.648855
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "General Engineering",
+    "weight": 0.648148
+  },
+  {
+    "source": "Entomology",
+    "target": "Environmental Science",
+    "weight": 0.647887
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Environmental Science",
+    "weight": 0.647887
+  },
+  {
+    "source": "Ecology",
+    "target": "Environmental Science",
+    "weight": 0.647887
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.647727
+  },
+  {
+    "source": "General Zoology",
+    "target": "Veterinary Medicine",
+    "weight": 0.644295
+  },
+  {
+    "source": "Public Health",
+    "target": "General Biomedical Research",
+    "weight": 0.643357
+  },
+  {
+    "source": "Virology",
+    "target": "Microbiology",
+    "weight": 0.642857
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Health Policy & Services",
+    "weight": 0.642202
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Demography",
+    "weight": 0.642202
+  },
+  {
+    "source": "Immunology",
+    "target": "Pediatrics",
+    "weight": 0.641667
+  },
+  {
+    "source": "Area Studies",
+    "target": "Health Policy & Services",
+    "weight": 0.641509
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Entomology",
+    "weight": 0.641221
+  },
+  {
+    "source": "Entomology",
+    "target": "General Biomedical Research",
+    "weight": 0.641221
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.641026
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Microbiology",
+    "weight": 0.641026
+  },
+  {
+    "source": "Geology",
+    "target": "Agricult & Food Science",
+    "weight": 0.640288
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.64
+  },
+  {
+    "source": "Virology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.638095
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Miscellaneous Biology",
+    "weight": 0.637931
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Ecology",
+    "weight": 0.637795
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.637681
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Pediatrics",
+    "weight": 0.637255
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Planning & Urban Studies",
+    "weight": 0.637255
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Public Health",
+    "weight": 0.636364
+  },
+  {
+    "source": "Geology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.636364
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Microbiology",
+    "weight": 0.634146
+  },
+  {
+    "source": "Entomology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.633588
+  },
+  {
+    "source": "Immunology",
+    "target": "Demography",
+    "weight": 0.633333
+  },
+  {
+    "source": "Demography",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.632653
+  },
+  {
+    "source": "Virology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.632479
+  },
+  {
+    "source": "Economics",
+    "target": "Area Studies",
+    "weight": 0.632075
+  },
+  {
+    "source": "Area Studies",
+    "target": "Demography",
+    "weight": 0.632075
+  },
+  {
+    "source": "Education",
+    "target": "Geography",
+    "weight": 0.631579
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "General Zoology",
+    "weight": 0.630872
+  },
+  {
+    "source": "Geology",
+    "target": "Environmental Science",
+    "weight": 0.626761
+  },
+  {
+    "source": "Geology",
+    "target": "Veterinary Medicine",
+    "weight": 0.626016
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Veterinary Medicine",
+    "weight": 0.626016
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Veterinary Medicine",
+    "weight": 0.626016
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "General & Internal Medicine",
+    "weight": 0.626016
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Parasitology",
+    "weight": 0.625954
+  },
+  {
+    "source": "Immunology",
+    "target": "Agricult & Food Science",
+    "weight": 0.625899
+  },
+  {
+    "source": "Immunology",
+    "target": "Health Policy & Services",
+    "weight": 0.625
+  },
+  {
+    "source": "Economics",
+    "target": "Planning & Urban Studies",
+    "weight": 0.623762
+  },
+  {
+    "source": "Miscellaneous Social Sciences",
+    "target": "Planning & Urban Studies",
+    "weight": 0.623762
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Botany",
+    "weight": 0.623288
+  },
+  {
+    "source": "Immunology",
+    "target": "Botany",
+    "weight": 0.623288
+  },
+  {
+    "source": "Botany",
+    "target": "Microbiology",
+    "weight": 0.623288
+  },
+  {
+    "source": "Geology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.623188
+  },
+  {
+    "source": "Demography",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.623188
+  },
+  {
+    "source": "Materials Science",
+    "target": "Physical Chemistry",
+    "weight": 0.622951
+  },
+  {
+    "source": "Physical Chemistry",
+    "target": "General Physics",
+    "weight": 0.622951
+  },
+  {
+    "source": "Public Health",
+    "target": "Planning & Urban Studies",
+    "weight": 0.622378
+  },
+  {
+    "source": "Microbiology",
+    "target": "Ecology",
+    "weight": 0.622047
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.621849
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.621849
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.621849
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.621849
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Geology",
+    "weight": 0.619835
+  },
+  {
+    "source": "Environmental Science",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.619718
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Applied Physics",
+    "weight": 0.619048
+  },
+  {
+    "source": "Optics",
+    "target": "Applied Physics",
+    "weight": 0.619048
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Agricult & Food Science",
+    "weight": 0.618705
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Microbiology",
+    "weight": 0.618705
+  },
+  {
+    "source": "Entomology",
+    "target": "Virology",
+    "weight": 0.618321
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Pediatrics",
+    "weight": 0.617647
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "General Zoology",
+    "weight": 0.61745
+  },
+  {
+    "source": "Virology",
+    "target": "General Biomedical Research",
+    "weight": 0.617391
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Botany",
+    "weight": 0.616438
+  },
+  {
+    "source": "Area Studies",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.615942
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Pediatrics",
+    "weight": 0.615942
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "General Physics",
+    "weight": 0.615385
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Applied Chemistry",
+    "weight": 0.615385
+  },
+  {
+    "source": "Applied Physics",
+    "target": "General Physics",
+    "weight": 0.615385
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Pediatrics",
+    "weight": 0.614679
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Ecology",
+    "weight": 0.614173
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Civil Engineering",
+    "weight": 0.613636
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.613333
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "General Biomedical Research",
+    "weight": 0.613333
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.613333
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "General Biomedical Research",
+    "weight": 0.612069
+  },
+  {
+    "source": "Geography",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.611765
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Entomology",
+    "weight": 0.610687
+  },
+  {
+    "source": "Entomology",
+    "target": "Health Policy & Services",
+    "weight": 0.610687
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Parasitology",
+    "weight": 0.610687
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "General & Internal Medicine",
+    "weight": 0.610169
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Veterinary Medicine",
+    "weight": 0.609756
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Respiratory System",
+    "weight": 0.609524
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.608696
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Planning & Urban Studies",
+    "weight": 0.608696
+  },
+  {
+    "source": "Public Health",
+    "target": "Demography",
+    "weight": 0.608392
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Immunology",
+    "weight": 0.608333
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Genetics & Heredity",
+    "weight": 0.607477
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Microbiology",
+    "weight": 0.607143
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Microbiology",
+    "weight": 0.607143
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Health Policy & Services",
+    "weight": 0.606838
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Microbiology",
+    "weight": 0.606667
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Geology",
+    "weight": 0.606667
+  },
+  {
+    "source": "Ecology",
+    "target": "Earth & planetary Science",
+    "weight": 0.606299
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Environmental Science",
+    "weight": 0.605634
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.605042
+  },
+  {
+    "source": "Area Studies",
+    "target": "Agricult & Food Science",
+    "weight": 0.604317
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Agricult & Food Science",
+    "weight": 0.604317
+  },
+  {
+    "source": "Entomology",
+    "target": "Demography",
+    "weight": 0.603053
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Parasitology",
+    "weight": 0.603053
+  },
+  {
+    "source": "Economics",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.602151
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Demography",
+    "weight": 0.602041
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Pediatrics",
+    "weight": 0.601695
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.601449
+  },
+  {
+    "source": "Virology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.601449
+  },
+  {
+    "source": "Public Health",
+    "target": "Geology",
+    "weight": 0.601399
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "General & Internal Medicine",
+    "weight": 0.6
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "General Biomedical Research",
+    "weight": 0.6
+  },
+  {
+    "source": "Immunology",
+    "target": "General & Internal Medicine",
+    "weight": 0.6
+  },
+  {
+    "source": "Immunology",
+    "target": "Respiratory System",
+    "weight": 0.6
+  },
+  {
+    "source": "General Engineering",
+    "target": "Polymers",
+    "weight": 0.6
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Environmental Science",
+    "weight": 0.598592
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.598291
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Demography",
+    "weight": 0.598291
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Earth & planetary Science",
+    "weight": 0.598131
+  },
+  {
+    "source": "Materials Science",
+    "target": "Polymers",
+    "weight": 0.596154
+  },
+  {
+    "source": "Entomology",
+    "target": "Area Studies",
+    "weight": 0.59542
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Parasitology",
+    "weight": 0.59542
+  },
+  {
+    "source": "Parasitology",
+    "target": "Health Policy & Services",
+    "weight": 0.59542
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Applied Physics",
+    "weight": 0.595238
+  },
+  {
+    "source": "Public Health",
+    "target": "Microbiology",
+    "weight": 0.594406
+  },
+  {
+    "source": "Public Health",
+    "target": "General & Internal Medicine",
+    "weight": 0.594406
+  },
+  {
+    "source": "Public Health",
+    "target": "Miscellaneous Biology",
+    "weight": 0.594406
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.594203
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Microbiology",
+    "weight": 0.594203
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.594059
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "General & Internal Medicine",
+    "weight": 0.59322
+  },
+  {
+    "source": "Education",
+    "target": "General Social Sciences",
+    "weight": 0.592105
+  },
+  {
+    "source": "Immunology",
+    "target": "Area Studies",
+    "weight": 0.591667
+  },
+  {
+    "source": "General Zoology",
+    "target": "General & Internal Medicine",
+    "weight": 0.590604
+  },
+  {
+    "source": "Virology",
+    "target": "Ecology",
+    "weight": 0.590551
+  },
+  {
+    "source": "Demography",
+    "target": "Ecology",
+    "weight": 0.590551
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Physical Chemistry",
+    "weight": 0.590164
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Physical Chemistry",
+    "weight": 0.590164
+  },
+  {
+    "source": "Physical Chemistry",
+    "target": "General Chemistry",
+    "weight": 0.590164
+  },
+  {
+    "source": "Virology",
+    "target": "Pediatrics",
+    "weight": 0.588235
+  },
+  {
+    "source": "Microbiology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.588235
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Parasitology",
+    "weight": 0.587786
+  },
+  {
+    "source": "Entomology",
+    "target": "Microbiology",
+    "weight": 0.587786
+  },
+  {
+    "source": "Virology",
+    "target": "Parasitology",
+    "weight": 0.587786
+  },
+  {
+    "source": "Public Health",
+    "target": "Virology",
+    "weight": 0.587413
+  },
+  {
+    "source": "Area Studies",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.587156
+  },
+  {
+    "source": "Immunology",
+    "target": "Geology",
+    "weight": 0.586777
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Area Studies",
+    "weight": 0.586207
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.586207
+  },
+  {
+    "source": "Economics",
+    "target": "Health Policy & Services",
+    "weight": 0.585859
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Health Policy & Services",
+    "weight": 0.585859
+  },
+  {
+    "source": "Virology",
+    "target": "Health Policy & Services",
+    "weight": 0.585859
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Health Policy & Services",
+    "weight": 0.585859
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Veterinary Medicine",
+    "weight": 0.585366
+  },
+  {
+    "source": "Computers",
+    "target": "Materials Science",
+    "weight": 0.584906
+  },
+  {
+    "source": "Area Studies",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.584906
+  },
+  {
+    "source": "Area Studies",
+    "target": "Pediatrics",
+    "weight": 0.584906
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Physical Chemistry",
+    "weight": 0.584615
+  },
+  {
+    "source": "Microbiology",
+    "target": "Environmental Science",
+    "weight": 0.584507
+  },
+  {
+    "source": "Immunology",
+    "target": "General Zoology",
+    "weight": 0.583893
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Immunology",
+    "weight": 0.583333
+  },
+  {
+    "source": "Polymers",
+    "target": "General Chemistry",
+    "weight": 0.583333
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Ecology",
+    "weight": 0.582677
+  },
+  {
+    "source": "Ecology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.582677
+  },
+  {
+    "source": "Botany",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.582192
+  },
+  {
+    "source": "Economics",
+    "target": "Demography",
+    "weight": 0.581633
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "General Biology",
+    "weight": 0.581197
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Earth & planetary Science",
+    "weight": 0.581197
+  },
+  {
+    "source": "Public Health",
+    "target": "Area Studies",
+    "weight": 0.58042
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Microbiology",
+    "weight": 0.580357
+  },
+  {
+    "source": "Demography",
+    "target": "Microbiology",
+    "weight": 0.580357
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Health Policy & Services",
+    "weight": 0.58
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.579832
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.57971
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Demography",
+    "weight": 0.579439
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.579439
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.577982
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Earth & planetary Science",
+    "weight": 0.577586
+  },
+  {
+    "source": "Environmental Science",
+    "target": "Planning & Urban Studies",
+    "weight": 0.577465
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Health Policy & Services",
+    "weight": 0.577236
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Demography",
+    "weight": 0.577236
+  },
+  {
+    "source": "Materials Science",
+    "target": "General Engineering",
+    "weight": 0.576923
+  },
+  {
+    "source": "Virology",
+    "target": "Area Studies",
+    "weight": 0.575472
+  },
+  {
+    "source": "Botany",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.575342
+  },
+  {
+    "source": "Immunology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.575
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Ecology",
+    "weight": 0.574803
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Obstetrics & Gynecology",
+    "weight": 0.574468
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Computers",
+    "weight": 0.574074
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "General Biomedical Research",
+    "weight": 0.573913
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Health Policy & Services",
+    "weight": 0.573913
+  },
+  {
+    "source": "Physical Chemistry",
+    "target": "Polymers",
+    "weight": 0.57377
+  },
+  {
+    "source": "General Engineering",
+    "target": "Chemical Engineering",
+    "weight": 0.573529
+  },
+  {
+    "source": "Public Health",
+    "target": "Pediatrics",
+    "weight": 0.573427
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Virology",
+    "weight": 0.573333
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "General Biology",
+    "weight": 0.573034
+  },
+  {
+    "source": "Area Studies",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.57265
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.57265
+  },
+  {
+    "source": "Entomology",
+    "target": "General Biology",
+    "weight": 0.572519
+  },
+  {
+    "source": "Entomology",
+    "target": "General & Internal Medicine",
+    "weight": 0.572519
+  },
+  {
+    "source": "Parasitology",
+    "target": "Pediatrics",
+    "weight": 0.572519
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.571429
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Earth & planetary Science",
+    "weight": 0.571429
+  },
+  {
+    "source": "General Zoology",
+    "target": "General Biomedical Research",
+    "weight": 0.57047
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Miscellaneous Biology",
+    "weight": 0.570093
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Veterinary Medicine",
+    "weight": 0.569106
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.569106
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.568966
+  },
+  {
+    "source": "Economics",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.568807
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Pediatrics",
+    "weight": 0.568627
+  },
+  {
+    "source": "Area Studies",
+    "target": "Botany",
+    "weight": 0.568493
+  },
+  {
+    "source": "Virology",
+    "target": "Agricult & Food Science",
+    "weight": 0.568345
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Agricult & Food Science",
+    "weight": 0.568345
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "General & Internal Medicine",
+    "weight": 0.567797
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Ecology",
+    "weight": 0.566929
+  },
+  {
+    "source": "General Biology",
+    "target": "Ecology",
+    "weight": 0.566929
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Demography",
+    "weight": 0.566667
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Anthropology and Archaeology",
+    "weight": 0.566667
+  },
+  {
+    "source": "Immunology",
+    "target": "Obstetrics & Gynecology",
+    "weight": 0.566667
+  },
+  {
+    "source": "Nursing",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.566667
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Earth & planetary Science",
+    "weight": 0.565217
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Parasitology",
+    "weight": 0.564885
+  },
+  {
+    "source": "Demography",
+    "target": "Parasitology",
+    "weight": 0.564885
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.564706
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Solid State Physics",
+    "weight": 0.564103
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Pediatrics",
+    "weight": 0.564103
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Respiratory System",
+    "weight": 0.56383
+  },
+  {
+    "source": "General Zoology",
+    "target": "Microbiology",
+    "weight": 0.563758
+  },
+  {
+    "source": "Area Studies",
+    "target": "Environmental Science",
+    "weight": 0.56338
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Microbiology",
+    "weight": 0.5625
+  },
+  {
+    "source": "Economics",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.561905
+  },
+  {
+    "source": "Botany",
+    "target": "General & Internal Medicine",
+    "weight": 0.561644
+  },
+  {
+    "source": "Botany",
+    "target": "Demography",
+    "weight": 0.561644
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Demography",
+    "weight": 0.561224
+  },
+  {
+    "source": "Virology",
+    "target": "Respiratory System",
+    "weight": 0.561224
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "General & Internal Medicine",
+    "weight": 0.561151
+  },
+  {
+    "source": "Area Studies",
+    "target": "Veterinary Medicine",
+    "weight": 0.560976
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Planning & Urban Studies",
+    "weight": 0.560976
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "General Biology",
+    "weight": 0.560748
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Area Studies",
+    "weight": 0.560748
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Virology",
+    "weight": 0.560748
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Health Policy & Services",
+    "weight": 0.560748
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.560345
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Pediatrics",
+    "weight": 0.56
+  },
+  {
+    "source": "Virology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.559633
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.559633
+  },
+  {
+    "source": "Ecology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.559055
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Chemical Engineering",
+    "weight": 0.558824
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Civil Engineering",
+    "weight": 0.558824
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Chemical Engineering",
+    "weight": 0.558824
+  },
+  {
+    "source": "Optics",
+    "target": "Materials Science",
+    "weight": 0.557692
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Physical Chemistry",
+    "weight": 0.557377
+  },
+  {
+    "source": "Entomology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.557252
+  },
+  {
+    "source": "Area Studies",
+    "target": "Parasitology",
+    "weight": 0.557252
+  },
+  {
+    "source": "Parasitology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.557252
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.556818
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Earth & planetary Science",
+    "weight": 0.556701
+  },
+  {
+    "source": "Area Studies",
+    "target": "General Biomedical Research",
+    "weight": 0.556522
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "General Biomedical Research",
+    "weight": 0.556522
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Demography",
+    "weight": 0.556522
+  },
+  {
+    "source": "Immunology",
+    "target": "Environmental Science",
+    "weight": 0.556338
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Environmental Science",
+    "weight": 0.556338
+  },
+  {
+    "source": "Botany",
+    "target": "General Biomedical Research",
+    "weight": 0.554795
+  },
+  {
+    "source": "General Biology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.554622
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.554622
+  },
+  {
+    "source": "Marine Biology & Hydrobiology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.554622
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Planning & Urban Studies",
+    "weight": 0.554455
+  },
+  {
+    "source": "Earth & planetary Science",
+    "target": "Planning & Urban Studies",
+    "weight": 0.554455
+  },
+  {
+    "source": "Geology",
+    "target": "General Biomedical Research",
+    "weight": 0.553719
+  },
+  {
+    "source": "Geology",
+    "target": "General & Internal Medicine",
+    "weight": 0.553719
+  },
+  {
+    "source": "General Engineering",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.553571
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Miscellaneous Biology",
+    "weight": 0.553333
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Planning & Urban Studies",
+    "weight": 0.553333
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.553191
+  },
+  {
+    "source": "Education",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.552941
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Pediatrics",
+    "weight": 0.552846
+  },
+  {
+    "source": "Education",
+    "target": "Language & Linguistics",
+    "weight": 0.552632
+  },
+  {
+    "source": "Public Health",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.552448
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Health Policy & Services",
+    "weight": 0.551724
+  },
+  {
+    "source": "Area Studies",
+    "target": "Ecology",
+    "weight": 0.551181
+  },
+  {
+    "source": "Demography",
+    "target": "Earth & planetary Science",
+    "weight": 0.55102
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "General & Internal Medicine",
+    "weight": 0.550847
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Earth & planetary Science",
+    "weight": 0.550725
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.550459
+  },
+  {
+    "source": "General Zoology",
+    "target": "General Biology",
+    "weight": 0.550336
+  },
+  {
+    "source": "Entomology",
+    "target": "Earth & planetary Science",
+    "weight": 0.549618
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Environmental Science",
+    "weight": 0.549296
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Geography",
+    "weight": 0.549296
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Environmental Science",
+    "weight": 0.549296
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Microbiology",
+    "weight": 0.547826
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Management",
+    "weight": 0.547619
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Cardiovascular System",
+    "weight": 0.547619
+  },
+  {
+    "source": "Computers",
+    "target": "General Engineering",
+    "weight": 0.54717
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Area Studies",
+    "weight": 0.546667
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Earth & planetary Science",
+    "weight": 0.546392
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Geology",
+    "weight": 0.545455
+  },
+  {
+    "source": "Human Factors",
+    "target": "Management",
+    "weight": 0.545455
+  },
+  {
+    "source": "Geology",
+    "target": "Microbiology",
+    "weight": 0.545455
+  },
+  {
+    "source": "Virology",
+    "target": "Veterinary Medicine",
+    "weight": 0.544715
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Veterinary Medicine",
+    "weight": 0.544715
+  },
+  {
+    "source": "Physical Chemistry",
+    "target": "Chemical Engineering",
+    "weight": 0.544118
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.543478
+  },
+  {
+    "source": "Polymers",
+    "target": "Applied Physics",
+    "weight": 0.543478
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Demography",
+    "weight": 0.543103
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Geography",
+    "weight": 0.542857
+  },
+  {
+    "source": "Materials Science",
+    "target": "Applied Chemistry",
+    "weight": 0.542373
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "General & Internal Medicine",
+    "weight": 0.542373
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "General & Internal Medicine",
+    "weight": 0.542373
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Health Policy & Services",
+    "weight": 0.542373
+  },
+  {
+    "source": "Entomology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.541985
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Respiratory System",
+    "weight": 0.541284
+  },
+  {
+    "source": "Virology",
+    "target": "Botany",
+    "weight": 0.541096
+  },
+  {
+    "source": "Botany",
+    "target": "General Biology",
+    "weight": 0.541096
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Physical Chemistry",
+    "weight": 0.540984
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Philosophy",
+    "weight": 0.540541
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Agricult & Food Science",
+    "weight": 0.539568
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Health Policy & Services",
+    "weight": 0.539568
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Planning & Urban Studies",
+    "weight": 0.539568
+  },
+  {
+    "source": "Education",
+    "target": "Nursing",
+    "weight": 0.539474
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.539474
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.539474
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.539216
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.539216
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.538462
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "General Engineering",
+    "weight": 0.538462
+  },
+  {
+    "source": "Virology",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.537815
+  },
+  {
+    "source": "Area Studies",
+    "target": "Earth & planetary Science",
+    "weight": 0.537736
+  },
+  {
+    "source": "Education",
+    "target": "Economics",
+    "weight": 0.537634
+  },
+  {
+    "source": "Economics",
+    "target": "Geography",
+    "weight": 0.537634
+  },
+  {
+    "source": "Geology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.53719
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Industrial Engineering",
+    "weight": 0.537037
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Polymers",
+    "weight": 0.537037
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "General Zoology",
+    "weight": 0.536913
+  },
+  {
+    "source": "General Zoology",
+    "target": "Earth & planetary Science",
+    "weight": 0.536913
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Veterinary Medicine",
+    "weight": 0.536585
+  },
+  {
+    "source": "Area Studies",
+    "target": "Microbiology",
+    "weight": 0.535714
+  },
+  {
+    "source": "Operations Research",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.535714
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.535714
+  },
+  {
+    "source": "Microbiology",
+    "target": "Health Policy & Services",
+    "weight": 0.535714
+  },
+  {
+    "source": "Microbiology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.535714
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Ecology",
+    "weight": 0.535433
+  },
+  {
+    "source": "Economics",
+    "target": "Environmental Science",
+    "weight": 0.535211
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Environmental Science",
+    "weight": 0.535211
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Environmental Science",
+    "weight": 0.535211
+  },
+  {
+    "source": "Virology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.534653
+  },
+  {
+    "source": "Geography",
+    "target": "Planning & Urban Studies",
+    "weight": 0.534653
+  },
+  {
+    "source": "Entomology",
+    "target": "Pediatrics",
+    "weight": 0.534351
+  },
+  {
+    "source": "Parasitology",
+    "target": "Earth & planetary Science",
+    "weight": 0.534351
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.534091
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.534091
+  },
+  {
+    "source": "Area Studies",
+    "target": "General & Internal Medicine",
+    "weight": 0.533898
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.53271
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Demography",
+    "weight": 0.532374
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Applied Mathematics",
+    "weight": 0.531646
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Applied Mathematics",
+    "weight": 0.531646
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Applied Mathematics",
+    "weight": 0.531646
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Chemical Engineering",
+    "weight": 0.531646
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.531646
+  },
+  {
+    "source": "Virology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.530612
+  },
+  {
+    "source": "Demography",
+    "target": "Geography",
+    "weight": 0.530612
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Pediatrics",
+    "weight": 0.530435
+  },
+  {
+    "source": "Area Studies",
+    "target": "General Zoology",
+    "weight": 0.530201
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Respiratory System",
+    "weight": 0.529915
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Experimental Psychology",
+    "weight": 0.529412
+  },
+  {
+    "source": "Operations Research",
+    "target": "Probability & Statistics",
+    "weight": 0.529412
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Earth & planetary Science",
+    "weight": 0.529412
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Chemical Engineering",
+    "weight": 0.529412
+  },
+  {
+    "source": "Miscellaneous Social Sciences",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.529412
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Veterinary Medicine",
+    "weight": 0.528455
+  },
+  {
+    "source": "Computers",
+    "target": "Industrial Engineering",
+    "weight": 0.528302
+  },
+  {
+    "source": "Computers",
+    "target": "Operations Research",
+    "weight": 0.528302
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Environmental Science",
+    "weight": 0.528169
+  },
+  {
+    "source": "Education",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.526316
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.526316
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Physical Chemistry",
+    "weight": 0.526316
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Applied Chemistry",
+    "weight": 0.525424
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.525424
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Earth & planetary Science",
+    "weight": 0.525253
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Agricult & Food Science",
+    "weight": 0.52518
+  },
+  {
+    "source": "Immunology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.525
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Physical Chemistry",
+    "weight": 0.52459
+  },
+  {
+    "source": "General Engineering",
+    "target": "Physical Chemistry",
+    "weight": 0.52459
+  },
+  {
+    "source": "Physical Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.52459
+  },
+  {
+    "source": "Public Health",
+    "target": "Respiratory System",
+    "weight": 0.524476
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.52381
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Surgery",
+    "weight": 0.52381
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Surgery",
+    "weight": 0.52381
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Pediatrics",
+    "weight": 0.523364
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Anatomy & Morphology",
+    "weight": 0.523256
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Applied Mathematics",
+    "weight": 0.522727
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "General Biomedical Research",
+    "weight": 0.521739
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.521739
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Polymers",
+    "weight": 0.521739
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Polymers",
+    "weight": 0.521739
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.521277
+  },
+  {
+    "source": "Demography",
+    "target": "Environmental Science",
+    "weight": 0.521127
+  },
+  {
+    "source": "Marine Biology & Hydrobiology",
+    "target": "Earth & planetary Science",
+    "weight": 0.521008
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "General Chemistry",
+    "weight": 0.520833
+  },
+  {
+    "source": "Botany",
+    "target": "Health Policy & Services",
+    "weight": 0.520548
+  },
+  {
+    "source": "Virology",
+    "target": "Earth & planetary Science",
+    "weight": 0.520408
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Demography",
+    "weight": 0.520408
+  },
+  {
+    "source": "Materials Science",
+    "target": "General Chemistry",
+    "weight": 0.519231
+  },
+  {
+    "source": "Materials Science",
+    "target": "Applied Physics",
+    "weight": 0.519231
+  },
+  {
+    "source": "Materials Science",
+    "target": "General Physics",
+    "weight": 0.519231
+  },
+  {
+    "source": "General Chemistry",
+    "target": "General Physics",
+    "weight": 0.519231
+  },
+  {
+    "source": "Computers",
+    "target": "Applied Mathematics",
+    "weight": 0.518987
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Applied Mathematics",
+    "weight": 0.518987
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Physical Chemistry",
+    "weight": 0.518987
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Operations Research",
+    "weight": 0.518519
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "General Biology",
+    "weight": 0.517986
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Earth & planetary Science",
+    "weight": 0.517986
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.517857
+  },
+  {
+    "source": "Public Health",
+    "target": "Obstetrics & Gynecology",
+    "weight": 0.517483
+  },
+  {
+    "source": "Public Health",
+    "target": "Earth & planetary Science",
+    "weight": 0.517483
+  },
+  {
+    "source": "Immunology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.516667
+  },
+  {
+    "source": "Immunology",
+    "target": "Earth & planetary Science",
+    "weight": 0.516667
+  },
+  {
+    "source": "General Biology",
+    "target": "Earth & planetary Science",
+    "weight": 0.515464
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Health Policy & Services",
+    "weight": 0.515152
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Planning & Urban Studies",
+    "weight": 0.514851
+  },
+  {
+    "source": "Materials Science",
+    "target": "Chemical Engineering",
+    "weight": 0.514706
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Civil Engineering",
+    "weight": 0.514706
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "General Social Sciences",
+    "weight": 0.514286
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.514286
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Cancer",
+    "weight": 0.514286
+  },
+  {
+    "source": "Environmental Science",
+    "target": "Earth & planetary Science",
+    "weight": 0.514085
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.513761
+  },
+  {
+    "source": "Botany",
+    "target": "Planning & Urban Studies",
+    "weight": 0.513699
+  },
+  {
+    "source": "Botany",
+    "target": "Earth & planetary Science",
+    "weight": 0.513699
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Orthopedics",
+    "weight": 0.513514
+  },
+  {
+    "source": "Education",
+    "target": "Miscellaneous Clinical Medicine",
+    "weight": 0.513158
+  },
+  {
+    "source": "Computers",
+    "target": "General Mathematics",
+    "weight": 0.513158
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Applied Chemistry",
+    "weight": 0.513158
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.513158
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Planning & Urban Studies",
+    "weight": 0.513043
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Respiratory System",
+    "weight": 0.513043
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.512821
+  },
+  {
+    "source": "Economics",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.512605
+  },
+  {
+    "source": "Demography",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.512605
+  },
+  {
+    "source": "Miscellaneous Social Sciences",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.512605
+  },
+  {
+    "source": "Area Studies",
+    "target": "Geology",
+    "weight": 0.512397
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Ecology",
+    "weight": 0.511811
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Chemical Engineering",
+    "weight": 0.511364
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Analytical Chemistry",
+    "weight": 0.511111
+  },
+  {
+    "source": "Economics",
+    "target": "Agricult & Food Science",
+    "weight": 0.510791
+  },
+  {
+    "source": "Economics",
+    "target": "Obstetrics & Gynecology",
+    "weight": 0.510638
+  },
+  {
+    "source": "Demography",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.510204
+  },
+  {
+    "source": "Economics",
+    "target": "Pediatrics",
+    "weight": 0.509804
+  },
+  {
+    "source": "Urology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.509804
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Microbiology",
+    "weight": 0.508929
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Solid State Physics",
+    "weight": 0.508772
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Economics",
+    "weight": 0.508621
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.508621
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Geography",
+    "weight": 0.508621
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Demography",
+    "weight": 0.508475
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Planning & Urban Studies",
+    "weight": 0.508475
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "General Chemistry",
+    "weight": 0.507692
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Polymers",
+    "weight": 0.507692
+  },
+  {
+    "source": "General Psychology",
+    "target": "General Social Sciences",
+    "weight": 0.507042
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Geography",
+    "weight": 0.507042
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Geography",
+    "weight": 0.507042
+  },
+  {
+    "source": "Operations Research",
+    "target": "Applied Mathematics",
+    "weight": 0.506329
+  },
+  {
+    "source": "Economics",
+    "target": "General Social Sciences",
+    "weight": 0.505376
+  },
+  {
+    "source": "Earth & planetary Science",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.505155
+  },
+  {
+    "source": "Education",
+    "target": "Planning & Urban Studies",
+    "weight": 0.50495
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Planning & Urban Studies",
+    "weight": 0.50495
+  },
+  {
+    "source": "Economics",
+    "target": "Miscellaneous Biology",
+    "weight": 0.504673
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Respiratory System",
+    "weight": 0.504673
+  },
+  {
+    "source": "Economics",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.504274
+  },
+  {
+    "source": "Area Studies",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.504202
+  },
+  {
+    "source": "Geology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.504132
+  },
+  {
+    "source": "Economics",
+    "target": "Veterinary Medicine",
+    "weight": 0.504065
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Earth & planetary Science",
+    "weight": 0.504065
+  },
+  {
+    "source": "Economics",
+    "target": "Ecology",
+    "weight": 0.503937
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Agricult & Food Science",
+    "weight": 0.503597
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Pediatrics",
+    "weight": 0.503597
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "General Zoology",
+    "weight": 0.503356
+  },
+  {
+    "source": "Virology",
+    "target": "General Zoology",
+    "weight": 0.503356
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "General Zoology",
+    "weight": 0.503356
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Earth & planetary Science",
+    "weight": 0.5
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Oceanography & Limnology",
+    "weight": 0.5
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.5
+  },
+  {
+    "source": "Economics",
+    "target": "Botany",
+    "weight": 0.5
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.5
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.5
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.5
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.5
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "General & Internal Medicine",
+    "weight": 0.5
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Clinical Psychology",
+    "weight": 0.5
+  },
+  {
+    "source": "Optics",
+    "target": "Polymers",
+    "weight": 0.5
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Metals & Metallurgy",
+    "weight": 0.5
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Area Studies",
+    "weight": 0.5
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Surgery",
+    "weight": 0.5
+  },
+  {
+    "source": "Botany",
+    "target": "Pediatrics",
+    "weight": 0.5
+  },
+  {
+    "source": "General Mathematics",
+    "target": "General Physics",
+    "weight": 0.5
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.5
+  },
+  {
+    "source": "Materials Science",
+    "target": "Civil Engineering",
+    "weight": 0.5
+  },
+  {
+    "source": "Materials Science",
+    "target": "Metals & Metallurgy",
+    "weight": 0.5
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.5
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "General Physics",
+    "weight": 0.5
+  },
+  {
+    "source": "General Engineering",
+    "target": "General Chemistry",
+    "weight": 0.5
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Environmental Science",
+    "weight": 0.5
+  },
+  {
+    "source": "Microbiology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.5
+  },
+  {
+    "source": "Civil Engineering",
+    "target": "Chemical Engineering",
+    "weight": 0.5
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.5
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Environmental Science",
+    "weight": 0.5
+  },
+  {
+    "source": "Allergy",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.5
+  },
+  {
+    "source": "General Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.5
+  },
+  {
+    "source": "General Zoology",
+    "target": "Health Policy & Services",
+    "weight": 0.496644
+  },
+  {
+    "source": "Economics",
+    "target": "Public Health",
+    "weight": 0.496503
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.496403
+  },
+  {
+    "source": "Economics",
+    "target": "Entomology",
+    "weight": 0.496183
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Entomology",
+    "weight": 0.496183
+  },
+  {
+    "source": "Parasitology",
+    "target": "General Biology",
+    "weight": 0.496183
+  },
+  {
+    "source": "Geology",
+    "target": "Pediatrics",
+    "weight": 0.495868
+  },
+  {
+    "source": "Geology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.495868
+  },
+  {
+    "source": "Pediatrics",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.495798
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "Earth & planetary Science",
+    "weight": 0.495413
+  },
+  {
+    "source": "Geography",
+    "target": "Health Policy & Services",
+    "weight": 0.494949
+  },
+  {
+    "source": "Materials Science",
+    "target": "Applied Mathematics",
+    "weight": 0.493671
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Botany",
+    "weight": 0.493151
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Geography",
+    "weight": 0.492958
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Political Science and Public Administration",
+    "weight": 0.492958
+  },
+  {
+    "source": "Economics",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.492754
+  },
+  {
+    "source": "Optics",
+    "target": "Physical Chemistry",
+    "weight": 0.491803
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Physical Chemistry",
+    "weight": 0.491803
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Physical Chemistry",
+    "weight": 0.491803
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Physical Chemistry",
+    "weight": 0.491803
+  },
+  {
+    "source": "Economics",
+    "target": "Immunology",
+    "weight": 0.491667
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "General & Internal Medicine",
+    "weight": 0.491525
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "General Physics",
+    "weight": 0.491525
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "General Biology",
+    "weight": 0.491379
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Microbiology",
+    "weight": 0.491379
+  },
+  {
+    "source": "Microbiology",
+    "target": "Earth & planetary Science",
+    "weight": 0.491071
+  },
+  {
+    "source": "Social Work",
+    "target": "Political Science and Public Administration",
+    "weight": 0.490909
+  },
+  {
+    "source": "Psychiatry",
+    "target": "Dentistry",
+    "weight": 0.490909
+  },
+  {
+    "source": "Area Studies",
+    "target": "Geography",
+    "weight": 0.490566
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Demography",
+    "weight": 0.489796
+  },
+  {
+    "source": "Virology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.489796
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.488636
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.488636
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Communication",
+    "weight": 0.488372
+  },
+  {
+    "source": "Nephrology",
+    "target": "Cardiovascular System",
+    "weight": 0.487805
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Nuclear Technology",
+    "weight": 0.487805
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.487805
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Optics",
+    "weight": 0.487805
+  },
+  {
+    "source": "Geology",
+    "target": "General Biology",
+    "weight": 0.487603
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.487179
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "General Mathematics",
+    "weight": 0.486842
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Materials Science",
+    "weight": 0.486842
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Gastroenterology",
+    "weight": 0.486486
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Orthopedics",
+    "weight": 0.485714
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "General Biology",
+    "weight": 0.485507
+  },
+  {
+    "source": "Education",
+    "target": "Health Policy & Services",
+    "weight": 0.484848
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Health Policy & Services",
+    "weight": 0.484848
+  },
+  {
+    "source": "Miscellaneous Social Sciences",
+    "target": "Earth & planetary Science",
+    "weight": 0.484536
+  },
+  {
+    "source": "Economics",
+    "target": "Oceanography & Limnology",
+    "weight": 0.483871
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Immunology",
+    "weight": 0.483333
+  },
+  {
+    "source": "Nursing",
+    "target": "Social Work",
+    "weight": 0.483333
+  },
+  {
+    "source": "General Zoology",
+    "target": "Demography",
+    "weight": 0.483221
+  },
+  {
+    "source": "General Biology",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.483146
+  },
+  {
+    "source": "Education",
+    "target": "Anthropology and Archaeology",
+    "weight": 0.482759
+  },
+  {
+    "source": "Human Factors",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.482759
+  },
+  {
+    "source": "Management",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.482759
+  },
+  {
+    "source": "Economics",
+    "target": "Microbiology",
+    "weight": 0.482143
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Microbiology",
+    "weight": 0.482143
+  },
+  {
+    "source": "Optics",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.482143
+  },
+  {
+    "source": "Computers",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.482143
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Microbiology",
+    "weight": 0.482143
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Polymers",
+    "weight": 0.482143
+  },
+  {
+    "source": "Optics",
+    "target": "Mechanical Engineering",
+    "weight": 0.481481
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Parasitology",
+    "weight": 0.480916
+  },
+  {
+    "source": "Optics",
+    "target": "General Physics",
+    "weight": 0.480769
+  },
+  {
+    "source": "Materials Science",
+    "target": "Industrial Engineering",
+    "weight": 0.480769
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "General Physics",
+    "weight": 0.480769
+  },
+  {
+    "source": "Education",
+    "target": "Demography",
+    "weight": 0.479592
+  },
+  {
+    "source": "Economics",
+    "target": "Virology",
+    "weight": 0.479592
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Demography",
+    "weight": 0.479592
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Virology",
+    "weight": 0.479592
+  },
+  {
+    "source": "Virology",
+    "target": "General Biology",
+    "weight": 0.479592
+  },
+  {
+    "source": "Hematology",
+    "target": "Gastroenterology",
+    "weight": 0.479167
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "General Chemistry",
+    "weight": 0.479167
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "General Biology",
+    "weight": 0.478261
+  },
+  {
+    "source": "Human Factors",
+    "target": "Industrial Engineering",
+    "weight": 0.477273
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.477273
+  },
+  {
+    "source": "Respiratory System",
+    "target": "Geography",
+    "weight": 0.477273
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "General Social Sciences",
+    "weight": 0.477064
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.476923
+  },
+  {
+    "source": "Education",
+    "target": "Miscellaneous Biomedical Research",
+    "weight": 0.476744
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "Geography",
+    "weight": 0.476636
+  },
+  {
+    "source": "General Zoology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.47651
+  },
+  {
+    "source": "Nephrology",
+    "target": "Surgery",
+    "weight": 0.47619
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.47619
+  },
+  {
+    "source": "Public Health",
+    "target": "General Biology",
+    "weight": 0.475524
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Planning & Urban Studies",
+    "weight": 0.475248
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.475248
+  },
+  {
+    "source": "Nephrology",
+    "target": "Gastroenterology",
+    "weight": 0.475
+  },
+  {
+    "source": "Optics",
+    "target": "Solid State Physics",
+    "weight": 0.475
+  },
+  {
+    "source": "Optics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.475
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Agricult & Food Science",
+    "weight": 0.47482
+  },
+  {
+    "source": "General Biology",
+    "target": "Health Policy & Services",
+    "weight": 0.474747
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Applied Chemistry",
+    "weight": 0.474576
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Pediatrics",
+    "weight": 0.474138
+  },
+  {
+    "source": "Education",
+    "target": "Civil Engineering",
+    "weight": 0.473684
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Applied Physics",
+    "weight": 0.473684
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "General Biology",
+    "weight": 0.473333
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Parasitology",
+    "weight": 0.473282
+  },
+  {
+    "source": "General Biology",
+    "target": "Microbiology",
+    "weight": 0.473214
+  },
+  {
+    "source": "Psychiatry",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.472727
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Environmental Science",
+    "weight": 0.471831
+  },
+  {
+    "source": "Education",
+    "target": "Area Studies",
+    "weight": 0.471698
+  },
+  {
+    "source": "Computers",
+    "target": "Polymers",
+    "weight": 0.471698
+  },
+  {
+    "source": "Geology",
+    "target": "Health Policy & Services",
+    "weight": 0.471074
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.471014
+  },
+  {
+    "source": "Environmental & Occupational Health",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.471014
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.470588
+  },
+  {
+    "source": "Economics",
+    "target": "General Zoology",
+    "weight": 0.469799
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "General Biomedical Research",
+    "weight": 0.469565
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Virology",
+    "weight": 0.469388
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Cancer",
+    "weight": 0.46875
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Orthopedics",
+    "weight": 0.46875
+  },
+  {
+    "source": "Neurology & Neurosurgery",
+    "target": "Cancer",
+    "weight": 0.46875
+  },
+  {
+    "source": "Cancer",
+    "target": "Orthopedics",
+    "weight": 0.46875
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Applied Mathematics",
+    "weight": 0.468354
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Civil Engineering",
+    "weight": 0.468354
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "General Physics",
+    "weight": 0.468354
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.46789
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Nutrition & Dietetic",
+    "weight": 0.46789
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Agricult & Food Science",
+    "weight": 0.467626
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Obstetrics & Gynecology",
+    "weight": 0.466667
+  },
+  {
+    "source": "Immunology",
+    "target": "General Biology",
+    "weight": 0.466667
+  },
+  {
+    "source": "Botany",
+    "target": "Dairy & Animal Science",
+    "weight": 0.465753
+  },
+  {
+    "source": "Economics",
+    "target": "Parasitology",
+    "weight": 0.465649
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Parasitology",
+    "weight": 0.465649
+  },
+  {
+    "source": "General Psychology",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.465517
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "General Social Sciences",
+    "weight": 0.465116
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Environmental Science",
+    "weight": 0.464789
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Health Policy & Services",
+    "weight": 0.464646
+  },
+  {
+    "source": "Geography",
+    "target": "Ecology",
+    "weight": 0.464567
+  },
+  {
+    "source": "Ecology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.464567
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.464286
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Organic Chemistry",
+    "weight": 0.463415
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Gastroenterology",
+    "weight": 0.463415
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "General Biology",
+    "weight": 0.463415
+  },
+  {
+    "source": "General Zoology",
+    "target": "Pediatrics",
+    "weight": 0.463087
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Applied Physics",
+    "weight": 0.462963
+  },
+  {
+    "source": "Economics",
+    "target": "Geology",
+    "weight": 0.46281
+  },
+  {
+    "source": "Geology",
+    "target": "Demography",
+    "weight": 0.46281
+  },
+  {
+    "source": "Public Health",
+    "target": "Oceanography & Limnology",
+    "weight": 0.461538
+  },
+  {
+    "source": "Management",
+    "target": "Literature",
+    "weight": 0.461538
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Metals & Metallurgy",
+    "weight": 0.461538
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.461538
+  },
+  {
+    "source": "Polymers",
+    "target": "General Physics",
+    "weight": 0.461538
+  },
+  {
+    "source": "Education",
+    "target": "Information Science & Library Science",
+    "weight": 0.460526
+  },
+  {
+    "source": "General Mathematics",
+    "target": "General Engineering",
+    "weight": 0.460526
+  },
+  {
+    "source": "Optics",
+    "target": "General Engineering",
+    "weight": 0.46
+  },
+  {
+    "source": "Philosophy",
+    "target": "Literature",
+    "weight": 0.459459
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Demography",
+    "weight": 0.459184
+  },
+  {
+    "source": "History",
+    "target": "Language & Linguistics",
+    "weight": 0.459016
+  },
+  {
+    "source": "Computers",
+    "target": "Physical Chemistry",
+    "weight": 0.459016
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Physical Chemistry",
+    "weight": 0.459016
+  },
+  {
+    "source": "Dermatology & Venerial Disease",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.458824
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.458333
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "General Chemistry",
+    "weight": 0.458333
+  },
+  {
+    "source": "Economics",
+    "target": "General & Internal Medicine",
+    "weight": 0.457627
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "General Chemistry",
+    "weight": 0.457627
+  },
+  {
+    "source": "Education",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.457143
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Gastroenterology",
+    "weight": 0.457143
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Gastroenterology",
+    "weight": 0.457143
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "General Social Sciences",
+    "weight": 0.45679
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.45614
+  },
+  {
+    "source": "Operations Research",
+    "target": "Civil Engineering",
+    "weight": 0.455882
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Civil Engineering",
+    "weight": 0.455882
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Chemical Engineering",
+    "weight": 0.455882
+  },
+  {
+    "source": "Polymers",
+    "target": "Chemical Engineering",
+    "weight": 0.455882
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Applied Mathematics",
+    "weight": 0.455696
+  },
+  {
+    "source": "General Engineering",
+    "target": "Applied Mathematics",
+    "weight": 0.455696
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Probability & Statistics",
+    "weight": 0.455696
+  },
+  {
+    "source": "Dermatology & Venerial Disease",
+    "target": "Planning & Urban Studies",
+    "weight": 0.455446
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Microbiology",
+    "weight": 0.455357
+  },
+  {
+    "source": "General Psychology",
+    "target": "Political Science and Public Administration",
+    "weight": 0.454545
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Health Policy & Services",
+    "weight": 0.454545
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "General Social Sciences",
+    "weight": 0.454545
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.454545
+  },
+  {
+    "source": "Nursing",
+    "target": "Health Policy & Services",
+    "weight": 0.454545
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.454545
+  },
+  {
+    "source": "Economics",
+    "target": "Earth & planetary Science",
+    "weight": 0.453608
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Miscellaneous Clinical Medicine",
+    "weight": 0.453488
+  },
+  {
+    "source": "Optics",
+    "target": "Computers",
+    "weight": 0.45283
+  },
+  {
+    "source": "Computers",
+    "target": "Biomedical Engineering",
+    "weight": 0.45283
+  },
+  {
+    "source": "Area Studies",
+    "target": "General Social Sciences",
+    "weight": 0.45283
+  },
+  {
+    "source": "Dentistry",
+    "target": "Fertility",
+    "weight": 0.45283
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.452174
+  },
+  {
+    "source": "Economics",
+    "target": "Political Science and Public Administration",
+    "weight": 0.451613
+  },
+  {
+    "source": "Economics",
+    "target": "General Biology",
+    "weight": 0.451613
+  },
+  {
+    "source": "Operations Research",
+    "target": "Industrial Engineering",
+    "weight": 0.45098
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Pediatrics",
+    "weight": 0.45098
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Chemical Engineering",
+    "weight": 0.450704
+  },
+  {
+    "source": "Entomology",
+    "target": "Dairy & Animal Science",
+    "weight": 0.450382
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.45
+  },
+  {
+    "source": "Management",
+    "target": "Communication",
+    "weight": 0.45
+  },
+  {
+    "source": "Nursing",
+    "target": "Psychiatry",
+    "weight": 0.45
+  },
+  {
+    "source": "Hematology",
+    "target": "Ophthalmology",
+    "weight": 0.44898
+  },
+  {
+    "source": "History",
+    "target": "Literature",
+    "weight": 0.44898
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "Virology",
+    "weight": 0.448276
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Science studies",
+    "weight": 0.448276
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Geriatrics",
+    "weight": 0.448276
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.448276
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.448276
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Communication",
+    "weight": 0.448276
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Social Sciences, Biomedical",
+    "weight": 0.447619
+  },
+  {
+    "source": "Social Sciences, Biomedical",
+    "target": "General Biology",
+    "weight": 0.447619
+  },
+  {
+    "source": "Education",
+    "target": "Political Science and Public Administration",
+    "weight": 0.447368
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Chemical Engineering",
+    "weight": 0.447368
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.447059
+  },
+  {
+    "source": "Materials Science",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.446429
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.446429
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Solid State Physics",
+    "weight": 0.446429
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.446154
+  },
+  {
+    "source": "Education",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.445378
+  },
+  {
+    "source": "Hematology",
+    "target": "Allergy",
+    "weight": 0.444444
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "General Chemistry",
+    "weight": 0.444444
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Allergy",
+    "weight": 0.444444
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Geriatrics",
+    "weight": 0.444444
+  },
+  {
+    "source": "Science studies",
+    "target": "Geriatrics",
+    "weight": 0.444444
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Metals & Metallurgy",
+    "weight": 0.444444
+  },
+  {
+    "source": "Geriatrics & Gerontology",
+    "target": "Geriatrics",
+    "weight": 0.444444
+  },
+  {
+    "source": "Health Policy & Services",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.444444
+  },
+  {
+    "source": "General Biology",
+    "target": "Environmental Science",
+    "weight": 0.443662
+  },
+  {
+    "source": "Dermatology & Venerial Disease",
+    "target": "Earth & planetary Science",
+    "weight": 0.443299
+  },
+  {
+    "source": "Education",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.443182
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Respiratory System",
+    "weight": 0.443182
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Nursing",
+    "weight": 0.442623
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Political Science and Public Administration",
+    "weight": 0.442623
+  },
+  {
+    "source": "Pharmacology",
+    "target": "Dentistry",
+    "weight": 0.442623
+  },
+  {
+    "source": "General Psychology",
+    "target": "Social Work",
+    "weight": 0.442308
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Materials Science",
+    "weight": 0.442308
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "General Physics",
+    "weight": 0.442308
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "General Physics",
+    "weight": 0.442308
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "General Physics",
+    "weight": 0.442308
+  },
+  {
+    "source": "General Engineering",
+    "target": "General Physics",
+    "weight": 0.442308
+  },
+  {
+    "source": "Fertility",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.442308
+  },
+  {
+    "source": "Criminology",
+    "target": "Literature",
+    "weight": 0.441176
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Literature",
+    "weight": 0.441176
+  },
+  {
+    "source": "Computers",
+    "target": "Chemical Engineering",
+    "weight": 0.441176
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Chemical Engineering",
+    "weight": 0.441176
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Ecology",
+    "weight": 0.440945
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Applied Chemistry",
+    "weight": 0.440678
+  },
+  {
+    "source": "General Engineering",
+    "target": "Applied Chemistry",
+    "weight": 0.440678
+  },
+  {
+    "source": "Education",
+    "target": "Public Health",
+    "weight": 0.440559
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Science studies",
+    "weight": 0.44
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Science studies",
+    "weight": 0.44
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "General Engineering",
+    "weight": 0.44
+  },
+  {
+    "source": "Science studies",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.44
+  },
+  {
+    "source": "Anthropology and Archaeology",
+    "target": "General Social Sciences",
+    "weight": 0.439655
+  },
+  {
+    "source": "Veterinary Medicine",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.439024
+  },
+  {
+    "source": "Demography",
+    "target": "General Biology",
+    "weight": 0.438776
+  },
+  {
+    "source": "Miscellaneous Clinical Medicine",
+    "target": "Psychiatry",
+    "weight": 0.438356
+  },
+  {
+    "source": "Geology",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.438017
+  },
+  {
+    "source": "Hematology",
+    "target": "Urology",
+    "weight": 0.4375
+  },
+  {
+    "source": "Pharmacy",
+    "target": "General Chemistry",
+    "weight": 0.4375
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "General Chemistry",
+    "weight": 0.4375
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Cancer",
+    "weight": 0.4375
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Orthopedics",
+    "weight": 0.4375
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "General Chemistry",
+    "weight": 0.4375
+  },
+  {
+    "source": "Neurology & Neurosurgery",
+    "target": "Orthopedics",
+    "weight": 0.4375
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Marine Biology & Hydrobiology",
+    "weight": 0.436975
+  },
+  {
+    "source": "Social Work",
+    "target": "Geography",
+    "weight": 0.43662
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Political Science and Public Administration",
+    "weight": 0.436364
+  },
+  {
+    "source": "Psychiatry",
+    "target": "Orthopedics",
+    "weight": 0.436364
+  },
+  {
+    "source": "Acoustics",
+    "target": "Management",
+    "weight": 0.435897
+  },
+  {
+    "source": "Management",
+    "target": "Rehabilitation",
+    "weight": 0.435897
+  },
+  {
+    "source": "Management",
+    "target": "Science studies",
+    "weight": 0.435897
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "General Social Sciences",
+    "weight": 0.435897
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Nuclear Technology",
+    "weight": 0.435897
+  },
+  {
+    "source": "Civil Engineering",
+    "target": "Planning & Urban Studies",
+    "weight": 0.435644
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.435294
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Polymers",
+    "weight": 0.434783
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.434783
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Polymers",
+    "weight": 0.434783
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Civil Engineering",
+    "weight": 0.434211
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Operations Research",
+    "weight": 0.434211
+  },
+  {
+    "source": "Human Factors",
+    "target": "Computers",
+    "weight": 0.433962
+  },
+  {
+    "source": "Computers",
+    "target": "Management",
+    "weight": 0.433962
+  },
+  {
+    "source": "Computers",
+    "target": "General Physics",
+    "weight": 0.433962
+  },
+  {
+    "source": "Area Studies",
+    "target": "General Biology",
+    "weight": 0.433962
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.433333
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Metals & Metallurgy",
+    "weight": 0.432432
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Anesthesiology",
+    "weight": 0.432432
+  },
+  {
+    "source": "Clinical Psychology",
+    "target": "Philosophy",
+    "weight": 0.432432
+  },
+  {
+    "source": "Clinical Psychology",
+    "target": "Sociology",
+    "weight": 0.432432
+  },
+  {
+    "source": "Sociology",
+    "target": "Philosophy",
+    "weight": 0.432432
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Fluids & Plasmas",
+    "weight": 0.432432
+  },
+  {
+    "source": "Human Factors",
+    "target": "Rehabilitation",
+    "weight": 0.431818
+  },
+  {
+    "source": "Materials Science",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.431818
+  },
+  {
+    "source": "Religion",
+    "target": "Communication",
+    "weight": 0.431818
+  },
+  {
+    "source": "Agricult & Food Science",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.431655
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.431373
+  },
+  {
+    "source": "Materials Science",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.430769
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.430769
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "General Physics",
+    "weight": 0.430769
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.430233
+  },
+  {
+    "source": "History",
+    "target": "Rehabilitation",
+    "weight": 0.428571
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Fluids & Plasmas",
+    "weight": 0.428571
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.428571
+  },
+  {
+    "source": "Operations Research",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.428571
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Anesthesiology",
+    "weight": 0.428571
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Surgery",
+    "weight": 0.428571
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.428571
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Analytical Chemistry",
+    "weight": 0.428571
+  },
+  {
+    "source": "Science studies",
+    "target": "Clinical Psychology",
+    "weight": 0.428571
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.428571
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Geriatrics",
+    "weight": 0.428571
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.428571
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "General Chemistry",
+    "weight": 0.428571
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "Applied Physics",
+    "weight": 0.428571
+  },
+  {
+    "source": "Surgery",
+    "target": "Orthopedics",
+    "weight": 0.428571
+  },
+  {
+    "source": "Education",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.427536
+  },
+  {
+    "source": "Geography",
+    "target": "Environmental & Occupational Health",
+    "weight": 0.427536
+  },
+  {
+    "source": "Parasitology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.427481
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Geography",
+    "weight": 0.42735
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "General Biology",
+    "weight": 0.426966
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "General Biology",
+    "weight": 0.426966
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "Economics",
+    "weight": 0.426667
+  },
+  {
+    "source": "General Engineering",
+    "target": "Civil Engineering",
+    "weight": 0.426471
+  },
+  {
+    "source": "Dentistry",
+    "target": "Civil Engineering",
+    "weight": 0.426471
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Communication",
+    "weight": 0.42623
+  },
+  {
+    "source": "General Biomedical Research",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.426087
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Analytical Chemistry",
+    "weight": 0.425926
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "General Physics",
+    "weight": 0.425926
+  },
+  {
+    "source": "General Biology",
+    "target": "Planning & Urban Studies",
+    "weight": 0.425743
+  },
+  {
+    "source": "Optics",
+    "target": "Industrial Engineering",
+    "weight": 0.425
+  },
+  {
+    "source": "Optics",
+    "target": "Organic Chemistry",
+    "weight": 0.425
+  },
+  {
+    "source": "Miscellaneous Clinical Medicine",
+    "target": "Civil Engineering",
+    "weight": 0.424658
+  },
+  {
+    "source": "Optics",
+    "target": "Applied Chemistry",
+    "weight": 0.423729
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Applied Chemistry",
+    "weight": 0.423729
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Polymers",
+    "weight": 0.423729
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.423529
+  },
+  {
+    "source": "Miscellaneous Clinical Medicine",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.423529
+  },
+  {
+    "source": "General Psychology",
+    "target": "Social Psychology",
+    "weight": 0.423077
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Science studies",
+    "weight": 0.423077
+  },
+  {
+    "source": "Materials Science",
+    "target": "Biomedical Engineering",
+    "weight": 0.423077
+  },
+  {
+    "source": "Materials Science",
+    "target": "Operations Research",
+    "weight": 0.423077
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Pharmacology",
+    "weight": 0.422535
+  },
+  {
+    "source": "Geography",
+    "target": "Communication",
+    "weight": 0.422535
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Analytical Chemistry",
+    "weight": 0.422222
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Solid State Physics",
+    "weight": 0.422222
+  },
+  {
+    "source": "Nutrition & Dietetic",
+    "target": "General Biology",
+    "weight": 0.422018
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Pediatrics",
+    "weight": 0.421569
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Embryology",
+    "weight": 0.421053
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Geography",
+    "weight": 0.420455
+  },
+  {
+    "source": "Computers",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.420455
+  },
+  {
+    "source": "Criminology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.419355
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Management",
+    "weight": 0.418605
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Sociology",
+    "weight": 0.418605
+  },
+  {
+    "source": "History",
+    "target": "Political Science and Public Administration",
+    "weight": 0.418182
+  },
+  {
+    "source": "Social Work",
+    "target": "Psychiatry",
+    "weight": 0.418182
+  },
+  {
+    "source": "Addictive Diseases",
+    "target": "Psychiatry",
+    "weight": 0.418182
+  },
+  {
+    "source": "Addictive Diseases",
+    "target": "Political Science and Public Administration",
+    "weight": 0.418182
+  },
+  {
+    "source": "Hematology",
+    "target": "Nephrology",
+    "weight": 0.416667
+  },
+  {
+    "source": "Optics",
+    "target": "General Chemistry",
+    "weight": 0.416667
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.416667
+  },
+  {
+    "source": "Social Work",
+    "target": "Addictive Diseases",
+    "weight": 0.416667
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Environmental Science",
+    "weight": 0.415493
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Metals & Metallurgy",
+    "weight": 0.415385
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "Earth & planetary Science",
+    "weight": 0.415254
+  },
+  {
+    "source": "Computers",
+    "target": "Probability & Statistics",
+    "weight": 0.415094
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Miscellaneous Clinical Medicine",
+    "weight": 0.414894
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "General Social Sciences",
+    "weight": 0.414894
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.414634
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.414634
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.414634
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Orthopedics",
+    "weight": 0.414634
+  },
+  {
+    "source": "Geography",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.414634
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.413793
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Polymers",
+    "weight": 0.413043
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Polymers",
+    "weight": 0.413043
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Polymers",
+    "weight": 0.413043
+  },
+  {
+    "source": "Entomology",
+    "target": "General Social Sciences",
+    "weight": 0.412214
+  },
+  {
+    "source": "Hematology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.411765
+  },
+  {
+    "source": "Nephrology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.411765
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.411765
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.411765
+  },
+  {
+    "source": "Performing Arts",
+    "target": "Literature",
+    "weight": 0.411765
+  },
+  {
+    "source": "Civil Engineering",
+    "target": "Probability & Statistics",
+    "weight": 0.411765
+  },
+  {
+    "source": "Microscopy",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.411765
+  },
+  {
+    "source": "Miscellaneous Biology",
+    "target": "General Social Sciences",
+    "weight": 0.411215
+  },
+  {
+    "source": "Miscellaneous Clinical Medicine",
+    "target": "Information Science & Library Science",
+    "weight": 0.410959
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Probability & Statistics",
+    "weight": 0.410714
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Applied Physics",
+    "weight": 0.410714
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Applied Physics",
+    "weight": 0.410714
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "General Physics",
+    "weight": 0.410714
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.410256
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.410256
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Agricult & Food Science",
+    "weight": 0.410072
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Information Science & Library Science",
+    "weight": 0.409836
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Physical Chemistry",
+    "weight": 0.409836
+  },
+  {
+    "source": "Education",
+    "target": "Oceanography & Limnology",
+    "weight": 0.409091
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Religion",
+    "weight": 0.409091
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Miscellaneous Engineering & Technology",
+    "weight": 0.409091
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.409091
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "General Engineering",
+    "weight": 0.409091
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Anatomy & Morphology",
+    "weight": 0.408451
+  },
+  {
+    "source": "History",
+    "target": "General Social Sciences",
+    "weight": 0.408451
+  },
+  {
+    "source": "Geography",
+    "target": "Information Science & Library Science",
+    "weight": 0.408451
+  },
+  {
+    "source": "Immunology",
+    "target": "Dairy & Animal Science",
+    "weight": 0.408333
+  },
+  {
+    "source": "Virology",
+    "target": "Dairy & Animal Science",
+    "weight": 0.408163
+  },
+  {
+    "source": "General Mathematics",
+    "target": "General Chemistry",
+    "weight": 0.407895
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Analytical Chemistry",
+    "weight": 0.407895
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Geriatrics",
+    "weight": 0.407407
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Language & Linguistics",
+    "weight": 0.406977
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "General & Internal Medicine",
+    "weight": 0.40678
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Metals & Metallurgy",
+    "weight": 0.40678
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.40678
+  },
+  {
+    "source": "Acoustics",
+    "target": "Otorhinolaryngology",
+    "weight": 0.40625
+  },
+  {
+    "source": "Pathology",
+    "target": "Cancer",
+    "weight": 0.40625
+  },
+  {
+    "source": "Public Health",
+    "target": "General Social Sciences",
+    "weight": 0.405594
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.405405
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Applied Mathematics",
+    "weight": 0.405063
+  },
+  {
+    "source": "Nephrology",
+    "target": "Endocrinology",
+    "weight": 0.404762
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Orthopedics",
+    "weight": 0.404762
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Applied Physics",
+    "weight": 0.404762
+  },
+  {
+    "source": "Materials Science",
+    "target": "Solid State Physics",
+    "weight": 0.403846
+  },
+  {
+    "source": "Materials Science",
+    "target": "Analytical Chemistry",
+    "weight": 0.403846
+  },
+  {
+    "source": "Communication",
+    "target": "Fertility",
+    "weight": 0.403846
+  },
+  {
+    "source": "Materials Science",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.403509
+  },
+  {
+    "source": "Operations Research",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.403509
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.403509
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Analytical Chemistry",
+    "weight": 0.403509
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Earth & planetary Science",
+    "weight": 0.402062
+  },
+  {
+    "source": "Dairy & Animal Science",
+    "target": "Miscellaneous Zoology",
+    "weight": 0.401709
+  },
+  {
+    "source": "Economics",
+    "target": "General Biomedical Research",
+    "weight": 0.4
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Science studies",
+    "weight": 0.4
+  },
+  {
+    "source": "Nephrology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.4
+  },
+  {
+    "source": "Nephrology",
+    "target": "Cancer",
+    "weight": 0.4
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.4
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.4
+  },
+  {
+    "source": "Computers",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.4
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Nursing",
+    "weight": 0.4
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.4
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.4
+  },
+  {
+    "source": "General Engineering",
+    "target": "Probability & Statistics",
+    "weight": 0.4
+  },
+  {
+    "source": "Psychiatry",
+    "target": "Fertility",
+    "weight": 0.4
+  },
+  {
+    "source": "Communication",
+    "target": "Philosophy",
+    "weight": 0.4
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Veterinary Medicine",
+    "weight": 0.398374
+  },
+  {
+    "source": "Economics",
+    "target": "Language & Linguistics",
+    "weight": 0.397849
+  },
+  {
+    "source": "Miscellaneous Clinical Medicine",
+    "target": "Respiratory System",
+    "weight": 0.397727
+  },
+  {
+    "source": "Optics",
+    "target": "Chemical Engineering",
+    "weight": 0.397059
+  },
+  {
+    "source": "Civil Engineering",
+    "target": "Information Science & Library Science",
+    "weight": 0.397059
+  },
+  {
+    "source": "Computers",
+    "target": "Applied Physics",
+    "weight": 0.396226
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Planning & Urban Studies",
+    "weight": 0.39604
+  },
+  {
+    "source": "Hematology",
+    "target": "Surgery",
+    "weight": 0.395833
+  },
+  {
+    "source": "Criminology",
+    "target": "Social Work",
+    "weight": 0.395833
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "General Chemistry",
+    "weight": 0.395833
+  },
+  {
+    "source": "Management",
+    "target": "Probability & Statistics",
+    "weight": 0.395833
+  },
+  {
+    "source": "Religion",
+    "target": "Social Work",
+    "weight": 0.395833
+  },
+  {
+    "source": "Education",
+    "target": "History",
+    "weight": 0.394737
+  },
+  {
+    "source": "Criminology",
+    "target": "Rehabilitation",
+    "weight": 0.394737
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Literature",
+    "weight": 0.394737
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Probability & Statistics",
+    "weight": 0.394737
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Solid State Physics",
+    "weight": 0.394737
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Cancer",
+    "weight": 0.394737
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Orthopedics",
+    "weight": 0.394737
+  },
+  {
+    "source": "Social Work",
+    "target": "Health Policy & Services",
+    "weight": 0.393939
+  },
+  {
+    "source": "Microscopy",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.393939
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Clinical Psychology",
+    "weight": 0.392857
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Clinical Psychology",
+    "weight": 0.392857
+  },
+  {
+    "source": "Human Factors",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.392857
+  },
+  {
+    "source": "History",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.392857
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.392857
+  },
+  {
+    "source": "Embryology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.392857
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "General Engineering",
+    "weight": 0.392857
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "General Chemistry",
+    "weight": 0.392857
+  },
+  {
+    "source": "Physiology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.392857
+  },
+  {
+    "source": "Electrical Engineering & Electronics",
+    "target": "Probability & Statistics",
+    "weight": 0.392857
+  },
+  {
+    "source": "Operations Research",
+    "target": "General Engineering",
+    "weight": 0.392157
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.392157
+  },
+  {
+    "source": "Surgery",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.392157
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Polymers",
+    "weight": 0.391304
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Polymers",
+    "weight": 0.391304
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "Polymers",
+    "weight": 0.391304
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.390244
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Anesthesiology",
+    "weight": 0.390244
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Cancer",
+    "weight": 0.390244
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Applied Chemistry",
+    "weight": 0.389831
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Applied Chemistry",
+    "weight": 0.389831
+  },
+  {
+    "source": "Computers",
+    "target": "Applied Chemistry",
+    "weight": 0.389831
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Applied Chemistry",
+    "weight": 0.389831
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Applied Chemistry",
+    "weight": 0.389831
+  },
+  {
+    "source": "Virology",
+    "target": "General Social Sciences",
+    "weight": 0.387755
+  },
+  {
+    "source": "Criminology",
+    "target": "Performing Arts",
+    "weight": 0.387097
+  },
+  {
+    "source": "Criminology",
+    "target": "Clinical Psychology",
+    "weight": 0.387097
+  },
+  {
+    "source": "Human Factors",
+    "target": "Acoustics",
+    "weight": 0.386364
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Biomedical Engineering",
+    "weight": 0.386364
+  },
+  {
+    "source": "Religion",
+    "target": "Literature",
+    "weight": 0.386364
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Applied Chemistry",
+    "weight": 0.386364
+  },
+  {
+    "source": "Optics",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.385965
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.385965
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Nuclear Technology",
+    "weight": 0.385965
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "General Engineering",
+    "weight": 0.385965
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "General Chemistry",
+    "weight": 0.385965
+  },
+  {
+    "source": "International Relations",
+    "target": "Management",
+    "weight": 0.384615
+  },
+  {
+    "source": "General Psychology",
+    "target": "Philosophy",
+    "weight": 0.384615
+  },
+  {
+    "source": "Biophysics",
+    "target": "Nuclear Technology",
+    "weight": 0.384615
+  },
+  {
+    "source": "Biophysics",
+    "target": "Solid State Physics",
+    "weight": 0.384615
+  },
+  {
+    "source": "Biophysics",
+    "target": "General Physics",
+    "weight": 0.384615
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Fertility",
+    "weight": 0.384615
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.384615
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.384615
+  },
+  {
+    "source": "Optics",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.384615
+  },
+  {
+    "source": "Materials Science",
+    "target": "Nuclear Technology",
+    "weight": 0.384615
+  },
+  {
+    "source": "Materials Science",
+    "target": "Fluids & Plasmas",
+    "weight": 0.384615
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Fluids & Plasmas",
+    "weight": 0.384615
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Applied Physics",
+    "weight": 0.384615
+  },
+  {
+    "source": "General Psychology",
+    "target": "Nursing",
+    "weight": 0.383333
+  },
+  {
+    "source": "Human Factors",
+    "target": "Nursing",
+    "weight": 0.383333
+  },
+  {
+    "source": "Immunology",
+    "target": "General Social Sciences",
+    "weight": 0.383333
+  },
+  {
+    "source": "Nursing",
+    "target": "Addictive Diseases",
+    "weight": 0.383333
+  },
+  {
+    "source": "Nursing",
+    "target": "Dentistry",
+    "weight": 0.383333
+  },
+  {
+    "source": "Urology",
+    "target": "Surgery",
+    "weight": 0.382979
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "General Biomedical Research",
+    "weight": 0.382609
+  },
+  {
+    "source": "Operations Research",
+    "target": "Chemical Engineering",
+    "weight": 0.382353
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Chemical Engineering",
+    "weight": 0.382353
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Political Science and Public Administration",
+    "weight": 0.381818
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Psychiatry",
+    "weight": 0.381818
+  },
+  {
+    "source": "Education",
+    "target": "Communication",
+    "weight": 0.381579
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Applied Physics",
+    "weight": 0.381579
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.380952
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Geriatrics",
+    "weight": 0.380952
+  },
+  {
+    "source": "Surgery",
+    "target": "Cancer",
+    "weight": 0.380952
+  },
+  {
+    "source": "History",
+    "target": "Geography",
+    "weight": 0.380282
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Environmental Science",
+    "weight": 0.380282
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.380282
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Operations Research",
+    "weight": 0.380282
+  },
+  {
+    "source": "Environmental Science",
+    "target": "Chemical Engineering",
+    "weight": 0.380282
+  },
+  {
+    "source": "Pharmacy",
+    "target": "General Engineering",
+    "weight": 0.38
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "General Engineering",
+    "weight": 0.38
+  },
+  {
+    "source": "General Engineering",
+    "target": "Metals & Metallurgy",
+    "weight": 0.38
+  },
+  {
+    "source": "International Relations",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.37931
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Information Science & Library Science",
+    "weight": 0.37931
+  },
+  {
+    "source": "Criminology",
+    "target": "Philosophy",
+    "weight": 0.378378
+  },
+  {
+    "source": "Performing Arts",
+    "target": "Philosophy",
+    "weight": 0.378378
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Microscopy",
+    "weight": 0.378378
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Analytical Chemistry",
+    "weight": 0.377778
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Nuclear Technology",
+    "weight": 0.377778
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Biomedical Engineering",
+    "weight": 0.377778
+  },
+  {
+    "source": "Human Factors",
+    "target": "Dentistry",
+    "weight": 0.377358
+  },
+  {
+    "source": "Computers",
+    "target": "Analytical Chemistry",
+    "weight": 0.377358
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Physical Chemistry",
+    "weight": 0.377049
+  },
+  {
+    "source": "Planning & Urban Studies",
+    "target": "Information Science & Library Science",
+    "weight": 0.376238
+  },
+  {
+    "source": "International Relations",
+    "target": "Communication",
+    "weight": 0.375
+  },
+  {
+    "source": "Hematology",
+    "target": "Cardiovascular System",
+    "weight": 0.375
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.375
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.375
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.375
+  },
+  {
+    "source": "Nephrology",
+    "target": "Anesthesiology",
+    "weight": 0.375
+  },
+  {
+    "source": "Nephrology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.375
+  },
+  {
+    "source": "Nephrology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.375
+  },
+  {
+    "source": "Human Factors",
+    "target": "Probability & Statistics",
+    "weight": 0.375
+  },
+  {
+    "source": "Acoustics",
+    "target": "Geriatrics",
+    "weight": 0.375
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Communication",
+    "weight": 0.375
+  },
+  {
+    "source": "Optics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.375
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.375
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Polymers",
+    "weight": 0.375
+  },
+  {
+    "source": "Science studies",
+    "target": "Orthopedics",
+    "weight": 0.375
+  },
+  {
+    "source": "Social Work",
+    "target": "Literature",
+    "weight": 0.375
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Orthopedics",
+    "weight": 0.375
+  },
+  {
+    "source": "Tropical Medicine",
+    "target": "General Social Sciences",
+    "weight": 0.373333
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Applied Chemistry",
+    "weight": 0.372881
+  },
+  {
+    "source": "General & Internal Medicine",
+    "target": "General Biology",
+    "weight": 0.372881
+  },
+  {
+    "source": "Management",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.372549
+  },
+  {
+    "source": "International Relations",
+    "target": "Social Psychology",
+    "weight": 0.372093
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Philosophy",
+    "weight": 0.372093
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Fluids & Plasmas",
+    "weight": 0.37037
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Geriatrics",
+    "weight": 0.37037
+  },
+  {
+    "source": "Human Factors",
+    "target": "Miscellaneous Clinical Medicine",
+    "weight": 0.369863
+  },
+  {
+    "source": "Urology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.369048
+  },
+  {
+    "source": "Dentistry",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.369048
+  },
+  {
+    "source": "International Relations",
+    "target": "Criminology",
+    "weight": 0.368421
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Polymers",
+    "weight": 0.368421
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Sociology",
+    "weight": 0.368421
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Gastroenterology",
+    "weight": 0.368421
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Metals & Metallurgy",
+    "weight": 0.368421
+  },
+  {
+    "source": "Area Studies",
+    "target": "Information Science & Library Science",
+    "weight": 0.367925
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Genetics & Heredity",
+    "weight": 0.367816
+  },
+  {
+    "source": "General Chemistry",
+    "target": "Chemical Engineering",
+    "weight": 0.367647
+  },
+  {
+    "source": "Chemical Engineering",
+    "target": "General Physics",
+    "weight": 0.367647
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Applied Mathematics",
+    "weight": 0.367089
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "General Chemistry",
+    "weight": 0.367089
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Applied Physics",
+    "weight": 0.367089
+  },
+  {
+    "source": "Applied Mathematics",
+    "target": "Polymers",
+    "weight": 0.367089
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Physical Chemistry",
+    "weight": 0.366197
+  },
+  {
+    "source": "Biophysics",
+    "target": "Chemical Physics",
+    "weight": 0.365854
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.365854
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Microscopy",
+    "weight": 0.365854
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Microscopy",
+    "weight": 0.365854
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Geriatrics",
+    "weight": 0.365854
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.365854
+  },
+  {
+    "source": "General Psychology",
+    "target": "Miscellaneous Humanities",
+    "weight": 0.365385
+  },
+  {
+    "source": "Nephrology",
+    "target": "Fertility",
+    "weight": 0.365385
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Fertility",
+    "weight": 0.365385
+  },
+  {
+    "source": "Urology",
+    "target": "Fertility",
+    "weight": 0.365385
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "General Physics",
+    "weight": 0.365385
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "General Physics",
+    "weight": 0.365385
+  },
+  {
+    "source": "International Relations",
+    "target": "Religion",
+    "weight": 0.363636
+  },
+  {
+    "source": "Human Factors",
+    "target": "Psychiatry",
+    "weight": 0.363636
+  },
+  {
+    "source": "Human Factors",
+    "target": "Science studies",
+    "weight": 0.363636
+  },
+  {
+    "source": "Human Factors",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.363636
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.363636
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.363636
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Biomedical Engineering",
+    "weight": 0.363636
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Microscopy",
+    "weight": 0.363636
+  },
+  {
+    "source": "Religion",
+    "target": "Philosophy",
+    "weight": 0.363636
+  },
+  {
+    "source": "Embryology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.363636
+  },
+  {
+    "source": "Embryology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.363636
+  },
+  {
+    "source": "Physiology",
+    "target": "Microscopy",
+    "weight": 0.363636
+  },
+  {
+    "source": "Clinical Psychology",
+    "target": "Psychiatry",
+    "weight": 0.363636
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.362069
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Sociology",
+    "weight": 0.362069
+  },
+  {
+    "source": "Addictive Diseases",
+    "target": "Sociology",
+    "weight": 0.361702
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Literature",
+    "weight": 0.360656
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Religion",
+    "weight": 0.360656
+  },
+  {
+    "source": "Pharmacology",
+    "target": "Applied Chemistry",
+    "weight": 0.360656
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Performing Arts",
+    "weight": 0.36
+  },
+  {
+    "source": "Physiology",
+    "target": "Science studies",
+    "weight": 0.36
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "General Engineering",
+    "weight": 0.36
+  },
+  {
+    "source": "General Engineering",
+    "target": "Applied Physics",
+    "weight": 0.36
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Management",
+    "weight": 0.358974
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Management",
+    "weight": 0.358974
+  },
+  {
+    "source": "Management",
+    "target": "Industrial Engineering",
+    "weight": 0.358974
+  },
+  {
+    "source": "Management",
+    "target": "Philosophy",
+    "weight": 0.358974
+  },
+  {
+    "source": "Management",
+    "target": "Orthopedics",
+    "weight": 0.358974
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.358974
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Nuclear Technology",
+    "weight": 0.357143
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.357143
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Science studies",
+    "weight": 0.357143
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Cancer",
+    "weight": 0.357143
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Gastroenterology",
+    "weight": 0.357143
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.357143
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Anesthesiology",
+    "weight": 0.357143
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.357143
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.357143
+  },
+  {
+    "source": "Clinical Psychology",
+    "target": "Geriatrics",
+    "weight": 0.357143
+  },
+  {
+    "source": "Demography",
+    "target": "Information Science & Library Science",
+    "weight": 0.357143
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.357143
+  },
+  {
+    "source": "Genetics & Heredity",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.356322
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Applied Chemistry",
+    "weight": 0.355932
+  },
+  {
+    "source": "Applied Chemistry",
+    "target": "Fluids & Plasmas",
+    "weight": 0.355932
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.355263
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Criminology",
+    "weight": 0.354839
+  },
+  {
+    "source": "Criminology",
+    "target": "Geriatrics",
+    "weight": 0.354839
+  },
+  {
+    "source": "Criminology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.354839
+  },
+  {
+    "source": "Pathology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.354839
+  },
+  {
+    "source": "International Relations",
+    "target": "Social Work",
+    "weight": 0.354167
+  },
+  {
+    "source": "Hematology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.354167
+  },
+  {
+    "source": "Acoustics",
+    "target": "Probability & Statistics",
+    "weight": 0.354167
+  },
+  {
+    "source": "Social Work",
+    "target": "Sociology",
+    "weight": 0.354167
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "General Chemistry",
+    "weight": 0.354167
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.353846
+  },
+  {
+    "source": "Pharmacology",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.353846
+  },
+  {
+    "source": "Operations Research",
+    "target": "Urology",
+    "weight": 0.352941
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Chemical Engineering",
+    "weight": 0.352941
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Chemical Engineering",
+    "weight": 0.352941
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.352941
+  },
+  {
+    "source": "Civil Engineering",
+    "target": "Polymers",
+    "weight": 0.352941
+  },
+  {
+    "source": "Miscellaneous Social Sciences",
+    "target": "Information Science & Library Science",
+    "weight": 0.352941
+  },
+  {
+    "source": "Arthritis & Rheumatology",
+    "target": "Orthopedics",
+    "weight": 0.352941
+  },
+  {
+    "source": "Religion",
+    "target": "Geography",
+    "weight": 0.352113
+  },
+  {
+    "source": "Religion",
+    "target": "General Social Sciences",
+    "weight": 0.352113
+  },
+  {
+    "source": "Addictive Diseases",
+    "target": "Geography",
+    "weight": 0.352113
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Probability & Statistics",
+    "weight": 0.351852
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Solid State Physics",
+    "weight": 0.351852
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Allergy",
+    "weight": 0.351852
+  },
+  {
+    "source": "Acoustics",
+    "target": "Sociology",
+    "weight": 0.351351
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Anesthesiology",
+    "weight": 0.351351
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Sociology",
+    "weight": 0.351351
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.351351
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Cancer",
+    "weight": 0.351351
+  },
+  {
+    "source": "Obstetrics & Gynecology",
+    "target": "Urology",
+    "weight": 0.351064
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.350877
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.350877
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Polymers",
+    "weight": 0.350877
+  },
+  {
+    "source": "Nephrology",
+    "target": "Criminology",
+    "weight": 0.35
+  },
+  {
+    "source": "Nephrology",
+    "target": "Management",
+    "weight": 0.35
+  },
+  {
+    "source": "Nephrology",
+    "target": "Orthopedics",
+    "weight": 0.35
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Embryology",
+    "weight": 0.35
+  },
+  {
+    "source": "History",
+    "target": "Religion",
+    "weight": 0.346939
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Surgery",
+    "weight": 0.346939
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Urology",
+    "weight": 0.346939
+  },
+  {
+    "source": "General Psychology",
+    "target": "Literature",
+    "weight": 0.346154
+  },
+  {
+    "source": "General Psychology",
+    "target": "Clinical Psychology",
+    "weight": 0.346154
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Fertility",
+    "weight": 0.346154
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Miscellaneous Biology",
+    "weight": 0.345794
+  },
+  {
+    "source": "Criminology",
+    "target": "Political Science and Public Administration",
+    "weight": 0.345455
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Information Science & Library Science",
+    "weight": 0.345455
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Law",
+    "weight": 0.345455
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.345238
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.344828
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Science studies",
+    "weight": 0.344828
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Pharmacology",
+    "weight": 0.344262
+  },
+  {
+    "source": "Language & Linguistics",
+    "target": "Law",
+    "weight": 0.344262
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Physical Chemistry",
+    "weight": 0.344262
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "Physical Chemistry",
+    "weight": 0.344262
+  },
+  {
+    "source": "Acoustics",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.34375
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Orthopedics",
+    "weight": 0.34375
+  },
+  {
+    "source": "Pathology",
+    "target": "Orthopedics",
+    "weight": 0.34375
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Cancer",
+    "weight": 0.34375
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Orthopedics",
+    "weight": 0.34375
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Microscopy",
+    "weight": 0.342857
+  },
+  {
+    "source": "Law",
+    "target": "Literature",
+    "weight": 0.342857
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Rehabilitation",
+    "weight": 0.342105
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Rehabilitation",
+    "weight": 0.342105
+  },
+  {
+    "source": "Optics",
+    "target": "Applied Mathematics",
+    "weight": 0.341772
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Applied Mathematics",
+    "weight": 0.341772
+  },
+  {
+    "source": "Nephrology",
+    "target": "Chemical Physics",
+    "weight": 0.341463
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Otorhinolaryngology",
+    "weight": 0.341463
+  },
+  {
+    "source": "Nephrology",
+    "target": "Biomedical Engineering",
+    "weight": 0.340909
+  },
+  {
+    "source": "Human Factors",
+    "target": "Communication",
+    "weight": 0.340909
+  },
+  {
+    "source": "Human Factors",
+    "target": "Cancer",
+    "weight": 0.340909
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Religion",
+    "weight": 0.340909
+  },
+  {
+    "source": "Miscellaneous Engineering & Technology",
+    "target": "Dermatology & Venerial Disease",
+    "weight": 0.340909
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "General Engineering",
+    "weight": 0.34
+  },
+  {
+    "source": "Computers",
+    "target": "General Chemistry",
+    "weight": 0.339623
+  },
+  {
+    "source": "Computers",
+    "target": "Solid State Physics",
+    "weight": 0.339623
+  },
+  {
+    "source": "Operations Research",
+    "target": "Applied Chemistry",
+    "weight": 0.338983
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.338462
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Probability & Statistics",
+    "weight": 0.338462
+  },
+  {
+    "source": "Probability & Statistics",
+    "target": "Chemical Engineering",
+    "weight": 0.338235
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Anatomy & Morphology",
+    "weight": 0.338028
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "General Engineering",
+    "weight": 0.338028
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Literature",
+    "weight": 0.338028
+  },
+  {
+    "source": "Religion",
+    "target": "Demography",
+    "weight": 0.336735
+  },
+  {
+    "source": "International Relations",
+    "target": "Nursing",
+    "weight": 0.333333
+  },
+  {
+    "source": "Biophysics",
+    "target": "Applied Physics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Geriatrics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Nephrology",
+    "target": "Pharmacy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Behavioral Science & Complementary Psychology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Acoustics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Pathology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Microscopy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Sociology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Acoustics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Management",
+    "weight": 0.333333
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Geriatrics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Social Work",
+    "weight": 0.333333
+  },
+  {
+    "source": "Optics",
+    "target": "Analytical Chemistry",
+    "weight": 0.333333
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Nuclear Technology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Mechanical Engineering",
+    "target": "Organic Chemistry",
+    "weight": 0.333333
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Probability & Statistics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Probability & Statistics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Surgery",
+    "weight": 0.333333
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Miscellaneous Physics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Allergy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Probability & Statistics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.333333
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Allergy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Microscopy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Applied Physics",
+    "weight": 0.333333
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Microscopy",
+    "weight": 0.333333
+  },
+  {
+    "source": "Allergy",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.333333
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Geology",
+    "weight": 0.330579
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "General Biomedical Research",
+    "weight": 0.330435
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Applied Mathematics",
+    "weight": 0.329114
+  },
+  {
+    "source": "Education",
+    "target": "Literature",
+    "weight": 0.328947
+  },
+  {
+    "source": "Education",
+    "target": "Religion",
+    "weight": 0.328947
+  },
+  {
+    "source": "Optics",
+    "target": "General Mathematics",
+    "weight": 0.328947
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "General Mathematics",
+    "weight": 0.328947
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.327586
+  },
+  {
+    "source": "General Psychology",
+    "target": "Science studies",
+    "weight": 0.326923
+  },
+  {
+    "source": "Pharmacy",
+    "target": "General Physics",
+    "weight": 0.326923
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Miscellaneous Humanities",
+    "weight": 0.325581
+  },
+  {
+    "source": "Nephrology",
+    "target": "Miscellaneous Physics",
+    "weight": 0.325
+  },
+  {
+    "source": "Optics",
+    "target": "Nuclear Technology",
+    "weight": 0.325
+  },
+  {
+    "source": "Science studies",
+    "target": "Communication",
+    "weight": 0.325
+  },
+  {
+    "source": "Criminology",
+    "target": "Sociology",
+    "weight": 0.324324
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Science studies",
+    "weight": 0.324324
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Philosophy",
+    "weight": 0.324324
+  },
+  {
+    "source": "Anatomy & Morphology",
+    "target": "Analytical Chemistry",
+    "weight": 0.323944
+  },
+  {
+    "source": "Acoustics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.323529
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Chemical Engineering",
+    "weight": 0.323529
+  },
+  {
+    "source": "Inorganic & Nuclear Chemistry",
+    "target": "Fluids & Plasmas",
+    "weight": 0.323077
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Criminology",
+    "weight": 0.322581
+  },
+  {
+    "source": "Pathology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.322581
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.321429
+  },
+  {
+    "source": "Optics",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.321429
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Clinical Psychology",
+    "weight": 0.321429
+  },
+  {
+    "source": "Miscellaneous Mathematics",
+    "target": "Nuclear Technology",
+    "weight": 0.321429
+  },
+  {
+    "source": "Physiology",
+    "target": "Clinical Psychology",
+    "weight": 0.321429
+  },
+  {
+    "source": "Geriatrics & Gerontology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.321429
+  },
+  {
+    "source": "Clinical Psychology",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.321429
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Dentistry",
+    "weight": 0.320755
+  },
+  {
+    "source": "Computers",
+    "target": "Nuclear Technology",
+    "weight": 0.320755
+  },
+  {
+    "source": "Computers",
+    "target": "Metals & Metallurgy",
+    "weight": 0.320755
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Physiology",
+    "weight": 0.32
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Science studies",
+    "weight": 0.32
+  },
+  {
+    "source": "General Engineering",
+    "target": "Fluids & Plasmas",
+    "weight": 0.32
+  },
+  {
+    "source": "Optics",
+    "target": "Biomedical Engineering",
+    "weight": 0.318182
+  },
+  {
+    "source": "Religion",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.317647
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Acoustics",
+    "weight": 0.317073
+  },
+  {
+    "source": "Nursing",
+    "target": "Law",
+    "weight": 0.316667
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Applied Mathematics",
+    "weight": 0.316456
+  },
+  {
+    "source": "International Relations",
+    "target": "Law",
+    "weight": 0.315789
+  },
+  {
+    "source": "International Relations",
+    "target": "Fine Arts & Architecture",
+    "weight": 0.315789
+  },
+  {
+    "source": "Biophysics",
+    "target": "Nuclear & Particle Physics",
+    "weight": 0.315789
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Embryology",
+    "weight": 0.315789
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Rehabilitation",
+    "weight": 0.315789
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Embryology",
+    "weight": 0.315789
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Philosophy",
+    "weight": 0.315789
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Otorhinolaryngology",
+    "weight": 0.315789
+  },
+  {
+    "source": "Human Factors",
+    "target": "Mechanical Engineering",
+    "weight": 0.314815
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Allergy",
+    "weight": 0.314815
+  },
+  {
+    "source": "Religion",
+    "target": "Information Science & Library Science",
+    "weight": 0.314815
+  },
+  {
+    "source": "Criminology",
+    "target": "Law",
+    "weight": 0.314286
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.314286
+  },
+  {
+    "source": "Pathology",
+    "target": "Gastroenterology",
+    "weight": 0.314286
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Microscopy",
+    "weight": 0.314286
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.314286
+  },
+  {
+    "source": "Miscellaneous Biomedical Research",
+    "target": "Information Science & Library Science",
+    "weight": 0.313953
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.313725
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.313725
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.313725
+  },
+  {
+    "source": "Religion",
+    "target": "Health Policy & Services",
+    "weight": 0.313131
+  },
+  {
+    "source": "Hematology",
+    "target": "Microscopy",
+    "weight": 0.3125
+  },
+  {
+    "source": "Acoustics",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.3125
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Social Work",
+    "weight": 0.3125
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Psychoanalysis",
+    "weight": 0.3125
+  },
+  {
+    "source": "Physiology",
+    "target": "Orthopedics",
+    "weight": 0.3125
+  },
+  {
+    "source": "Geriatrics & Gerontology",
+    "target": "Orthopedics",
+    "weight": 0.3125
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Cancer",
+    "weight": 0.3125
+  },
+  {
+    "source": "General Psychology",
+    "target": "Genetics & Heredity",
+    "weight": 0.310345
+  },
+  {
+    "source": "Biophysics",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.310345
+  },
+  {
+    "source": "Biophysics",
+    "target": "Performing Arts",
+    "weight": 0.310345
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.310345
+  },
+  {
+    "source": "Religion",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.310345
+  },
+  {
+    "source": "Geography",
+    "target": "Law",
+    "weight": 0.309859
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.309524
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Chemical Physics",
+    "weight": 0.309524
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Physiology",
+    "weight": 0.309524
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Applied Physics",
+    "weight": 0.309524
+  },
+  {
+    "source": "Surgery",
+    "target": "Neurology & Neurosurgery",
+    "weight": 0.309524
+  },
+  {
+    "source": "General Mathematics",
+    "target": "Earth & planetary Science",
+    "weight": 0.309278
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Psychiatry",
+    "weight": 0.309091
+  },
+  {
+    "source": "Political Science and Public Administration",
+    "target": "Literature",
+    "weight": 0.309091
+  },
+  {
+    "source": "General Psychology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.307692
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Management",
+    "weight": 0.307692
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Fertility",
+    "weight": 0.307692
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Nuclear Technology",
+    "weight": 0.307692
+  },
+  {
+    "source": "Management",
+    "target": "Cancer",
+    "weight": 0.307692
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Fertility",
+    "weight": 0.307692
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Fertility",
+    "weight": 0.307692
+  },
+  {
+    "source": "Fertility",
+    "target": "Surgery",
+    "weight": 0.307692
+  },
+  {
+    "source": "Religion",
+    "target": "Planning & Urban Studies",
+    "weight": 0.306931
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "History",
+    "weight": 0.306818
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Applied Chemistry",
+    "weight": 0.305085
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Applied Mathematics",
+    "weight": 0.303797
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.303571
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.303571
+  },
+  {
+    "source": "Solid State Physics",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.303571
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Microscopy",
+    "weight": 0.30303
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.30303
+  },
+  {
+    "source": "Education",
+    "target": "Law",
+    "weight": 0.302632
+  },
+  {
+    "source": "Criminology",
+    "target": "Social Psychology",
+    "weight": 0.302326
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Literature",
+    "weight": 0.302326
+  },
+  {
+    "source": "Biophysics",
+    "target": "Optics",
+    "weight": 0.3
+  },
+  {
+    "source": "Nephrology",
+    "target": "Microscopy",
+    "weight": 0.3
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Genetics & Heredity",
+    "weight": 0.298851
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.298246
+  },
+  {
+    "source": "Biophysics",
+    "target": "Metals & Metallurgy",
+    "weight": 0.297297
+  },
+  {
+    "source": "Anesthesiology",
+    "target": "Physiology",
+    "weight": 0.297297
+  },
+  {
+    "source": "Science studies",
+    "target": "Sociology",
+    "weight": 0.297297
+  },
+  {
+    "source": "Embryology",
+    "target": "Geriatrics",
+    "weight": 0.296296
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Allergy",
+    "weight": 0.296296
+  },
+  {
+    "source": "Microscopy",
+    "target": "Allergy",
+    "weight": 0.296296
+  },
+  {
+    "source": "Literature",
+    "target": "Information Science & Library Science",
+    "weight": 0.296296
+  },
+  {
+    "source": "Geography",
+    "target": "Literature",
+    "weight": 0.295775
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Respiratory System",
+    "weight": 0.295455
+  },
+  {
+    "source": "Religion",
+    "target": "Law",
+    "weight": 0.295455
+  },
+  {
+    "source": "Religion",
+    "target": "Social Studies of Medicine",
+    "weight": 0.295455
+  },
+  {
+    "source": "Religion",
+    "target": "Sociology",
+    "weight": 0.295455
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Cancer",
+    "weight": 0.295455
+  },
+  {
+    "source": "Biophysics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.294118
+  },
+  {
+    "source": "Science studies",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.294118
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.294118
+  },
+  {
+    "source": "Neurology & Neurosurgery",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.294118
+  },
+  {
+    "source": "Cancer",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.294118
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Law",
+    "weight": 0.293103
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.292683
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Science studies",
+    "weight": 0.292683
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.292683
+  },
+  {
+    "source": "Nuclear Technology",
+    "target": "Inorganic & Nuclear Chemistry",
+    "weight": 0.292308
+  },
+  {
+    "source": "Hematology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.291667
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Social Work",
+    "weight": 0.291667
+  },
+  {
+    "source": "General Chemistry",
+    "target": "Probability & Statistics",
+    "weight": 0.291667
+  },
+  {
+    "source": "Criminology",
+    "target": "Miscellaneous Humanities",
+    "weight": 0.290323
+  },
+  {
+    "source": "International Relations",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.289474
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Science studies",
+    "weight": 0.289474
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Geriatrics",
+    "weight": 0.289474
+  },
+  {
+    "source": "Biophysics",
+    "target": "Analytical Chemistry",
+    "weight": 0.288889
+  },
+  {
+    "source": "Analytical Chemistry",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.288889
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Materials Science",
+    "weight": 0.288462
+  },
+  {
+    "source": "Science studies",
+    "target": "Fertility",
+    "weight": 0.288462
+  },
+  {
+    "source": "Biomedical Engineering",
+    "target": "Fertility",
+    "weight": 0.288462
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Endocrinology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Solid State Physics",
+    "weight": 0.285714
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Speech-Language Pathology and Audiology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Physiology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Miscellaneous Humanities",
+    "target": "Law",
+    "weight": 0.285714
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Electrical Engineering & Electronics",
+    "weight": 0.285714
+  },
+  {
+    "source": "Ophthalmology",
+    "target": "Law",
+    "weight": 0.285714
+  },
+  {
+    "source": "Pathology",
+    "target": "Surgery",
+    "weight": 0.285714
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.285714
+  },
+  {
+    "source": "Oceanography & Limnology",
+    "target": "Law",
+    "weight": 0.284091
+  },
+  {
+    "source": "Pathology",
+    "target": "Dentistry",
+    "weight": 0.283019
+  },
+  {
+    "source": "Acoustics",
+    "target": "Solid State Physics",
+    "weight": 0.282051
+  },
+  {
+    "source": "Acoustics",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.28125
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Orthopedics",
+    "weight": 0.28125
+  },
+  {
+    "source": "Embryology",
+    "target": "Orthopedics",
+    "weight": 0.28125
+  },
+  {
+    "source": "Science studies",
+    "target": "Cancer",
+    "weight": 0.28125
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Physiology",
+    "weight": 0.28
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Science studies",
+    "weight": 0.28
+  },
+  {
+    "source": "Physiology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.28
+  },
+  {
+    "source": "Chemical Engineering",
+    "target": "Applied Physics",
+    "weight": 0.279412
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Social Psychology",
+    "weight": 0.27907
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.27907
+  },
+  {
+    "source": "Pharmacology",
+    "target": "General Chemistry",
+    "weight": 0.278689
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Physical Chemistry",
+    "weight": 0.278689
+  },
+  {
+    "source": "Allergy",
+    "target": "Orthopedics",
+    "weight": 0.277778
+  },
+  {
+    "source": "Acoustics",
+    "target": "Addictive Diseases",
+    "weight": 0.276596
+  },
+  {
+    "source": "Rehabilitation",
+    "target": "Addictive Diseases",
+    "weight": 0.276596
+  },
+  {
+    "source": "Biophysics",
+    "target": "Aerospace Technology",
+    "weight": 0.275862
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.275862
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.275862
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.275862
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Embryology",
+    "weight": 0.275862
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Arthritis & Rheumatology",
+    "weight": 0.27451
+  },
+  {
+    "source": "Biophysics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.272727
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.272727
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Miscellaneous Physics",
+    "weight": 0.272727
+  },
+  {
+    "source": "Science studies",
+    "target": "Psychiatry",
+    "weight": 0.272727
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Orthopedics",
+    "weight": 0.272727
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Psychoanalysis",
+    "weight": 0.272727
+  },
+  {
+    "source": "Social Work",
+    "target": "Law",
+    "weight": 0.270833
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Sociology",
+    "weight": 0.27027
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Anesthesiology",
+    "weight": 0.27027
+  },
+  {
+    "source": "General Psychology",
+    "target": "Miscellaneous Psychology",
+    "weight": 0.269231
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.269231
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Embryology",
+    "weight": 0.269231
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Radiology & Nuclear Medicine",
+    "weight": 0.269231
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "General Physics",
+    "weight": 0.269231
+  },
+  {
+    "source": "Gastroenterology",
+    "target": "Fertility",
+    "weight": 0.269231
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Embryology",
+    "weight": 0.268293
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Pathology",
+    "weight": 0.268293
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Physiology",
+    "weight": 0.268293
+  },
+  {
+    "source": "Miscellaneous Professional Field",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.268293
+  },
+  {
+    "source": "Biophysics",
+    "target": "Miscellaneous Mathematics",
+    "weight": 0.267857
+  },
+  {
+    "source": "General Social Sciences",
+    "target": "Law",
+    "weight": 0.267606
+  },
+  {
+    "source": "History",
+    "target": "Law",
+    "weight": 0.265306
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Fluids & Plasmas",
+    "weight": 0.264706
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Performing Arts",
+    "weight": 0.263158
+  },
+  {
+    "source": "Biophysics",
+    "target": "Physical Chemistry",
+    "weight": 0.262295
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Metals & Metallurgy",
+    "weight": 0.261905
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Organic Chemistry",
+    "weight": 0.261905
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Embryology",
+    "weight": 0.261905
+  },
+  {
+    "source": "Acoustics",
+    "target": "Applied Physics",
+    "weight": 0.261905
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Applied Physics",
+    "weight": 0.261905
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Applied Physics",
+    "weight": 0.261905
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Surgery",
+    "weight": 0.261905
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Geriatrics",
+    "weight": 0.259259
+  },
+  {
+    "source": "Law",
+    "target": "Miscellaneous Social Sciences",
+    "weight": 0.258824
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.258621
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Miscellaneous Professional Field",
+    "weight": 0.258621
+  },
+  {
+    "source": "Biophysics",
+    "target": "Criminology",
+    "weight": 0.258065
+  },
+  {
+    "source": "Criminology",
+    "target": "Embryology",
+    "weight": 0.258065
+  },
+  {
+    "source": "Biophysics",
+    "target": "Organic Chemistry",
+    "weight": 0.257143
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Aerospace Technology",
+    "weight": 0.257143
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.257143
+  },
+  {
+    "source": "Science studies",
+    "target": "Gastroenterology",
+    "weight": 0.257143
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Fluids & Plasmas",
+    "weight": 0.257143
+  },
+  {
+    "source": "Management",
+    "target": "Physiology",
+    "weight": 0.25641
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Solid State Physics",
+    "weight": 0.25641
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Nuclear Technology",
+    "weight": 0.25641
+  },
+  {
+    "source": "Addictive Diseases",
+    "target": "Law",
+    "weight": 0.255319
+  },
+  {
+    "source": "Law",
+    "target": "Health Policy & Services",
+    "weight": 0.252525
+  },
+  {
+    "source": "Hematology",
+    "target": "Pathology",
+    "weight": 0.25
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Orthopedics",
+    "weight": 0.25
+  },
+  {
+    "source": "Nephrology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.25
+  },
+  {
+    "source": "Nephrology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.25
+  },
+  {
+    "source": "Acoustics",
+    "target": "Optics",
+    "weight": 0.25
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Religion",
+    "weight": 0.25
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Communication",
+    "weight": 0.25
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Nursing",
+    "weight": 0.25
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.25
+  },
+  {
+    "source": "Performing Arts",
+    "target": "Religion",
+    "weight": 0.25
+  },
+  {
+    "source": "Embryology",
+    "target": "Geriatrics & Gerontology",
+    "weight": 0.25
+  },
+  {
+    "source": "Geriatrics & Gerontology",
+    "target": "Cellular Biology Cytology & Histology",
+    "weight": 0.25
+  },
+  {
+    "source": "Miscellaneous Zoology",
+    "target": "Law",
+    "weight": 0.247863
+  },
+  {
+    "source": "General Biology",
+    "target": "Law",
+    "weight": 0.247191
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.243902
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.243902
+  },
+  {
+    "source": "Law",
+    "target": "Meteorology & Atmospheric Science",
+    "weight": 0.243902
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Sociology",
+    "weight": 0.243243
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Sociology",
+    "weight": 0.243243
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.243243
+  },
+  {
+    "source": "Law",
+    "target": "Philosophy",
+    "weight": 0.243243
+  },
+  {
+    "source": "Embryology",
+    "target": "Miscellaneous Physics",
+    "weight": 0.242424
+  },
+  {
+    "source": "Cellular Biology Cytology & Histology",
+    "target": "Allergy",
+    "weight": 0.240741
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Physiology",
+    "weight": 0.24
+  },
+  {
+    "source": "Performing Arts",
+    "target": "Geography",
+    "weight": 0.239437
+  },
+  {
+    "source": "Astronomy & Astrophysics",
+    "target": "Polymers",
+    "weight": 0.23913
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.238095
+  },
+  {
+    "source": "Endocrinology",
+    "target": "Clinical Psychology",
+    "weight": 0.238095
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Developmental & Child Psychology",
+    "weight": 0.238095
+  },
+  {
+    "source": "International Relations",
+    "target": "Performing Arts",
+    "weight": 0.236842
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Rehabilitation",
+    "weight": 0.236842
+  },
+  {
+    "source": "Fine Arts & Architecture",
+    "target": "Political Science and Public Administration",
+    "weight": 0.236364
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.235294
+  },
+  {
+    "source": "Nursing",
+    "target": "Religion",
+    "weight": 0.233333
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Social Work",
+    "weight": 0.229167
+  },
+  {
+    "source": "Biophysics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.228571
+  },
+  {
+    "source": "Organic Chemistry",
+    "target": "Miscellaneous Physics",
+    "weight": 0.228571
+  },
+  {
+    "source": "Embryology",
+    "target": "Pathology",
+    "weight": 0.225806
+  },
+  {
+    "source": "Optics",
+    "target": "Aerospace Technology",
+    "weight": 0.225
+  },
+  {
+    "source": "Optics",
+    "target": "Miscellaneous Physics",
+    "weight": 0.225
+  },
+  {
+    "source": "Optics",
+    "target": "Astronomy & Astrophysics",
+    "weight": 0.225
+  },
+  {
+    "source": "Communication",
+    "target": "Social Studies of Medicine",
+    "weight": 0.225
+  },
+  {
+    "source": "Biophysics",
+    "target": "Acoustics",
+    "weight": 0.21875
+  },
+  {
+    "source": "Speech-Language Pathology and Audiology",
+    "target": "Cancer",
+    "weight": 0.21875
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Cancer",
+    "weight": 0.21875
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Orthopedics",
+    "weight": 0.21875
+  },
+  {
+    "source": "Pathology",
+    "target": "Psychiatry",
+    "weight": 0.218182
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Metals & Metallurgy",
+    "weight": 0.216216
+  },
+  {
+    "source": "Metals & Metallurgy",
+    "target": "Microscopy",
+    "weight": 0.216216
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Endocrinology",
+    "weight": 0.214286
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Biochemistry & Molecular Biology",
+    "weight": 0.214286
+  },
+  {
+    "source": "Behavioral Science & Complementary Psychology",
+    "target": "Science studies",
+    "weight": 0.214286
+  },
+  {
+    "source": "Neurology & Neurosurgery",
+    "target": "Psychoanalysis",
+    "weight": 0.214286
+  },
+  {
+    "source": "Science studies",
+    "target": "Addictive Diseases",
+    "weight": 0.212766
+  },
+  {
+    "source": "Embryology",
+    "target": "Psychoanalysis",
+    "weight": 0.210526
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Law",
+    "weight": 0.209302
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Otorhinolaryngology",
+    "weight": 0.206897
+  },
+  {
+    "source": "Embryology",
+    "target": "Allergy",
+    "weight": 0.203704
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Psychoanalysis",
+    "weight": 0.2
+  },
+  {
+    "source": "Nephrology",
+    "target": "Embryology",
+    "weight": 0.2
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Gastroenterology",
+    "weight": 0.2
+  },
+  {
+    "source": "Chemical Physics",
+    "target": "Aerospace Technology",
+    "weight": 0.195122
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Pathology",
+    "weight": 0.193548
+  },
+  {
+    "source": "Miscellaneous Psychology",
+    "target": "Behavioral Science & Complementary Psychology",
+    "weight": 0.190476
+  },
+  {
+    "source": "Experimental Psychology",
+    "target": "Cancer",
+    "weight": 0.1875
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "General Chemistry",
+    "weight": 0.1875
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Cancer",
+    "weight": 0.1875
+  },
+  {
+    "source": "Biochemistry & Molecular Biology",
+    "target": "Allergy",
+    "weight": 0.185185
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Fluids & Plasmas",
+    "weight": 0.184211
+  },
+  {
+    "source": "Embryology",
+    "target": "Microscopy",
+    "weight": 0.181818
+  },
+  {
+    "source": "Radiology & Nuclear Medicine",
+    "target": "Psychoanalysis",
+    "weight": 0.181818
+  },
+  {
+    "source": "Fluids & Plasmas",
+    "target": "Social Studies of Medicine",
+    "weight": 0.176471
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Aerospace Technology",
+    "weight": 0.172414
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Applied Chemistry",
+    "weight": 0.169492
+  },
+  {
+    "source": "Pharmacy",
+    "target": "Social Studies of Medicine",
+    "weight": 0.166667
+  },
+  {
+    "source": "Social Psychology",
+    "target": "Social Studies of Medicine",
+    "weight": 0.162791
+  },
+  {
+    "source": "Developmental & Child Psychology",
+    "target": "Psychoanalysis",
+    "weight": 0.153846
+  },
+  {
+    "source": "Performing Arts",
+    "target": "Social Studies of Medicine",
+    "weight": 0.153846
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Nuclear Technology",
+    "weight": 0.153846
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Polymers",
+    "weight": 0.152174
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Miscellaneous Physics",
+    "weight": 0.151515
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Psychoanalysis",
+    "weight": 0.151515
+  },
+  {
+    "source": "Nephrology",
+    "target": "Psychoanalysis",
+    "weight": 0.15
+  },
+  {
+    "source": "Embryology",
+    "target": "Clinical Psychology",
+    "weight": 0.142857
+  },
+  {
+    "source": "Nuclear & Particle Physics",
+    "target": "Aerospace Technology",
+    "weight": 0.140351
+  },
+  {
+    "source": "Biophysics",
+    "target": "Social Studies of Medicine",
+    "weight": 0.137931
+  },
+  {
+    "source": "Biophysics",
+    "target": "Psychoanalysis",
+    "weight": 0.137931
+  },
+  {
+    "source": "Otorhinolaryngology",
+    "target": "Psychoanalysis",
+    "weight": 0.137931
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Physical Chemistry",
+    "weight": 0.131148
+  },
+  {
+    "source": "Criminology",
+    "target": "Psychoanalysis",
+    "weight": 0.129032
+  },
+  {
+    "source": "Psychoanalysis",
+    "target": "Orthopedics",
+    "weight": 0.125
+  },
+  {
+    "source": "Cardiovascular System",
+    "target": "Psychoanalysis",
+    "weight": 0.121951
+  },
+  {
+    "source": "Miscellaneous Physics",
+    "target": "Social Studies of Medicine",
+    "weight": 0.121212
+  },
+  {
+    "source": "Microscopy",
+    "target": "Psychoanalysis",
+    "weight": 0.121212
+  },
+  {
+    "source": "Geriatrics",
+    "target": "Psychoanalysis",
+    "weight": 0.111111
+  },
+  {
+    "source": "Industrial Engineering",
+    "target": "Aerospace Technology",
+    "weight": 0.105263
+  },
+  {
+    "source": "Aerospace Technology",
+    "target": "Psychoanalysis",
+    "weight": 0.105263
+  },
+  {
+    "source": "Acoustics",
+    "target": "Aerospace Technology",
+    "weight": 0.09375
+  },
+  {
+    "source": "Allergy",
+    "target": "Psychoanalysis",
+    "weight": 0.092593
+  },
+  {
+    "source": "Psychiatry",
+    "target": "Psychoanalysis",
+    "weight": 0.090909
+  },
+  {
+    "source": "Geriatrics & Gerontology",
+    "target": "Psychoanalysis",
+    "weight": 0.083333
+  },
+  {
+    "source": "Physiology",
+    "target": "Psychoanalysis",
+    "weight": 0.08
+  },
+  {
+    "source": "Arthritis & Rheumatology",
+    "target": "Psychoanalysis",
+    "weight": 0.078431
+  }
+]
