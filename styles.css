@@ -21,13 +21,6 @@
     --natural:        #1e7a4a;
     --physical:       #1a5fa8;
     --societal:       #c0392b;
-    /* 封面专用 */
-    --cover-bg:       #0d1117;
-    --cover-surface:  #161b24;
-    --cover-border:   rgba(255,255,255,.1);
-    --cover-text:     #e8e6e0;
-    --cover-muted:    rgba(232,230,224,.55);
-    --cover-accent:   #5ea9dd;
     /* 阴影 */
     --shadow-xs:      0 1px 3px rgba(0,0,0,.05);
     --shadow-sm:      0 2px 6px rgba(0,0,0,.07);
@@ -143,7 +136,7 @@ body {
     padding: 3.5rem 1.5rem;
 }
 
-/* ===== Cover — 暗色沉浸式 ===== */
+/* ===== Cover ===== */
 .cover-section {
     max-width: 100%;
     min-height: 94vh;
@@ -152,20 +145,9 @@ body {
     justify-content: center;
     text-align: center;
     padding: 5rem 2rem 4rem;
-    background: var(--cover-bg);
-    background-image:
-        radial-gradient(ellipse 80% 60% at 50% 0%, rgba(94,169,221,.12) 0%, transparent 60%),
-        radial-gradient(ellipse 50% 40% at 80% 80%, rgba(30,122,74,.08) 0%, transparent 55%);
+    background: var(--page-bg);
     position: relative;
     overflow: hidden;
-}
-/* 微噪点纹理 */
-.cover-section::before {
-    content: '';
-    position: absolute; inset: 0;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)' opacity='0.025'/%3E%3C/svg%3E");
-    pointer-events: none;
-    opacity: 0.5;
 }
 
 /* 封面内容容器居中约束 */
@@ -180,18 +162,18 @@ body {
 .cover-roadmap {
     margin: 0 auto 2rem;
     padding: 1.6rem 2rem;
-    background: var(--cover-surface);
-    border: 1px solid var(--cover-border);
+    background: var(--card-bg);
+    border: 1px solid var(--border);
     border-radius: var(--radius-xl);
     max-width: 600px;
     width: 100%;
     text-align: left;
-    box-shadow: 0 8px 40px rgba(0,0,0,.3), inset 0 1px 0 rgba(255,255,255,.06);
+    box-shadow: var(--shadow-sm);
 }
 
 .cover-eyebrow {
     font-size: 0.65rem;
-    color: var(--cover-muted);
+    color: var(--text-muted);
     text-transform: uppercase;
     letter-spacing: 0.14em;
     margin-bottom: 1.8rem;
@@ -202,7 +184,7 @@ body {
     font-family: var(--font-serif);
     font-size: 3.2rem;
     font-weight: 700;
-    color: var(--cover-text);
+    color: var(--text-primary);
     line-height: 1.2;
     margin-bottom: 1rem;
     letter-spacing: -0.01em;
@@ -210,19 +192,19 @@ body {
 /* 标题破折号高亮 */
 .cover-title em {
     font-style: normal;
-    color: var(--cover-accent);
+    color: var(--accent);
 }
 .cover-subtitle {
     font-family: var(--font-serif);
     font-size: 1rem;
-    color: var(--cover-accent);
+    color: var(--accent);
     font-style: italic;
     margin-bottom: 1.6rem;
     opacity: 0.85;
 }
 .cover-attribution {
     font-size: 0.75rem;
-    color: var(--cover-muted);
+    color: var(--text-muted);
     line-height: 2;
     margin-bottom: 3rem;
     font-family: var(--font-sans);
@@ -230,7 +212,7 @@ body {
 
 .roadmap-intro {
     font-size: 0.72rem !important;
-    color: var(--cover-muted) !important;
+    color: var(--text-muted) !important;
     text-transform: none !important;
     letter-spacing: 0.04em !important;
     margin-bottom: 1.1rem;
@@ -252,13 +234,13 @@ body {
     transition: background 0.2s;
 }
 .roadmap-step:hover {
-    background: rgba(255,255,255,.04);
+    background: rgba(0,0,0,.03);
 }
 .roadmap-num {
     flex-shrink: 0;
     width: 26px; height: 26px;
     border-radius: 50%;
-    background: linear-gradient(135deg, var(--cover-accent) 0%, #3a7abf 100%);
+    background: var(--accent);
     color: #fff;
     font-size: 0.64rem;
     font-weight: 700;
@@ -266,7 +248,6 @@ body {
     align-items: center;
     justify-content: center;
     font-family: var(--font-mono);
-    box-shadow: 0 2px 8px rgba(94,169,221,.35);
 }
 .roadmap-step > div {
     display: flex;
@@ -274,18 +255,18 @@ body {
     gap: 0.12rem;
 }
 .roadmap-step strong {
-    color: var(--cover-text);
+    color: var(--text-primary);
     font-size: 0.84rem;
     font-weight: 600;
 }
 .roadmap-step span {
-    color: var(--cover-muted);
+    color: var(--text-muted);
     font-size: 0.7rem;
 }
 
 .cover-scroll-hint {
     font-size: 0.72rem;
-    color: var(--cover-muted);
+    color: var(--text-muted);
     animation: bounce 2.8s ease-in-out infinite;
     margin-top: 0.5rem;
     letter-spacing: 0.04em;
