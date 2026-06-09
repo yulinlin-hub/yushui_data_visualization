@@ -1037,13 +1037,15 @@ body {
 }
 
 .m4-controls-aside {
-    padding: 16px;
+    position: sticky;
+    top: 92px;
+    padding: 14px;
     border: 1px solid var(--border);
     border-radius: var(--radius-lg);
     background: var(--card-bg);
     display: flex;
     flex-direction: column;
-    gap: 18px;
+    gap: 14px;
 }
 
 .m4-control-title {
@@ -1081,14 +1083,27 @@ body {
     gap: 6px;
 }
 
+.m4-country-select {
+    width: 100%;
+    height: 36px;
+    margin-bottom: 10px;
+    border: 1px solid var(--border-strong);
+    border-radius: 6px;
+    background: var(--card-bg);
+    color: var(--text-primary);
+    padding: 0 10px;
+    font: inherit;
+    font-size: 13px;
+}
+
 .m4-metric-panel {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 8px;
+    grid-template-columns: 1fr;
+    gap: 7px;
 }
 
 .m4-metric {
-    padding: 8px 10px;
+    padding: 7px 9px;
     border: 1px solid var(--border);
     border-radius: 6px;
     background: var(--card-bg-alt);
@@ -1096,7 +1111,7 @@ body {
 
 .m4-metric span {
     display: block;
-    margin-bottom: 3px;
+    margin-bottom: 2px;
     color: var(--text-muted);
     font-size: 11px;
 }
@@ -1106,6 +1121,34 @@ body {
     font-size: 13px;
     overflow-wrap: anywhere;
     color: var(--text-primary);
+}
+
+.m4-metric-share {
+    padding: 7px 9px 8px;
+}
+
+.m4-share-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.m4-share-row span {
+    margin: 0;
+}
+
+.m4-share-row strong {
+    flex: 0 0 auto;
+}
+
+.m4-metric-share i {
+    display: block;
+    height: 5px;
+    margin-top: 6px;
+    border-radius: 999px;
+    background:
+        linear-gradient(90deg, var(--m4-color) 0 calc(var(--m4-share) * 100%), rgba(226, 225, 220, 0.9) 0);
 }
 
 /* 工作区 */
@@ -1266,9 +1309,8 @@ body {
 
 /* 路径双图网格 */
 .m4-path-chart-grid {
-    min-height: 720px;
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr;
     gap: 12px;
     padding: 12px;
 }
@@ -1276,17 +1318,17 @@ body {
 .m4-path-chart-panel {
     min-width: 0;
     display: grid;
-    grid-template-rows: auto minmax(620px, 1fr);
-    border: 1px solid var(--border);
+    grid-template-rows: auto minmax(580px, 1fr);
+    border: 1px solid rgba(226, 225, 220, 0.72);
     border-radius: var(--radius);
-    background: var(--card-bg-alt);
+    background: rgba(244, 243, 239, 0.54);
     overflow: hidden;
 }
 
 .m4-path-chart-heading {
-    padding: 12px 14px 10px;
-    border-bottom: 1px solid var(--border);
-    background: var(--card-bg);
+    padding: 10px 14px 8px;
+    border-bottom: 1px solid rgba(226, 225, 220, 0.72);
+    background: rgba(255, 255, 255, 0.72);
 }
 
 .m4-path-chart-heading h3 {
@@ -1306,35 +1348,47 @@ body {
 #m4-countryPathChart {
     width: 100%;
     height: 100%;
-    min-height: 620px;
+    min-height: 0;
     display: block;
 }
 
-/* 下方说明面板 */
+#m4-flowChart {
+    min-height: 580px;
+}
+
+#m4-countryPathChart {
+    min-height: 580px;
+}
+
+/* 图表读图提示 */
 .m4-lower-panel {
-    display: grid;
-    grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 10px;
-}
-
-.m4-lower-panel div {
-    padding: 12px 14px;
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    background: var(--card-bg);
-}
-
-.m4-lower-panel h4 {
-    margin: 0 0 5px;
-    font-size: 13px;
-    color: var(--text-primary);
-}
-
-.m4-lower-panel p {
-    margin: 0;
+    display: flex;
+    align-items: flex-start;
+    gap: 12px;
+    margin-top: -4px;
+    padding: 8px 12px;
+    border-top: 1px solid var(--border);
     color: var(--text-muted);
-    font-size: 12px;
+    font-size: 11px;
     line-height: 1.5;
+}
+
+.m4-lower-panel strong {
+    flex: 0 0 auto;
+    color: var(--text-primary);
+    font-size: 11px;
+    white-space: nowrap;
+}
+
+.m4-lower-panel span {
+    position: relative;
+    flex: 1 1 0;
+    min-width: 0;
+}
+
+.m4-lower-panel span + span {
+    padding-left: 12px;
+    border-left: 1px solid var(--border);
 }
 
 /* Tooltip */
@@ -1431,12 +1485,13 @@ body {
 /* 响应式 */
 @media (max-width: 1100px) {
     .m4-viz-body { grid-template-columns: 1fr; }
-    .m4-controls-aside { flex-direction: row; flex-wrap: wrap; }
+    .m4-controls-aside { position: static; flex-direction: row; flex-wrap: wrap; }
     .m4-path-chart-grid { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 700px) {
     .m4-mode-bar { flex-direction: column; align-items: stretch; }
-    .m4-lower-panel { grid-template-columns: 1fr; }
+    .m4-lower-panel { flex-direction: column; gap: 7px; }
+    .m4-lower-panel span + span { padding-left: 0; border-left: 0; }
     .m4-metric-panel { grid-template-columns: 1fr; }
 }
