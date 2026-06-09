@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>全球知识生产的规律洞察</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=20260609-m4-layout-final">
     <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
 </head>
@@ -337,15 +337,12 @@
         <section id="section-trajectory" class="narrative-section viz-section">
             <div class="section-divider fade-up"><span>第三章</span></div>
             <div class="prose-block fade-up delay-1">
-                <h2>国家科研结构的发展路径</h2>
-                <p>知道了学科的三个集群之后，下一个问题是：<strong>各国能顺利推动学科进步吗？</strong></p>
-                <p>把每个国家的科研版图，按三大集群的占比投射到一个三角形里——靠近某个顶点，意味着该国的研究高度集中于那个集群；越靠近中心，代表三类学科越均衡。每一条箭头，就是一个国家在五年间走过的轨迹。</p>
-                <p>研究团队发现了一个规律，叫做<strong>"关联性原则"</strong>——你只能去你已经涉足的领域的"邻居"。一个只研究昆虫学和农业的国家，它能够涉及的其他学科大多也在自然集群里；它几乎没有途径直接跳到物理或社会集群的核心地带。
-                </p>
-                <p>模型预测，如果只靠关联性驱动，所有国家最终都应该向三角形中心移动，实现均衡。但实际上，<strong>低收入国家的路径，几乎原地不动。</strong>它们被困在自然集群的角落——因为缺少足够"邻近"的关联学科，它们没有途径来拓展学科发展。
-                </p>
-                <p>相比之下，中国的轨迹格外引人注目：从物理集群快速向中心均衡推进，科研版图持续拓宽。而许多非洲国家的箭头几乎静止。<strong>利用收入组筛选，可以看到一幅各国的发展路径图。</strong>
-                </p>
+                <h2>国家科学发展路径</h2>
+                <p>知道了学科的三个集群之后，下一个问题是：<strong>各国的科研结构会沿着什么方向变化？</strong></p>
+                <p>这里把每个国家的优势学科结构投射到一个三元空间中。靠近某个顶点，表示该国的优势更集中于对应的学科社区；靠近中心，则表示三类社区之间更加均衡。</p>
+                <p>全球格局视图同时给出地理分布和三元分布：地图展示不同国家当前时期的主导社区，三元图展示各国在同一结构空间中的相对位置。切换时间区间，可以观察这种结构分布如何随时间变化。</p>
+                <p>国家发展路径视图进一步比较两类轨迹：一类是观测到的实际移动，另一类是基于学科邻近性的模型预测。二者的差异可以用来观察某个国家的发展是否大体沿着既有知识邻近关系推进。</p>
+                <p>需要注意的是，图中位置反映的是相对科研结构，不等同于科研规模或绝对实力。对论文量很低的国家或地区，RCA 可能受小样本影响而出现较大波动，应结合总论文数一起解读。</p>
             </div>
 
             <!-- 状态条 -->
@@ -385,11 +382,6 @@
                             <label><input id="m4-showLabels" type="checkbox"> 典型国家标注</label>
                         </div>
                     </div>
-                    <!-- 路径模式：国家选择 -->
-                    <div class="m4-path-only" style="display:none">
-                        <label for="m4-countrySelect" class="m4-control-title">国家</label>
-                        <select id="m4-countrySelect"></select>
-                    </div>
                     <!-- 路径模式：轨迹图层 -->
                     <div class="m4-path-only" style="display:none">
                         <span class="m4-control-title">轨迹图层</span>
@@ -400,7 +392,8 @@
                     </div>
                     <!-- 路径模式：国家指标 -->
                     <div class="m4-path-only" style="display:none">
-                        <span class="m4-control-title">国家详情</span>
+                        <label for="m4-countrySelect" class="m4-control-title">国家详情</label>
+                        <select id="m4-countrySelect" class="m4-country-select"></select>
                         <div id="m4-metricPanel" class="m4-metric-panel"></div>
                     </div>
                 </div>
@@ -440,36 +433,20 @@
                         <div id="m4-pathChartGrid" class="m4-path-chart-grid m4-path-only" style="display:none">
                             <div class="m4-path-chart-panel">
                                 <div class="m4-path-chart-heading">
-                                    <h3>全球平均发展流场</h3>
-                                    <p>同一空间网格内所有国家与时期的移动均值。</p>
-                                </div>
-                                <svg id="m4-flowChart" role="img" aria-label="全球科学发展平均流场图"></svg>
-                            </div>
-                            <div class="m4-path-chart-panel">
-                                <div class="m4-path-chart-heading">
                                     <h3 id="m4-countryPathTitle">国家发展轨迹</h3>
-                                    <p>编号表示时期先后，紫色虚线表示模型预测。</p>
+                                    <p>编号表示时期先后；紫色虚线表示模型预测，用来和真实移动对照。</p>
                                 </div>
                                 <svg id="m4-countryPathChart" role="img" aria-label="单个国家科学发展轨迹图"></svg>
                             </div>
+                            <div class="m4-path-chart-panel">
+                                <div class="m4-path-chart-heading">
+                                    <h3>全球平均发展流场</h3>
+                                    <p>汇总相近位置上的国家移动方向，作为所选国家轨迹的全局参照。</p>
+                                </div>
+                                <svg id="m4-flowChart" role="img" aria-label="全球科学发展平均流场图"></svg>
+                            </div>
                         </div>
                         <div id="m4-tooltip" class="m4-tooltip"></div>
-                    </div>
-
-                    <!-- 说明面板 -->
-                    <div class="m4-lower-panel">
-                        <div>
-                            <h4>怎么读这张图</h4>
-                            <p>越靠近某个顶点，该国研究越集中于该集群；越靠近中心，三类学科越均衡多元。</p>
-                        </div>
-                        <div>
-                            <h4>实线 vs 虚线</h4>
-                            <p>实线是实际轨迹；虚线是"只靠知识邻近驱动"的模型预测——看看现实与理想偏离多远。</p>
-                        </div>
-                        <div>
-                            <h4>最关键的发现</h4>
-                            <p>低收入国家被"困"在自然集群；中国是从物理集群向中心推进最快的国家之一。</p>
-                        </div>
                     </div>
                 </div>
             </div>
@@ -649,7 +626,7 @@
     <script src="app.js"></script> <!-- 全局命名空间 + 共享数据 + 启动 -->
     <script src="member2.js"></script> <!-- 成员2: 世界地图 -->
     <script src="member3.js"></script> <!-- 成员3: 学科网络 -->
-    <script src="member4.js"></script> <!-- 成员4: 发展路径（升级版：含地图+流场+国家轨迹） -->
+    <script src="member4.js?v=20260609-m4-layout-final"></script> <!-- 成员4: 发展路径（升级版：含地图+流场+国家轨迹） -->
     <script src="member5.js"></script> <!-- 成员5: 结构演变 Plotly -->
 
     <!-- ===== Scroll-in 进场动画 ===== -->
