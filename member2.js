@@ -139,7 +139,7 @@ App.countryMap = (function() {
     }
 
     // 最小论文数阈值：过滤样本过小的国家/地区，避免极端RCA值
-    var MIN_PAPERS_THRESHOLD = 100;
+    var MIN_PAPERS_THRESHOLD = 1000;
 
     function getCountryColor(properties) {
         const cName = normalizeCountryName(properties.NAME || properties.name);
