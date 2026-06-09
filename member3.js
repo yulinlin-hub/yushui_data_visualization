@@ -146,7 +146,7 @@ App.disciplineNetwork = (function() {
         state.currentSvg = svgEl;
 
         const g = svgEl.append('g');
-        g.append('rect').attr('width', width).attr('height', height).attr('fill', '#fdfdfb');
+        g.append('rect').attr('width', width).attr('height', height).attr('fill', '#fdfdfb').style('pointer-events', 'none');
 
         const zoomBehavior = d3.zoom()
             .scaleExtent([0.15, 4])
