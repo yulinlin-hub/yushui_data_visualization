@@ -93,11 +93,11 @@ App.developmentPath = (function () {
     return ordered[0];
   }
 
-  function getChartGeometry(targetSvg) {
+  function getChartGeometry(targetSvg, options = {}) {
     const node = targetSvg.node();
-    const width = Math.max(720, node.clientWidth || 920);
-    const height = Math.max(640, node.clientHeight || 720);
-    const margin = { top: 86, right: 96, bottom: 84, left: 96 };
+    const width = Math.max(options.minWidth || 720, node.clientWidth || 920);
+    const height = Math.max(options.minHeight || 560, node.clientHeight || 640);
+    const margin = options.margin || { top: 86, right: 96, bottom: 84, left: 96 };
     const triHeight = Math.sqrt(3) / 2;
     const availableWidth = width - margin.left - margin.right;
     const availableHeight = height - margin.top - margin.bottom;
@@ -372,18 +372,20 @@ App.developmentPath = (function () {
   // ──────────────────────────────────────────────
   function renderMetrics(row) {
     const metricRows = [
-      ["收入组", row?.Income_Group || "Unknown"],
-      ["论文数", cleanMetric(row?.Total_Papers, fmtInteger)],
-      ["科学多样性", cleanMetric(row?.Diversity)],
-      ["GDP", cleanMetric(row?.GDP, d3.format(",.0f"))],
-      ["ECI", cleanMetric(row?.ECI)],
-      ["Natural", row ? fmtPercent(row.Natural) : "缺失"],
-      ["Physical", row ? fmtPercent(row.Physical) : "缺失"],
-      ["Societal", row ? fmtPercent(row.Societal) : "缺失"]
+      { type: "stat", label: "收入组", value: row?.Income_Group || "Unknown" },
+      { type: "stat", label: "论文数", value: cleanMetric(row?.Total_Papers, fmtInteger) },
+      { type: "stat", label: "科学多样性", value: cleanMetric(row?.Diversity) },
+      { type: "stat", label: "GDP", value: cleanMetric(row?.GDP, d3.format(",.0f")) },
+      { type: "share", label: "Natural", value: row ? fmtPercent(row.Natural) : "缺失", raw: row?.Natural || 0, color: clusterColors.Natural },
+      { type: "share", label: "Physical", value: row ? fmtPercent(row.Physical) : "缺失", raw: row?.Physical || 0, color: clusterColors.Physical },
+      { type: "share", label: "Societal", value: row ? fmtPercent(row.Societal) : "缺失", raw: row?.Societal || 0, color: clusterColors.Societal }
     ];
     d3.select("#m4-metricPanel")
-      .selectAll(".m4-metric").data(metricRows).join("div").attr("class", "m4-metric")
-      .html(([label, value]) => `<span>${label}</span><strong>${value}</strong>`);
+      .selectAll(".m4-metric").data(metricRows).join("div")
+      .attr("class", d => `m4-metric ${d.type === "share" ? "m4-metric-share" : ""}`)
+      .html(d => d.type === "share"
+        ? `<div class="m4-share-row"><span>${d.label}</span><strong>${d.value}</strong></div><i style="--m4-share:${Math.max(0, Math.min(1, d.raw))};--m4-color:${d.color}"></i>`
+        : `<span>${d.label}</span><strong>${d.value}</strong>`);
   }
 
   // ──────────────────────────────────────────────
@@ -582,8 +584,9 @@ App.developmentPath = (function () {
     const selectedCurrent = selectedAtInterval || selectedRows[selectedRows.length - 1];
 
     if (state.mode === "path") {
-      const flowGeo = getChartGeometry(flowSvg);
-      const countryGeo = getChartGeometry(countryPathSvg);
+      const pathMargin = { top: 58, right: 54, bottom: 54, left: 54 };
+      const flowGeo = getChartGeometry(flowSvg, { minWidth: 420, minHeight: 520, margin: pathMargin });
+      const countryGeo = getChartGeometry(countryPathSvg, { minWidth: 520, minHeight: 560, margin: pathMargin });
       flowSvg.attr("viewBox", `0 0 ${flowGeo.width} ${flowGeo.height}`);
       countryPathSvg.attr("viewBox", `0 0 ${countryGeo.width} ${countryGeo.height}`);
       const flowRoot = flowSvg.append("g");
@@ -639,7 +642,7 @@ App.developmentPath = (function () {
       mode: "global",
       country: data.countries.includes("China") ? "China" : data.countries[0],
       intervalIndex: data.intervals.length - 1,
-      incomeGroups: new Set(data.income_groups.filter(g => g !== "Unknown")),
+      incomeGroups: new Set(data.income_groups),
       showActual: true,
       showPredicted: true,
       showDensity: true,
