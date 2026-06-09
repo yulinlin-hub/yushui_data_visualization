@@ -306,7 +306,8 @@ App.countryMap = (function() {
             case 'binary':
                 html = `<div class="legend-item"><div class="legend-color" style="background:#2c7a4e"></div><span>有优势 (RCA > 1)</span></div><div class="legend-item"><div class="legend-color" style="background:#e8e8e0"></div><span>无优势 / 无数据</span></div>`; break;
             case 'papers':
-                html = `<div class="legend-gradient-container"><div class="legend-gradient" style="background:linear-gradient(to right,#3b1382,#6a00ff,#00d4aa,#ffff00,#ff0000)"></div><div class="legend-labels"><span>&lt;1K</span><span>10K</span><span>100K</span><span>&gt;1M</span></div></div>`; break;
+                html = `<div class="legend-gradient-container"><div class="legend-gradient" style="background:linear-gradient(to right,#3b1382,#6a00ff,#00d4aa,#ffff00,#ff0000)"></div><div class="legend-labels"><span>&lt;1K</span><span>10K</span><span>100K</span><span>&gt;1M</span></div></div>
+                <div class="legend-item"><div class="legend-color" style="background:#e5e5e0"></div><span>出版物 &lt; 1000 篇（样本不足）</span></div>`; break;
             case 'diversity':
                 html = `<div class="legend-gradient-container"><div class="legend-gradient" style="background:linear-gradient(to right,#0d0887,#6a00a8,#b12a90,#e16462,#fca636,#f0f921)"></div><div class="legend-labels"><span>0%</span><span>25%</span><span>50%</span><span>75%</span><span>100%</span></div></div>`; break;
         }
