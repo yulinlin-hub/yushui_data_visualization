@@ -4,9 +4,7 @@
 
 ## 部署链接
 
-https://imkdpku.github.io/Data-Visualization-2026-Spring/
-
-> 需在仓库 Settings → Pages 中将 Source 分支设为 `group-19` 后生效。
+https://yulinlin-hub.github.io/yushui_data_visualization/
 
 ## 项目人员
 
